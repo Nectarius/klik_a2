@@ -1,0 +1,10226 @@
+[
+  {
+    "id": 1,
+    "letter": "Α",
+    "greek": "αβγό, το",
+    "english": "egg"
+  },
+  {
+    "id": 2,
+    "letter": "Α",
+    "greek": "αγαπάω, -ώ",
+    "english": "to love"
+  },
+  {
+    "id": 3,
+    "letter": "Α",
+    "greek": "αγάπη, η",
+    "english": "love"
+  },
+  {
+    "id": 4,
+    "letter": "Α",
+    "greek": "αγαπημέν-ος, -η, -ο",
+    "english": "favorite, beloved, dear"
+  },
+  {
+    "id": 5,
+    "letter": "Α",
+    "greek": "αγγελία, η",
+    "english": "announcement, advertisment"
+  },
+  {
+    "id": 6,
+    "letter": "Α",
+    "greek": "Αγγλία, η",
+    "english": "England"
+  },
+  {
+    "id": 7,
+    "letter": "Α",
+    "greek": "αγγλική γλώσσα, η (/αγγλικά, τα)",
+    "english": "English"
+  },
+  {
+    "id": 8,
+    "letter": "Α",
+    "greek": "Άγγλος, ο / Αγγλίδα, η",
+    "english": "English(man/woman)"
+  },
+  {
+    "id": 9,
+    "letter": "Α",
+    "greek": "αγγούρι, το",
+    "english": "cucumber"
+  },
+  {
+    "id": 10,
+    "letter": "Α",
+    "greek": "άγιος, ο / αγία, η",
+    "english": "saint"
+  },
+  {
+    "id": 11,
+    "letter": "Α",
+    "greek": "αγκαλιά, η",
+    "english": "embrace, hug"
+  },
+  {
+    "id": 12,
+    "letter": "Α",
+    "greek": "αγν-ός, -ή, -ό",
+    "english": "pure, clean"
+  },
+  {
+    "id": 13,
+    "letter": "Α",
+    "greek": "άγνωστ-ος, -η, -ο [adj]",
+    "english": "unknown, unfamiliar"
+  },
+  {
+    "id": 14,
+    "letter": "Α",
+    "greek": "άγνωστος, o / άγνωστη, η [noun]",
+    "english": "stranger"
+  },
+  {
+    "id": 15,
+    "letter": "Α",
+    "greek": "αγορά, η",
+    "english": "market, marketplace"
+  },
+  {
+    "id": 16,
+    "letter": "Α",
+    "greek": "αγοράζω",
+    "english": "to buy"
+  },
+  {
+    "id": 17,
+    "letter": "Α",
+    "greek": "αγόρι, το",
+    "english": "boy"
+  },
+  {
+    "id": 18,
+    "letter": "Α",
+    "greek": "άγρι-ος, -α, -ο [adj]",
+    "english": "wild"
+  },
+  {
+    "id": 19,
+    "letter": "Α",
+    "greek": "άγχος, το [see also αγωνία]",
+    "english": "stress, anxiety, worry"
+  },
+  {
+    "id": 20,
+    "letter": "Α",
+    "greek": "αγώνας, ο",
+    "english": "match, game"
+  },
+  {
+    "id": 21,
+    "letter": "Α",
+    "greek": "αγωνία, η [see also άγχος]",
+    "english": "stress, anxiety, worry"
+  },
+  {
+    "id": 22,
+    "letter": "Α",
+    "greek": "άδεια, η",
+    "english": "leave"
+  },
+  {
+    "id": 23,
+    "letter": "Α",
+    "greek": "άδει-ος, -α, -ο",
+    "english": "empty, vacant"
+  },
+  {
+    "id": 24,
+    "letter": "Α",
+    "greek": "αδερφή, η",
+    "english": "sister"
+  },
+  {
+    "id": 25,
+    "letter": "Α",
+    "greek": "αδερφός, ο",
+    "english": "brother"
+  },
+  {
+    "id": 26,
+    "letter": "Α",
+    "greek": "αδύνατ-ος, -η, -ο",
+    "english": "thin, slim"
+  },
+  {
+    "id": 27,
+    "letter": "Α",
+    "greek": "ΑΕΙ (Ανώτατο Εκπαιδευτικό Ίδρυμα), τo",
+    "english": "Higher Educational Institution"
+  },
+  {
+    "id": 28,
+    "letter": "Α",
+    "greek": "αέρας, ο",
+    "english": "wind"
+  },
+  {
+    "id": 29,
+    "letter": "Α",
+    "greek": "έχει αέρα",
+    "english": "it is windy"
+  },
+  {
+    "id": 30,
+    "letter": "Α",
+    "greek": "αεροδρόμιο, το",
+    "english": "airport"
+  },
+  {
+    "id": 31,
+    "letter": "Α",
+    "greek": "αεροπλάνο, το",
+    "english": "airplane"
+  },
+  {
+    "id": 32,
+    "letter": "Α",
+    "greek": "αεροπορικό ταξίδι, το",
+    "english": "airplane travel"
+  },
+  {
+    "id": 33,
+    "letter": "Α",
+    "greek": "Αθανασία, η",
+    "english": "Athanassia"
+  },
+  {
+    "id": 34,
+    "letter": "Α",
+    "greek": "Αθήνα, η",
+    "english": "Athens"
+  },
+  {
+    "id": 35,
+    "letter": "Α",
+    "greek": "άθλημα, το",
+    "english": "sport"
+  },
+  {
+    "id": 36,
+    "letter": "Α",
+    "greek": "αθλητικ-ός, -ή, -ό",
+    "english": "athletic"
+  },
+  {
+    "id": 37,
+    "letter": "Α",
+    "greek": "αθλητικά γεγονότα, τα",
+    "english": "sports events"
+  },
+  {
+    "id": 38,
+    "letter": "Α",
+    "greek": "αθλητικοί αγώνες, οι",
+    "english": "sports games"
+  },
+  {
+    "id": 39,
+    "letter": "Α",
+    "greek": "αθλητισμός, ο",
+    "english": "sports"
+  },
+  {
+    "id": 40,
+    "letter": "Α",
+    "greek": "αίθουσα, η [school]",
+    "english": "classroom"
+  },
+  {
+    "id": 41,
+    "letter": "Α",
+    "greek": "αίθουσα, η [cinema, conference, event]",
+    "english": "hall"
+  },
+  {
+    "id": 42,
+    "letter": "Α",
+    "greek": "αισθάνομαι",
+    "english": "to feel, to sense"
+  },
+  {
+    "id": 43,
+    "letter": "Α",
+    "greek": "αισθηματικ-ός, -ή, -ό",
+    "english": "emotional, sentimental"
+  },
+  {
+    "id": 44,
+    "letter": "Α",
+    "greek": "αίτηση, η",
+    "english": "application, application form"
+  },
+  {
+    "id": 45,
+    "letter": "Α",
+    "greek": "αιτία, η",
+    "english": "cause, reason"
+  },
+  {
+    "id": 46,
+    "letter": "Α",
+    "greek": "ακολουθώ",
+    "english": "to follow"
+  },
+  {
+    "id": 47,
+    "letter": "Α",
+    "greek": "ακόμη [quantitative]",
+    "english": "even, more"
+  },
+  {
+    "id": 48,
+    "letter": "Α",
+    "greek": "ακόμη [temporal]",
+    "english": "yet, still"
+  },
+  {
+    "id": 49,
+    "letter": "Α",
+    "greek": "ακούω",
+    "english": "to hear, to listen to"
+  },
+  {
+    "id": 50,
+    "letter": "Α",
+    "greek": "άκρη, η",
+    "english": "edge, end"
+  },
+  {
+    "id": 51,
+    "letter": "Α",
+    "greek": "ακριβ-ός, -ή, -ό [adj]",
+    "english": "expensive, costly"
+  },
+  {
+    "id": 52,
+    "letter": "Α",
+    "greek": "ακριβώς [adv]",
+    "english": "exactly, precisely"
+  },
+  {
+    "id": 53,
+    "letter": "Α",
+    "greek": "(στις 10) ακριβώς",
+    "english": "(at ten o’clock) sharp"
+  },
+  {
+    "id": 54,
+    "letter": "Α",
+    "greek": "ακτή, η",
+    "english": "beach"
+  },
+  {
+    "id": 55,
+    "letter": "Α",
+    "greek": "αλλά [see also μα, όμως]",
+    "english": "but"
+  },
+  {
+    "id": 56,
+    "letter": "Α",
+    "greek": "αλάτι, το",
+    "english": "salt"
+  },
+  {
+    "id": 57,
+    "letter": "Α",
+    "greek": "Αλέξανδρος, ο",
+    "english": "Alexander"
+  },
+  {
+    "id": 58,
+    "letter": "Α",
+    "greek": "Αλέξανδρος, ο Μέγας",
+    "english": "Alexander the Great"
+  },
+  {
+    "id": 59,
+    "letter": "Α",
+    "greek": "Αλέξης, ο",
+    "english": "Alex"
+  },
+  {
+    "id": 60,
+    "letter": "Α",
+    "greek": "Αλεξία, η",
+    "english": "Alexia"
+  },
+  {
+    "id": 61,
+    "letter": "Α",
+    "greek": "αλεύρι, το",
+    "english": "flour"
+  },
+  {
+    "id": 62,
+    "letter": "Α",
+    "greek": "αλήθεια, η",
+    "english": "truth"
+  },
+  {
+    "id": 63,
+    "letter": "Α",
+    "greek": "αλήθεια [adv; see also αληθινά]",
+    "english": "really"
+  },
+  {
+    "id": 64,
+    "letter": "Α",
+    "greek": "αληθινά [adv; see also αλήθεια]",
+    "english": "really, truly"
+  },
+  {
+    "id": 65,
+    "letter": "Α",
+    "greek": "Αληθώς Ανέστη!",
+    "english": "He is risen indeed!"
+  },
+  {
+    "id": 66,
+    "letter": "Α",
+    "greek": "Αλίκη, η",
+    "english": "Alice"
+  },
+  {
+    "id": 67,
+    "letter": "Α",
+    "greek": "αλλιώς [see also διαφορετικά]",
+    "english": "otherwise, differently"
+  },
+  {
+    "id": 68,
+    "letter": "Α",
+    "greek": "αλλά [see also μα, όμως]",
+    "english": "but"
+  },
+  {
+    "id": 69,
+    "letter": "Α",
+    "greek": "αλλαγή, η",
+    "english": "change"
+  },
+  {
+    "id": 70,
+    "letter": "Α",
+    "greek": "αλλάζω",
+    "english": "to change"
+  },
+  {
+    "id": 71,
+    "letter": "Α",
+    "greek": "άλλ-ος, -η, -ο",
+    "english": "other, another, else"
+  },
+  {
+    "id": 72,
+    "letter": "Α",
+    "greek": "αμέσως",
+    "english": "immediately, right away"
+  },
+  {
+    "id": 73,
+    "letter": "Α",
+    "greek": "αμύγδαλο, το",
+    "english": "almond"
+  },
+  {
+    "id": 74,
+    "letter": "Α",
+    "greek": "αν",
+    "english": "if"
+  },
+  {
+    "id": 75,
+    "letter": "Α",
+    "greek": "Αννα, η",
+    "english": "Anna"
+  },
+  {
+    "id": 76,
+    "letter": "Α",
+    "greek": "ανάγκη, η",
+    "english": "need, necessity"
+  },
+  {
+    "id": 77,
+    "letter": "Α",
+    "greek": "ανακατεύω",
+    "english": "to mix, to blend"
+  },
+  {
+    "id": 78,
+    "letter": "Α",
+    "greek": "ανακύκλωση, η",
+    "english": "recycling"
+  },
+  {
+    "id": 79,
+    "letter": "Α",
+    "greek": "ανάληψη χρημάτων, η",
+    "english": "withdrawal"
+  },
+  {
+    "id": 80,
+    "letter": "Α",
+    "greek": "ανάλογα",
+    "english": "depending on, accordingly"
+  },
+  {
+    "id": 81,
+    "letter": "Α",
+    "greek": "αναπαυτικά",
+    "english": "comfortably"
+  },
+  {
+    "id": 82,
+    "letter": "Α",
+    "greek": "αναπνοή, η",
+    "english": "breath, breathing"
+  },
+  {
+    "id": 83,
+    "letter": "Α",
+    "greek": "Αναστασία, η",
+    "english": "Anastasia"
+  },
+  {
+    "id": 84,
+    "letter": "Α",
+    "greek": "ανατολικ-ός, -ή, -ό",
+    "english": "eastern"
+  },
+  {
+    "id": 85,
+    "letter": "Α",
+    "greek": "αναψυκτικό, το",
+    "english": "refreshment, beverage"
+  },
+  {
+    "id": 86,
+    "letter": "Α",
+    "greek": "ανεβαίνω",
+    "english": "to rise, to climb, to get on"
+  },
+  {
+    "id": 87,
+    "letter": "Α",
+    "greek": "ανεβαίνει μια θεατρική παράσταση",
+    "english": "a play is put on"
+  },
+  {
+    "id": 88,
+    "letter": "Α",
+    "greek": "άνθρωπος, ο",
+    "english": "human, human being, person"
+  },
+  {
+    "id": 89,
+    "letter": "Α",
+    "greek": "ανιψιός, ο",
+    "english": "nephew"
+  },
+  {
+    "id": 90,
+    "letter": "Α",
+    "greek": "ανιψιά, η",
+    "english": "niece"
+  },
+  {
+    "id": 91,
+    "letter": "Α",
+    "greek": "ανακατεμέν-ος, -η, -ο",
+    "english": "mixed, blended"
+  },
+  {
+    "id": 92,
+    "letter": "Α",
+    "greek": "άνεμος, ο",
+    "english": "wind"
+  },
+  {
+    "id": 93,
+    "letter": "Α",
+    "greek": "άνεργος, o / άνεργη, η [n/adj]",
+    "english": "unemployed"
+  },
+  {
+    "id": 94,
+    "letter": "Α",
+    "greek": "άνεση, η",
+    "english": "comfort"
+  },
+  {
+    "id": 95,
+    "letter": "Α",
+    "greek": "αξεσουάρ, το",
+    "english": "accessory"
+  },
+  {
+    "id": 96,
+    "letter": "Α",
+    "greek": "αξιοθέατο, το",
+    "english": "sight, attraction"
+  },
+  {
+    "id": 97,
+    "letter": "Α",
+    "greek": "Άννα, η",
+    "english": "Anna"
+  },
+  {
+    "id": 98,
+    "letter": "Α",
+    "greek": "ανοίγω",
+    "english": "to open"
+  },
+  {
+    "id": 99,
+    "letter": "Α",
+    "greek": "άνοιξη, η",
+    "english": "spring"
+  },
+  {
+    "id": 100,
+    "letter": "Α",
+    "greek": "ανοιχτ-ός, -ή, -ό",
+    "english": "open"
+  },
+  {
+    "id": 101,
+    "letter": "Α",
+    "greek": "αντίθετ-ος, -η, -ο",
+    "english": "opposite"
+  },
+  {
+    "id": 102,
+    "letter": "Α",
+    "greek": "αντικείμενο, το [see also πράγμα]",
+    "english": "object, thing"
+  },
+  {
+    "id": 103,
+    "letter": "Α",
+    "greek": "άντρας, ο",
+    "english": "man"
+  },
+  {
+    "id": 104,
+    "letter": "Α",
+    "greek": "άντρας, ο (σύζυγος)",
+    "english": "husband"
+  },
+  {
+    "id": 105,
+    "letter": "Α",
+    "greek": "αντρικ-ός, -ή, -ό",
+    "english": "male"
+  },
+  {
+    "id": 106,
+    "letter": "Α",
+    "greek": "Αντώνης, o",
+    "english": "Anthony"
+  },
+  {
+    "id": 107,
+    "letter": "Α",
+    "greek": "απαντάω, -ώ",
+    "english": "to answer, to respond, to reply"
+  },
+  {
+    "id": 108,
+    "letter": "Α",
+    "greek": "απάντηση, η",
+    "english": "answer, respond, reply"
+  },
+  {
+    "id": 109,
+    "letter": "Α",
+    "greek": "απαραίτητ-ος, -η, -ο",
+    "english": "necessary, essential, required"
+  },
+  {
+    "id": 110,
+    "letter": "Α",
+    "greek": "απέναντι",
+    "english": "across, opposite"
+  },
+  {
+    "id": 111,
+    "letter": "Α",
+    "greek": "απλ-ός, -ή, -ό",
+    "english": "simple, plain"
+  },
+  {
+    "id": 112,
+    "letter": "Α",
+    "greek": "απλό εισιτήριο",
+    "english": "one way ticket"
+  },
+  {
+    "id": 113,
+    "letter": "Α",
+    "greek": "απλώνω",
+    "english": "to spread"
+  },
+  {
+    "id": 114,
+    "letter": "Α",
+    "greek": "από",
+    "english": "from, since"
+  },
+  {
+    "id": 115,
+    "letter": "Α",
+    "greek": "από μέσα/έξω",
+    "english": "from inside/outside"
+  },
+  {
+    "id": 116,
+    "letter": "Α",
+    "greek": "από τότε",
+    "english": "since then"
+  },
+  {
+    "id": 117,
+    "letter": "Α",
+    "greek": "απόγευμα, το",
+    "english": "afternoon, evening"
+  },
+  {
+    "id": 118,
+    "letter": "Α",
+    "greek": "απογευματιν-ός, -ή, -ό",
+    "english": "afternoon, evening"
+  },
+  {
+    "id": 119,
+    "letter": "Α",
+    "greek": "αποθήκη, η",
+    "english": "storage room"
+  },
+  {
+    "id": 120,
+    "letter": "Α",
+    "greek": "αποκτώ",
+    "english": "to have, to obtain"
+  },
+  {
+    "id": 121,
+    "letter": "Α",
+    "greek": "Απόκριες, οι",
+    "english": "Carnival time / Halloween"
+  },
+  {
+    "id": 122,
+    "letter": "Α",
+    "greek": "αποτέλεσμα, το",
+    "english": "result"
+  },
+  {
+    "id": 123,
+    "letter": "Α",
+    "greek": "απόφαση, η",
+    "english": "decision"
+  },
+  {
+    "id": 124,
+    "letter": "Α",
+    "greek": "αποφασίζω",
+    "english": "to decide, to make up my mind"
+  },
+  {
+    "id": 125,
+    "letter": "Α",
+    "greek": "απορρυπαντικό, το",
+    "english": "detergent"
+  },
+  {
+    "id": 126,
+    "letter": "Α",
+    "greek": "αργά [adv]",
+    "english": "late"
+  },
+  {
+    "id": 127,
+    "letter": "Α",
+    "greek": "αργ-ός, -ή, -ό",
+    "english": "slow"
+  },
+  {
+    "id": 128,
+    "letter": "Α",
+    "greek": "αργώ",
+    "english": "to be late"
+  },
+  {
+    "id": 129,
+    "letter": "Α",
+    "greek": "(μου) αρέσει",
+    "english": "to like"
+  },
+  {
+    "id": 130,
+    "letter": "Α",
+    "greek": "άρθρο, το",
+    "english": "article"
+  },
+  {
+    "id": 131,
+    "letter": "Α",
+    "greek": "αριθμός, ο",
+    "english": "number"
+  },
+  {
+    "id": 132,
+    "letter": "Α",
+    "greek": "αρκετ-ός, -ή, -ό",
+    "english": "enough, plenty"
+  },
+  {
+    "id": 133,
+    "letter": "Α",
+    "greek": "αριστερά [adv]",
+    "english": "(to the) left"
+  },
+  {
+    "id": 134,
+    "letter": "Α",
+    "greek": "αρνητικά [adv]",
+    "english": "negatively"
+  },
+  {
+    "id": 135,
+    "letter": "Α",
+    "greek": "αρνί, το",
+    "english": "lamb"
+  },
+  {
+    "id": 136,
+    "letter": "Α",
+    "greek": "αρχαία ελληνικά, τα [school subject]",
+    "english": "ancient greek"
+  },
+  {
+    "id": 137,
+    "letter": "Α",
+    "greek": "αρχαιότητα, η",
+    "english": "antiquity, ancient times"
+  },
+  {
+    "id": 138,
+    "letter": "Α",
+    "greek": "αρχή, η",
+    "english": "beginning, start"
+  },
+  {
+    "id": 139,
+    "letter": "Α",
+    "greek": "αρχιτέκτονας, ο/η",
+    "english": "architect"
+  },
+  {
+    "id": 140,
+    "letter": "Α",
+    "greek": "αρχίζω",
+    "english": "to begin, to start"
+  },
+  {
+    "id": 141,
+    "letter": "Α",
+    "greek": "άρρωστ-ος, -η, -ο",
+    "english": "ill, sick"
+  },
+  {
+    "id": 142,
+    "letter": "Α",
+    "greek": "ασανσέρ, το",
+    "english": "lift, elevator"
+  },
+  {
+    "id": 143,
+    "letter": "Α",
+    "greek": "ασθενής άνεμος, ο",
+    "english": "mild wind"
+  },
+  {
+    "id": 144,
+    "letter": "Α",
+    "greek": "άσκηση, η",
+    "english": "exercise, task"
+  },
+  {
+    "id": 145,
+    "letter": "Α",
+    "greek": "άσπρ-ος, -η, -ο",
+    "english": "white"
+  },
+  {
+    "id": 146,
+    "letter": "Α",
+    "greek": "αστεί-ος, -α, -ο",
+    "english": "funny"
+  },
+  {
+    "id": 147,
+    "letter": "Α",
+    "greek": "αστράφτω",
+    "english": "to sparkle"
+  },
+  {
+    "id": 148,
+    "letter": "Α",
+    "greek": "αστράφτει [weather]",
+    "english": "it’s lightning"
+  },
+  {
+    "id": 149,
+    "letter": "Α",
+    "greek": "αστυνομία, η",
+    "english": "police"
+  },
+  {
+    "id": 150,
+    "letter": "Α",
+    "greek": "αστυνομικός, ο/η",
+    "english": "policeman/woman"
+  },
+  {
+    "id": 151,
+    "letter": "Α",
+    "greek": "ασφάλεια, η",
+    "english": "safety, security"
+  },
+  {
+    "id": 152,
+    "letter": "Α",
+    "greek": "άσχημα",
+    "english": "badly"
+  },
+  {
+    "id": 153,
+    "letter": "Α",
+    "greek": "άσχημ-ος, -η, -ο",
+    "english": "ugly"
+  },
+  {
+    "id": 154,
+    "letter": "Α",
+    "greek": "ασχολία, η",
+    "english": "occupation, diversion, hobby"
+  },
+  {
+    "id": 155,
+    "letter": "Α",
+    "greek": "TΕΙ (Τεχνολογικό Εκπαιδευτικό ‘Ιδρυμα), τo",
+    "english": "Technological Educational Institution"
+  },
+  {
+    "id": 156,
+    "letter": "Α",
+    "greek": "ΑΤΜ (Αυτόματο Μηχάνημα Ανάληψης Μετρητών), το",
+    "english": "Automated Teller Machine / Automatic Transaction Machine"
+  },
+  {
+    "id": 157,
+    "letter": "Α",
+    "greek": "άτομο, το [human being]",
+    "english": "person"
+  },
+  {
+    "id": 158,
+    "letter": "Α",
+    "greek": "ατυχία, η",
+    "english": "misfortune"
+  },
+  {
+    "id": 159,
+    "letter": "Α",
+    "greek": "Αύγουστος, ο",
+    "english": "August"
+  },
+  {
+    "id": 160,
+    "letter": "Α",
+    "greek": "αυλή, η",
+    "english": "yard"
+  },
+  {
+    "id": 161,
+    "letter": "Α",
+    "greek": "αύριο",
+    "english": "tomorrow"
+  },
+  {
+    "id": 162,
+    "letter": "Α",
+    "greek": "αυτ-οί, -ές, -ά",
+    "english": "these, they"
+  },
+  {
+    "id": 163,
+    "letter": "Α",
+    "greek": "αυτοκίνητο, το",
+    "english": "car"
+  },
+  {
+    "id": 164,
+    "letter": "Α",
+    "greek": "αυτ-ός, -ή, -ό [for persons]",
+    "english": "he, she, it"
+  },
+  {
+    "id": 165,
+    "letter": "Α",
+    "greek": "αυτ-ός, -ή, -ό [not for persons]",
+    "english": "this"
+  },
+  {
+    "id": 166,
+    "letter": "Α",
+    "greek": "αφεντικό, το",
+    "english": "boss"
+  },
+  {
+    "id": 167,
+    "letter": "Α",
+    "greek": "αφετηρία, η",
+    "english": "start, beginning, start line"
+  },
+  {
+    "id": 168,
+    "letter": "Α",
+    "greek": "αφετηρία λεωφορείου, η",
+    "english": "bus starting point"
+  },
+  {
+    "id": 169,
+    "letter": "Α",
+    "greek": "αφήνω",
+    "english": "to leave, to let go"
+  },
+  {
+    "id": 170,
+    "letter": "Α",
+    "greek": "αφίσα, η",
+    "english": "poster"
+  },
+  {
+    "id": 171,
+    "letter": "Α",
+    "greek": "ας",
+    "english": "let(s)"
+  },
+  {
+    "id": 172,
+    "letter": "Β",
+    "greek": "βάζω",
+    "english": "to put"
+  },
+  {
+    "id": 173,
+    "letter": "Β",
+    "greek": "βάζω βάρος",
+    "english": "to gain weight"
+  },
+  {
+    "id": 174,
+    "letter": "Β",
+    "greek": "βαθμός, ο",
+    "english": "grade, degree"
+  },
+  {
+    "id": 175,
+    "letter": "Β",
+    "greek": "βαλίτσα, η",
+    "english": "suitcase"
+  },
+  {
+    "id": 176,
+    "letter": "Β",
+    "greek": "βαμβάκι, το",
+    "english": "cotton"
+  },
+  {
+    "id": 177,
+    "letter": "Β",
+    "greek": "βαρετ-ός, -ή, -ό",
+    "english": "boring"
+  },
+  {
+    "id": 178,
+    "letter": "Β",
+    "greek": "βάση, η",
+    "english": "base"
+  },
+  {
+    "id": 179,
+    "letter": "Β",
+    "greek": "βασικ-ός, -ή, -ό",
+    "english": "basic, main"
+  },
+  {
+    "id": 180,
+    "letter": "Β",
+    "greek": "Βασίλης, ο",
+    "english": "Vassilis"
+  },
+  {
+    "id": 181,
+    "letter": "Β",
+    "greek": "Βασιλική, η",
+    "english": "Vassiliki"
+  },
+  {
+    "id": 182,
+    "letter": "Β",
+    "greek": "βασιλικός, ο",
+    "english": "basil"
+  },
+  {
+    "id": 183,
+    "letter": "Β",
+    "greek": "Βάσω, η",
+    "english": "Vasso"
+  },
+  {
+    "id": 184,
+    "letter": "Β",
+    "greek": "βάφω",
+    "english": "to paint, to dye"
+  },
+  {
+    "id": 185,
+    "letter": "Β",
+    "greek": "βάφτιση, η",
+    "english": "christening"
+  },
+  {
+    "id": 186,
+    "letter": "Β",
+    "greek": "βγάζω",
+    "english": "to take out, to take off"
+  },
+  {
+    "id": 187,
+    "letter": "Β",
+    "greek": "βγαίνω",
+    "english": "to get out, to go out"
+  },
+  {
+    "id": 188,
+    "letter": "Β",
+    "greek": "(ε)βδομάδα, η",
+    "english": "week"
+  },
+  {
+    "id": 189,
+    "letter": "Β",
+    "greek": "βέβαια",
+    "english": "of course, certainly"
+  },
+  {
+    "id": 190,
+    "letter": "Β",
+    "greek": "βεβαιώνω",
+    "english": "to confirm, to affirm"
+  },
+  {
+    "id": 191,
+    "letter": "Β",
+    "greek": "Βερολίνο, το",
+    "english": "Berlin"
+  },
+  {
+    "id": 192,
+    "letter": "Β",
+    "greek": "βήμα, το",
+    "english": "step"
+  },
+  {
+    "id": 193,
+    "letter": "Β",
+    "greek": "βήχας, ο",
+    "english": "cough"
+  },
+  {
+    "id": 194,
+    "letter": "Β",
+    "greek": "βιβλιάριο τράπεζας, το",
+    "english": "bankbook, passbook"
+  },
+  {
+    "id": 195,
+    "letter": "Β",
+    "greek": "βιβλίο, το",
+    "english": "book"
+  },
+  {
+    "id": 196,
+    "letter": "Β",
+    "greek": "βιβλιοθήκη, η [furniture]",
+    "english": "bookcase"
+  },
+  {
+    "id": 197,
+    "letter": "Β",
+    "greek": "βιβλιοθήκη, η [room, building]",
+    "english": "library"
+  },
+  {
+    "id": 198,
+    "letter": "Β",
+    "greek": "βιβλιοπωλείο, το",
+    "english": "bookstore, bookshop"
+  },
+  {
+    "id": 199,
+    "letter": "Β",
+    "greek": "Βίκυ, η",
+    "english": "Vicky"
+  },
+  {
+    "id": 200,
+    "letter": "Β",
+    "greek": "βιογραφικό, το",
+    "english": "curriculum vitae / cv"
+  },
+  {
+    "id": 201,
+    "letter": "Β",
+    "greek": "βλέπω",
+    "english": "to see, to look, to watch"
+  },
+  {
+    "id": 202,
+    "letter": "Β",
+    "greek": "βοηθάω, -ώ",
+    "english": "to help"
+  },
+  {
+    "id": 203,
+    "letter": "Β",
+    "greek": "βοήθεια, η",
+    "english": "help"
+  },
+  {
+    "id": 204,
+    "letter": "Β",
+    "greek": "βόλτα, η",
+    "english": "walk"
+  },
+  {
+    "id": 205,
+    "letter": "Β",
+    "greek": "κάνω βόλτα",
+    "english": "to take a walk"
+  },
+  {
+    "id": 206,
+    "letter": "Β",
+    "greek": "βόρει-ος, -α, -ο",
+    "english": "northern"
+  },
+  {
+    "id": 207,
+    "letter": "Β",
+    "greek": "βουνό, το",
+    "english": "mountain"
+  },
+  {
+    "id": 208,
+    "letter": "Β",
+    "greek": "Βουλγαρία, η",
+    "english": "Bulgaria"
+  },
+  {
+    "id": 209,
+    "letter": "Β",
+    "greek": "βούτυρο, το",
+    "english": "butter"
+  },
+  {
+    "id": 210,
+    "letter": "Β",
+    "greek": "βραδινό, το",
+    "english": "dinner, supper"
+  },
+  {
+    "id": 211,
+    "letter": "Β",
+    "greek": "βράδυ, το",
+    "english": "evening"
+  },
+  {
+    "id": 212,
+    "letter": "Β",
+    "greek": "βραδιά, η",
+    "english": "night, evening"
+  },
+  {
+    "id": 213,
+    "letter": "Β",
+    "greek": "βράζω",
+    "english": "to boil"
+  },
+  {
+    "id": 214,
+    "letter": "Β",
+    "greek": "βραστ-ός, -ή, -ό",
+    "english": "boiled"
+  },
+  {
+    "id": 215,
+    "letter": "Β",
+    "greek": "βρεφονηπιακός σταθμός, ο",
+    "english": "nursery"
+  },
+  {
+    "id": 216,
+    "letter": "Β",
+    "greek": "βρέχει",
+    "english": "it is raining"
+  },
+  {
+    "id": 217,
+    "letter": "Β",
+    "greek": "βρέχομαι",
+    "english": "to get wet"
+  },
+  {
+    "id": 218,
+    "letter": "Β",
+    "greek": "βρίσκω",
+    "english": "to find"
+  },
+  {
+    "id": 219,
+    "letter": "Β",
+    "greek": "βρίσκομαι",
+    "english": "to be located / situated"
+  },
+  {
+    "id": 220,
+    "letter": "Β",
+    "greek": "βρομιά, η",
+    "english": "dirt"
+  },
+  {
+    "id": 221,
+    "letter": "Β",
+    "greek": "βρόμικ-ος, -η, -ο",
+    "english": "dirty"
+  },
+  {
+    "id": 222,
+    "letter": "Β",
+    "greek": "βροχή, η",
+    "english": "rain"
+  },
+  {
+    "id": 223,
+    "letter": "Β",
+    "greek": "βυθός, ο",
+    "english": "seabed"
+  },
+  {
+    "id": 224,
+    "letter": "Γ",
+    "greek": "γάζα, η",
+    "english": "gauze"
+  },
+  {
+    "id": 225,
+    "letter": "Γ",
+    "greek": "γάλα, το",
+    "english": "milk"
+  },
+  {
+    "id": 226,
+    "letter": "Γ",
+    "greek": "γαλακτοκομικ-ός, -ή, -ό",
+    "english": "dairy"
+  },
+  {
+    "id": 227,
+    "letter": "Γ",
+    "greek": "Γαλλία, η",
+    "english": "France"
+  },
+  {
+    "id": 228,
+    "letter": "Γ",
+    "greek": "γαλλική γλώσσα, η (/γαλλικά, τα)",
+    "english": "French"
+  },
+  {
+    "id": 229,
+    "letter": "Γ",
+    "greek": "γαλλικ-ός, -ή, -ό",
+    "english": "French"
+  },
+  {
+    "id": 230,
+    "letter": "Γ",
+    "greek": "Γάλλος, ο / Γαλλίδα, η",
+    "english": "French"
+  },
+  {
+    "id": 231,
+    "letter": "Γ",
+    "greek": "γάμος, ο",
+    "english": "wedding, marriage"
+  },
+  {
+    "id": 232,
+    "letter": "Γ",
+    "greek": "γάντι, το",
+    "english": "glove"
+  },
+  {
+    "id": 233,
+    "letter": "Γ",
+    "greek": "γαρίφαλο, το",
+    "english": "carnation"
+  },
+  {
+    "id": 234,
+    "letter": "Γ",
+    "greek": "γάτα, η",
+    "english": "cat"
+  },
+  {
+    "id": 235,
+    "letter": "Γ",
+    "greek": "γεια",
+    "english": "hi/hello"
+  },
+  {
+    "id": 236,
+    "letter": "Γ",
+    "greek": "γείτονας, ο / γειτόνισσα, η",
+    "english": "neighbour"
+  },
+  {
+    "id": 237,
+    "letter": "Γ",
+    "greek": "γειτονιά, η",
+    "english": "neighbourhood"
+  },
+  {
+    "id": 238,
+    "letter": "Γ",
+    "greek": "γεμάτ-ος, -η, -o",
+    "english": "full"
+  },
+  {
+    "id": 239,
+    "letter": "Γ",
+    "greek": "γεμίζω",
+    "english": "to fill"
+  },
+  {
+    "id": 240,
+    "letter": "Γ",
+    "greek": "γεννάω, -ώ",
+    "english": "to give birth to"
+  },
+  {
+    "id": 241,
+    "letter": "Γ",
+    "greek": "γέννηση, η",
+    "english": "birth"
+  },
+  {
+    "id": 242,
+    "letter": "Γ",
+    "greek": "γενέθλια, τα",
+    "english": "birthday"
+  },
+  {
+    "id": 243,
+    "letter": "Γ",
+    "greek": "Γεράσιμος, ο",
+    "english": "Gerasimos"
+  },
+  {
+    "id": 244,
+    "letter": "Γ",
+    "greek": "Γερμανία, η",
+    "english": "Germany"
+  },
+  {
+    "id": 245,
+    "letter": "Γ",
+    "greek": "γερμανική γλώσσα, η (/γερμανικά, τα)",
+    "english": "German"
+  },
+  {
+    "id": 246,
+    "letter": "Γ",
+    "greek": "γερμανικ-ός, -ή, -ό",
+    "english": "German"
+  },
+  {
+    "id": 247,
+    "letter": "Γ",
+    "greek": "Γερμανός, ο / Γερμανίδα, η",
+    "english": "German"
+  },
+  {
+    "id": 248,
+    "letter": "Γ",
+    "greek": "γερά",
+    "english": "strongly, firmly"
+  },
+  {
+    "id": 249,
+    "letter": "Γ",
+    "greek": "γερ-ός, -ή, -ό",
+    "english": "healthy, strong"
+  },
+  {
+    "id": 250,
+    "letter": "Γ",
+    "greek": "γεύμα, το",
+    "english": "meal"
+  },
+  {
+    "id": 251,
+    "letter": "Γ",
+    "greek": "γεύση, η",
+    "english": "taste"
+  },
+  {
+    "id": 252,
+    "letter": "Γ",
+    "greek": "γήπεδο, το",
+    "english": "playing field"
+  },
+  {
+    "id": 253,
+    "letter": "Γ",
+    "greek": "γι' αυτό",
+    "english": "that’s why"
+  },
+  {
+    "id": 254,
+    "letter": "Γ",
+    "greek": "γιαγιά, η",
+    "english": "grandmother, grandma"
+  },
+  {
+    "id": 255,
+    "letter": "Γ",
+    "greek": "γιαλός, ο",
+    "english": "seashore, seaside, coastline"
+  },
+  {
+    "id": 256,
+    "letter": "Γ",
+    "greek": "Γιάννης, ο",
+    "english": "John"
+  },
+  {
+    "id": 257,
+    "letter": "Γ",
+    "greek": "γιαούρτι, το",
+    "english": "yoghurt"
+  },
+  {
+    "id": 258,
+    "letter": "Γ",
+    "greek": "γιατί [explanatory]",
+    "english": "because"
+  },
+  {
+    "id": 259,
+    "letter": "Γ",
+    "greek": "γιατί [interrogative]",
+    "english": "why"
+  },
+  {
+    "id": 260,
+    "letter": "Γ",
+    "greek": "γιατρός, ο/η",
+    "english": "doctor"
+  },
+  {
+    "id": 261,
+    "letter": "Γ",
+    "greek": "γίνομαι",
+    "english": "to become"
+  },
+  {
+    "id": 262,
+    "letter": "Γ",
+    "greek": "γιος, ο",
+    "english": "son"
+  },
+  {
+    "id": 263,
+    "letter": "Γ",
+    "greek": "γιορτάζω",
+    "english": "to celebrate"
+  },
+  {
+    "id": 264,
+    "letter": "Γ",
+    "greek": "γιορτή, η",
+    "english": "party, feast"
+  },
+  {
+    "id": 265,
+    "letter": "Γ",
+    "greek": "Γιώργος, ο",
+    "english": "George"
+  },
+  {
+    "id": 266,
+    "letter": "Γ",
+    "greek": "γκαράζ, το",
+    "english": "garage"
+  },
+  {
+    "id": 267,
+    "letter": "Γ",
+    "greek": "γλέντι, το",
+    "english": "party"
+  },
+  {
+    "id": 268,
+    "letter": "Γ",
+    "greek": "γλυκ-ός, -ιά, -ό [adj]",
+    "english": "sweet, cute (metaph.)"
+  },
+  {
+    "id": 269,
+    "letter": "Γ",
+    "greek": "γλυκό, το",
+    "english": "sweet, candy, dessert"
+  },
+  {
+    "id": 270,
+    "letter": "Γ",
+    "greek": "γνώμη, η",
+    "english": "opinion"
+  },
+  {
+    "id": 271,
+    "letter": "Γ",
+    "greek": "γλώσσα, η [linguistics]",
+    "english": "language"
+  },
+  {
+    "id": 272,
+    "letter": "Γ",
+    "greek": "γλώσσα μητρική, η",
+    "english": "mother tongue"
+  },
+  {
+    "id": 273,
+    "letter": "Γ",
+    "greek": "Γλώσσα, η [school subject]",
+    "english": "language (Greek, English, etc.)"
+  },
+  {
+    "id": 274,
+    "letter": "Γ",
+    "greek": "γνωρίζω [see also ξέρω]",
+    "english": "to know"
+  },
+  {
+    "id": 275,
+    "letter": "Γ",
+    "greek": "γνωριμία, η",
+    "english": "acquaintance"
+  },
+  {
+    "id": 276,
+    "letter": "Γ",
+    "greek": "γνώση, η",
+    "english": "knowledge"
+  },
+  {
+    "id": 277,
+    "letter": "Γ",
+    "greek": "γνωστ-ός, -ή, -ό",
+    "english": "known"
+  },
+  {
+    "id": 278,
+    "letter": "Γ",
+    "greek": "γνωστ-ός, -ή, -ό [see also διάσημος, επώνυμος]",
+    "english": "(well) known, famous"
+  },
+  {
+    "id": 279,
+    "letter": "Γ",
+    "greek": "γονείς, οι",
+    "english": "parents"
+  },
+  {
+    "id": 280,
+    "letter": "Γ",
+    "greek": "γοργ-ός, ή, -ό [see also γρήγορος]",
+    "english": "quick, fast, rapid, speedy"
+  },
+  {
+    "id": 281,
+    "letter": "Γ",
+    "greek": "γράμμα, το",
+    "english": "letter"
+  },
+  {
+    "id": 282,
+    "letter": "Γ",
+    "greek": "γραμματέας, ο/η",
+    "english": "secretary"
+  },
+  {
+    "id": 283,
+    "letter": "Γ",
+    "greek": "γραμματική, η",
+    "english": "grammar"
+  },
+  {
+    "id": 284,
+    "letter": "Γ",
+    "greek": "γραμματοκιβώτιο, το",
+    "english": "mailbox, letterbox, postbox"
+  },
+  {
+    "id": 285,
+    "letter": "Γ",
+    "greek": "γραμματόσημο, το",
+    "english": "stamp"
+  },
+  {
+    "id": 286,
+    "letter": "Γ",
+    "greek": "γραμμή, η",
+    "english": "line"
+  },
+  {
+    "id": 287,
+    "letter": "Γ",
+    "greek": "γραπτ-ός, -ή, -ό",
+    "english": "written"
+  },
+  {
+    "id": 288,
+    "letter": "Γ",
+    "greek": "γραφείο, το [furniture]",
+    "english": "desk"
+  },
+  {
+    "id": 289,
+    "letter": "Γ",
+    "greek": "γραφείο, το [room, service]",
+    "english": "office"
+  },
+  {
+    "id": 290,
+    "letter": "Γ",
+    "greek": "γράφω",
+    "english": "to write"
+  },
+  {
+    "id": 291,
+    "letter": "Γ",
+    "greek": "γρήγορα [adv]",
+    "english": "fast, quickly"
+  },
+  {
+    "id": 292,
+    "letter": "Γ",
+    "greek": "γρήγορ-ος, -η, -o [see also γοργός]",
+    "english": "quick, fast, rapid, speedy"
+  },
+  {
+    "id": 293,
+    "letter": "Γ",
+    "greek": "Γρηγόρης, o",
+    "english": "Gregory"
+  },
+  {
+    "id": 294,
+    "letter": "Γ",
+    "greek": "γρίπη, η",
+    "english": "flu"
+  },
+  {
+    "id": 295,
+    "letter": "Γ",
+    "greek": "γυαλί, το",
+    "english": "glass"
+  },
+  {
+    "id": 296,
+    "letter": "Γ",
+    "greek": "γυαλιά, τα",
+    "english": "spectacles, eyeglasses"
+  },
+  {
+    "id": 297,
+    "letter": "Γ",
+    "greek": "γυαλιά ηλίου, τα",
+    "english": "sunglasses"
+  },
+  {
+    "id": 298,
+    "letter": "Γ",
+    "greek": "Γυμνάσιο, το",
+    "english": "High school, Secondary school"
+  },
+  {
+    "id": 299,
+    "letter": "Γ",
+    "greek": "γυμναστής, ο / γυμνάστρια, η",
+    "english": "trainer, fitness instructor"
+  },
+  {
+    "id": 300,
+    "letter": "Γ",
+    "greek": "γυμναστήριο, το",
+    "english": "gym"
+  },
+  {
+    "id": 301,
+    "letter": "Γ",
+    "greek": "γυμναστική, η",
+    "english": "exercise, gymnastics"
+  },
+  {
+    "id": 302,
+    "letter": "Γ",
+    "greek": "γυναίκα, η",
+    "english": "woman"
+  },
+  {
+    "id": 303,
+    "letter": "Γ",
+    "greek": "γυρίζω/γυρνάω [to return]",
+    "english": "to come back"
+  },
+  {
+    "id": 304,
+    "letter": "Γ",
+    "greek": "γύρω",
+    "english": "around"
+  },
+  {
+    "id": 305,
+    "letter": "Δ",
+    "greek": "δάσκαλος, ο / δασκάλα, η",
+    "english": "teacher"
+  },
+  {
+    "id": 306,
+    "letter": "Δ",
+    "greek": "δάσος, το",
+    "english": "forest"
+  },
+  {
+    "id": 307,
+    "letter": "Δ",
+    "greek": "δείχνω",
+    "english": "to show"
+  },
+  {
+    "id": 308,
+    "letter": "Δ",
+    "greek": "δέκα",
+    "english": "ten"
+  },
+  {
+    "id": 309,
+    "letter": "Δ",
+    "greek": "δεκαεννιά",
+    "english": "nineteen"
+  },
+  {
+    "id": 310,
+    "letter": "Δ",
+    "greek": "δεκαέξι",
+    "english": "sixteen"
+  },
+  {
+    "id": 311,
+    "letter": "Δ",
+    "greek": "δεκαεπτά",
+    "english": "seventeen"
+  },
+  {
+    "id": 312,
+    "letter": "Δ",
+    "greek": "δεκαοκτώ",
+    "english": "eighteen"
+  },
+  {
+    "id": 313,
+    "letter": "Δ",
+    "greek": "δεκαπέντε",
+    "english": "fifteen"
+  },
+  {
+    "id": 314,
+    "letter": "Δ",
+    "greek": "δεκατέσσερις, δεκατέσσερα",
+    "english": "fourteen"
+  },
+  {
+    "id": 315,
+    "letter": "Δ",
+    "greek": "δέκατ-ος, -η, -ο",
+    "english": "tenth"
+  },
+  {
+    "id": 316,
+    "letter": "Δ",
+    "greek": "δεκατρείς, δεκατρία",
+    "english": "thirteen"
+  },
+  {
+    "id": 317,
+    "letter": "Δ",
+    "greek": "Δεκέμβριος, ο",
+    "english": "December"
+  },
+  {
+    "id": 318,
+    "letter": "Δ",
+    "greek": "ΔΕΗ (Δημόσια Επιχείρηση Ηλεκτρισμού)",
+    "english": "Public Power Corporation SA-Hellas"
+  },
+  {
+    "id": 319,
+    "letter": "Δ",
+    "greek": "δεξιά [adv]",
+    "english": "(to the) right"
+  },
+  {
+    "id": 320,
+    "letter": "Δ",
+    "greek": "ΔΕΠΑ (Δημόσια Επιχείρηση Αερίου ΑΕ)",
+    "english": "Natural Gas Supply Companies"
+  },
+  {
+    "id": 321,
+    "letter": "Δ",
+    "greek": "δερμάτιν-ος, -η, -ο",
+    "english": "leather"
+  },
+  {
+    "id": 322,
+    "letter": "Δ",
+    "greek": "Δέσποινα, η",
+    "english": "Despina/Despoina"
+  },
+  {
+    "id": 323,
+    "letter": "Δ",
+    "greek": "Δευτέρα, η",
+    "english": "Monday"
+  },
+  {
+    "id": 324,
+    "letter": "Δ",
+    "greek": "δεύτερ-ος, -η, -ο",
+    "english": "second"
+  },
+  {
+    "id": 325,
+    "letter": "Δ",
+    "greek": "δηλαδή",
+    "english": "meaning, that is"
+  },
+  {
+    "id": 326,
+    "letter": "Δ",
+    "greek": "Δημαρχείο, το",
+    "english": "city hall, town hall"
+  },
+  {
+    "id": 327,
+    "letter": "Δ",
+    "greek": "δήμαρχος, ο/η",
+    "english": "mayor/mayoress"
+  },
+  {
+    "id": 328,
+    "letter": "Δ",
+    "greek": "Δημήτρης, ο",
+    "english": "Jim/Dimitris"
+  },
+  {
+    "id": 329,
+    "letter": "Δ",
+    "greek": "Δημήτριος, ο",
+    "english": "Dimitrios"
+  },
+  {
+    "id": 330,
+    "letter": "Δ",
+    "greek": "δημητριακά, τα",
+    "english": "cereal"
+  },
+  {
+    "id": 331,
+    "letter": "Δ",
+    "greek": "δήμος, ο",
+    "english": "municipality"
+  },
+  {
+    "id": 332,
+    "letter": "Δ",
+    "greek": "Δημοτικό σχολείο, το",
+    "english": "Elementary/ Primary School"
+  },
+  {
+    "id": 333,
+    "letter": "Δ",
+    "greek": "δημόσι-ος, -α, -ο",
+    "english": "public"
+  },
+  {
+    "id": 334,
+    "letter": "Δ",
+    "greek": "δημοσιογράφος, ο/η",
+    "english": "journalist, reporter"
+  },
+  {
+    "id": 335,
+    "letter": "Δ",
+    "greek": "δημοτικ-ός, -ή, -ό",
+    "english": "municipal"
+  },
+  {
+    "id": 336,
+    "letter": "Δ",
+    "greek": "δηλητηριάζω",
+    "english": "to poison"
+  },
+  {
+    "id": 337,
+    "letter": "Δ",
+    "greek": "δηλητηρίαση, η",
+    "english": "poisoning"
+  },
+  {
+    "id": 338,
+    "letter": "Δ",
+    "greek": "δηλώνω",
+    "english": "to state"
+  },
+  {
+    "id": 339,
+    "letter": "Δ",
+    "greek": "διαβάζω",
+    "english": "to read"
+  },
+  {
+    "id": 340,
+    "letter": "Δ",
+    "greek": "διάβασμα, το",
+    "english": "reading, studying"
+  },
+  {
+    "id": 341,
+    "letter": "Δ",
+    "greek": "διαβατήριο, το",
+    "english": "passport"
+  },
+  {
+    "id": 342,
+    "letter": "Δ",
+    "greek": "διαγράφω",
+    "english": "to delete, to erase"
+  },
+  {
+    "id": 343,
+    "letter": "Δ",
+    "greek": "διαγώνισμα, το",
+    "english": "test"
+  },
+  {
+    "id": 344,
+    "letter": "Δ",
+    "greek": "διαγώνια [adv]",
+    "english": "diagonally"
+  },
+  {
+    "id": 345,
+    "letter": "Δ",
+    "greek": "διαδοχικ-ός, -ή, -ό",
+    "english": "successive, consecutive"
+  },
+  {
+    "id": 346,
+    "letter": "Δ",
+    "greek": "διαδοχικά [adv]",
+    "english": "successively, consecutively"
+  },
+  {
+    "id": 347,
+    "letter": "Δ",
+    "greek": "διαδρομή, η",
+    "english": "way, path, route, itinerary"
+  },
+  {
+    "id": 348,
+    "letter": "Δ",
+    "greek": "διαδικασία, η",
+    "english": "process, procedure"
+  },
+  {
+    "id": 349,
+    "letter": "Δ",
+    "greek": "διαδίκτυο, το",
+    "english": "internet"
+  },
+  {
+    "id": 350,
+    "letter": "Δ",
+    "greek": "διάθεση, η",
+    "english": "mood"
+  },
+  {
+    "id": 351,
+    "letter": "Δ",
+    "greek": "δίαιτα, η",
+    "english": "diet"
+  },
+  {
+    "id": 352,
+    "letter": "Δ",
+    "greek": "διακοπές, οι",
+    "english": "holiday, vacation"
+  },
+  {
+    "id": 353,
+    "letter": "Δ",
+    "greek": "πηγαίνω διακοπές",
+    "english": "to go on holiday/vacation"
+  },
+  {
+    "id": 354,
+    "letter": "Δ",
+    "greek": "διαλέγω",
+    "english": "to choose"
+  },
+  {
+    "id": 355,
+    "letter": "Δ",
+    "greek": "διάλειμμα, το",
+    "english": "break"
+  },
+  {
+    "id": 356,
+    "letter": "Δ",
+    "greek": "διάλογος, ο",
+    "english": "dialogue"
+  },
+  {
+    "id": 357,
+    "letter": "Δ",
+    "greek": "διαμέρισμα, το",
+    "english": "apartment, flat"
+  },
+  {
+    "id": 358,
+    "letter": "Δ",
+    "greek": "διάρκεια, η",
+    "english": "duration, length"
+  },
+  {
+    "id": 359,
+    "letter": "Δ",
+    "greek": "διαρκώ",
+    "english": "to last"
+  },
+  {
+    "id": 360,
+    "letter": "Δ",
+    "greek": "διάσημ-ος, -η, -ο [see also γνωστός, επώνυμος]",
+    "english": "famous, well known"
+  },
+  {
+    "id": 361,
+    "letter": "Δ",
+    "greek": "διασκεδάζω",
+    "english": "to have fun, to enjoy myself, to have a good time"
+  },
+  {
+    "id": 362,
+    "letter": "Δ",
+    "greek": "διασκέδαση, η",
+    "english": "entertainment, fun, amusement"
+  },
+  {
+    "id": 363,
+    "letter": "Δ",
+    "greek": "Kαλή διασκέδαση!",
+    "english": "Have fun! / Enjoy! / Enjoy yourself!"
+  },
+  {
+    "id": 364,
+    "letter": "Δ",
+    "greek": "διάστημα, το [temporal]",
+    "english": "period, time"
+  },
+  {
+    "id": 365,
+    "letter": "Δ",
+    "greek": "διάστημα, το [keyboard, universe]",
+    "english": "space"
+  },
+  {
+    "id": 366,
+    "letter": "Δ",
+    "greek": "διατροφή, η [food]",
+    "english": "nutrition, diet, alimentation"
+  },
+  {
+    "id": 367,
+    "letter": "Δ",
+    "greek": "διατροφή, η [divorce]",
+    "english": "alimony"
+  },
+  {
+    "id": 368,
+    "letter": "Δ",
+    "greek": "διαφημίζω",
+    "english": "to advertise"
+  },
+  {
+    "id": 369,
+    "letter": "Δ",
+    "greek": "διαφήμιση, η",
+    "english": "advertisement, ad"
+  },
+  {
+    "id": 370,
+    "letter": "Δ",
+    "greek": "διαφημιστικ-ός, -ή, -ό",
+    "english": "advertising"
+  },
+  {
+    "id": 371,
+    "letter": "Δ",
+    "greek": "διαφορά, η",
+    "english": "difference"
+  },
+  {
+    "id": 372,
+    "letter": "Δ",
+    "greek": "διαφορετικ-ός, -ή, -ό",
+    "english": "different"
+  },
+  {
+    "id": 373,
+    "letter": "Δ",
+    "greek": "διαφορετικά [see also αλλιώς]",
+    "english": "differently"
+  },
+  {
+    "id": 374,
+    "letter": "Δ",
+    "greek": "διάφορ-ος, -η, -ο",
+    "english": "different, various"
+  },
+  {
+    "id": 375,
+    "letter": "Δ",
+    "greek": "διαφωνώ",
+    "english": "to disagree, to argue"
+  },
+  {
+    "id": 376,
+    "letter": "Δ",
+    "greek": "διευθυντής, ο / διευθύντρια, η",
+    "english": "manager, director"
+  },
+  {
+    "id": 377,
+    "letter": "Δ",
+    "greek": "διεύθυνση, η [post]",
+    "english": "address"
+  },
+  {
+    "id": 378,
+    "letter": "Δ",
+    "greek": "διεύθυνση, η [management]",
+    "english": "direction"
+  },
+  {
+    "id": 379,
+    "letter": "Δ",
+    "greek": "διεύθυνση, η [service]",
+    "english": "administration"
+  },
+  {
+    "id": 380,
+    "letter": "Δ",
+    "greek": "δικηγόρος, ο/η",
+    "english": "lawyer, attorney, sollicitor"
+  },
+  {
+    "id": 381,
+    "letter": "Δ",
+    "greek": "δικ-ός, -ή, -ό / δικ-οί, -ές, -ά μου",
+    "english": "my, mine"
+  },
+  {
+    "id": 382,
+    "letter": "Δ",
+    "greek": "δικ-ός, -ή, -ό / δικ-οί, -ές, -ά σου/σας",
+    "english": "your, yours"
+  },
+  {
+    "id": 383,
+    "letter": "Δ",
+    "greek": "δικ-ός, -ή, -ό / δικ-οί, -ές, -ά του [masc.]",
+    "english": "his"
+  },
+  {
+    "id": 384,
+    "letter": "Δ",
+    "greek": "δικ-ός, -ή, -ό / δικ-οί, -ές, -ά της",
+    "english": "her, hers"
+  },
+  {
+    "id": 385,
+    "letter": "Δ",
+    "greek": "δικ-ός, -ή, -ό / δικ-οί, -ές, -ά του [neutr.]",
+    "english": "its"
+  },
+  {
+    "id": 386,
+    "letter": "Δ",
+    "greek": "δικ-ός, -ή, -ό / δικ-οί, -ές, -ά μας",
+    "english": "our, ours"
+  },
+  {
+    "id": 387,
+    "letter": "Δ",
+    "greek": "δικ-ός, -ή, -ό / δικ-οί, -ές, -ά σας",
+    "english": "your, yours"
+  },
+  {
+    "id": 388,
+    "letter": "Δ",
+    "greek": "δικ-ός, -ή, -ό / δικ-οί, -ές, -ά τους",
+    "english": "their, theirs"
+  },
+  {
+    "id": 389,
+    "letter": "Δ",
+    "greek": "δίκλινο (δωμάτιο), το",
+    "english": "double room"
+  },
+  {
+    "id": 390,
+    "letter": "Δ",
+    "greek": "δίνω",
+    "english": "to give"
+  },
+  {
+    "id": 391,
+    "letter": "Δ",
+    "greek": "δίπλα",
+    "english": "beside, next"
+  },
+  {
+    "id": 392,
+    "letter": "Δ",
+    "greek": "διπλαν-ός, -ή, -ό",
+    "english": "nearby"
+  },
+  {
+    "id": 393,
+    "letter": "Δ",
+    "greek": "διπλ-ός, -ή, -ό",
+    "english": "double"
+  },
+  {
+    "id": 394,
+    "letter": "Δ",
+    "greek": "διορθώνω",
+    "english": "to correct"
+  },
+  {
+    "id": 395,
+    "letter": "Δ",
+    "greek": "δοκιμάζω",
+    "english": "to taste"
+  },
+  {
+    "id": 396,
+    "letter": "Δ",
+    "greek": "δίνομαι",
+    "english": "to be given"
+  },
+  {
+    "id": 397,
+    "letter": "Δ",
+    "greek": "ΔΟΥ (Δημόσια Οικονομική Υπηρεσία)",
+    "english": "Tax Office / Public Fiscal Service"
+  },
+  {
+    "id": 398,
+    "letter": "Δ",
+    "greek": "δουλειά, η",
+    "english": "work"
+  },
+  {
+    "id": 399,
+    "letter": "Δ",
+    "greek": "δουλειές σπιτιού, οι",
+    "english": "housework, housekeeping chores"
+  },
+  {
+    "id": 400,
+    "letter": "Δ",
+    "greek": "δουλεύω",
+    "english": "to work"
+  },
+  {
+    "id": 401,
+    "letter": "Δ",
+    "greek": "Δράμα, η",
+    "english": "Drama"
+  },
+  {
+    "id": 402,
+    "letter": "Δ",
+    "greek": "δραματικ-ός, -ή, -ό",
+    "english": "dramatic"
+  },
+  {
+    "id": 403,
+    "letter": "Δ",
+    "greek": "δραματική ταινία, η",
+    "english": "drama"
+  },
+  {
+    "id": 404,
+    "letter": "Δ",
+    "greek": "δραστηριότητα, η",
+    "english": "activity"
+  },
+  {
+    "id": 405,
+    "letter": "Δ",
+    "greek": "δρόμος, ο",
+    "english": "road, street"
+  },
+  {
+    "id": 406,
+    "letter": "Δ",
+    "greek": "δρομολόγιο, το",
+    "english": "bus/train schedule"
+  },
+  {
+    "id": 407,
+    "letter": "Δ",
+    "greek": "δυάρι, το",
+    "english": "two bedrooms appartment"
+  },
+  {
+    "id": 408,
+    "letter": "Δ",
+    "greek": "δυνατά [adv; in general]",
+    "english": "strongly"
+  },
+  {
+    "id": 409,
+    "letter": "Δ",
+    "greek": "δυνατά [sound]",
+    "english": "loud, loudly"
+  },
+  {
+    "id": 410,
+    "letter": "Δ",
+    "greek": "δυνατ-ός, -ή, -ό",
+    "english": "strong"
+  },
+  {
+    "id": 411,
+    "letter": "Δ",
+    "greek": "δυνατότητα, η",
+    "english": "possibility, potential"
+  },
+  {
+    "id": 412,
+    "letter": "Δ",
+    "greek": "δύο",
+    "english": "two"
+  },
+  {
+    "id": 413,
+    "letter": "Δ",
+    "greek": "δύο φορές",
+    "english": "twice"
+  },
+  {
+    "id": 414,
+    "letter": "Δ",
+    "greek": "και οι δύο",
+    "english": "both"
+  },
+  {
+    "id": 415,
+    "letter": "Δ",
+    "greek": "δύσκολα [adv]",
+    "english": "hardly, barely"
+  },
+  {
+    "id": 416,
+    "letter": "Δ",
+    "greek": "δυσκολία, η",
+    "english": "difficulty, trouble"
+  },
+  {
+    "id": 417,
+    "letter": "Δ",
+    "greek": "δύσκολ-ος, -η, -ο",
+    "english": "difficult"
+  },
+  {
+    "id": 418,
+    "letter": "Δ",
+    "greek": "δυστυχώς [adv]",
+    "english": "unfortunately, sadly"
+  },
+  {
+    "id": 419,
+    "letter": "Δ",
+    "greek": "δωμάτιο, το",
+    "english": "room"
+  },
+  {
+    "id": 420,
+    "letter": "Δ",
+    "greek": "δωρεάν",
+    "english": "free of charge"
+  },
+  {
+    "id": 421,
+    "letter": "Δ",
+    "greek": "δώρο, το",
+    "english": "present"
+  },
+  {
+    "id": 422,
+    "letter": "Ε",
+    "greek": "εαυτός, ο",
+    "english": "self"
+  },
+  {
+    "id": 423,
+    "letter": "Ε",
+    "greek": "εβδομάδα, η",
+    "english": "week"
+  },
+  {
+    "id": 424,
+    "letter": "Ε",
+    "greek": "εβδομήντα",
+    "english": "seventy"
+  },
+  {
+    "id": 425,
+    "letter": "Ε",
+    "greek": "έβδομ-ος, -η, -ο",
+    "english": "seventh"
+  },
+  {
+    "id": 426,
+    "letter": "Ε",
+    "greek": "εγγόνι, το",
+    "english": "grandchild"
+  },
+  {
+    "id": 427,
+    "letter": "Ε",
+    "greek": "εγγονός, o",
+    "english": "grandson"
+  },
+  {
+    "id": 428,
+    "letter": "Ε",
+    "greek": "εγγονή, η",
+    "english": "grandaughter"
+  },
+  {
+    "id": 429,
+    "letter": "Ε",
+    "greek": "εγκαίνια, τα",
+    "english": "opening, opening night"
+  },
+  {
+    "id": 430,
+    "letter": "Ε",
+    "greek": "έγγραφο, το",
+    "english": "document"
+  },
+  {
+    "id": 431,
+    "letter": "Ε",
+    "greek": "εγώ",
+    "english": "I"
+  },
+  {
+    "id": 432,
+    "letter": "Ε",
+    "greek": "εδώ",
+    "english": "here"
+  },
+  {
+    "id": 433,
+    "letter": "Ε",
+    "greek": "εδώ γύρω",
+    "english": "around here"
+  },
+  {
+    "id": 434,
+    "letter": "Ε",
+    "greek": "εδώ και πολύ καιρό",
+    "english": "for a long time"
+  },
+  {
+    "id": 435,
+    "letter": "Ε",
+    "greek": "έθιμο, το",
+    "english": "custom, tradition"
+  },
+  {
+    "id": 436,
+    "letter": "Ε",
+    "greek": "εθνικότητα, η",
+    "english": "nationality"
+  },
+  {
+    "id": 437,
+    "letter": "Ε",
+    "greek": "ειδοποίηση, η",
+    "english": "notice, notification"
+  },
+  {
+    "id": 438,
+    "letter": "Ε",
+    "greek": "εκτίμηση, η",
+    "english": "esteem, respect"
+  },
+  {
+    "id": 439,
+    "letter": "Ε",
+    "greek": "ειδικός, o ειδικός, η",
+    "english": "expert, specialist"
+  },
+  {
+    "id": 440,
+    "letter": "Ε",
+    "greek": "ειδήσεις, οι",
+    "english": "news"
+  },
+  {
+    "id": 441,
+    "letter": "Ε",
+    "greek": "είδος, το",
+    "english": "kind, type"
+  },
+  {
+    "id": 442,
+    "letter": "Ε",
+    "greek": "εικόνα, η",
+    "english": "image, picture"
+  },
+  {
+    "id": 443,
+    "letter": "Ε",
+    "greek": "είμαι [infinitive]",
+    "english": "to be"
+  },
+  {
+    "id": 444,
+    "letter": "Ε",
+    "greek": "είμαι [1st singular]",
+    "english": "I am"
+  },
+  {
+    "id": 445,
+    "letter": "Ε",
+    "greek": "ειρήνη, η",
+    "english": "peace"
+  },
+  {
+    "id": 446,
+    "letter": "Ε",
+    "greek": "Ειρήνη, η [proper name]",
+    "english": "Irene"
+  },
+  {
+    "id": 447,
+    "letter": "Ε",
+    "greek": "είσοδος, η",
+    "english": "entrance"
+  },
+  {
+    "id": 448,
+    "letter": "Ε",
+    "greek": "εισιτήριο, το",
+    "english": "ticket"
+  },
+  {
+    "id": 449,
+    "letter": "Ε",
+    "greek": "Να τα εκατοστίσεις!",
+    "english": "Happy birthday!"
+  },
+  {
+    "id": 450,
+    "letter": "Ε",
+    "greek": "εκδήλωση, η",
+    "english": "event, show"
+  },
+  {
+    "id": 451,
+    "letter": "Ε",
+    "greek": "εκδρομή, η",
+    "english": "excursion"
+  },
+  {
+    "id": 452,
+    "letter": "Ε",
+    "greek": "εκπομπή, η",
+    "english": "show, program"
+  },
+  {
+    "id": 453,
+    "letter": "Ε",
+    "greek": "εκεί",
+    "english": "there"
+  },
+  {
+    "id": 454,
+    "letter": "Ε",
+    "greek": "εκείνη [accusative]",
+    "english": "her"
+  },
+  {
+    "id": 455,
+    "letter": "Ε",
+    "greek": "εκείνον [accusative]",
+    "english": "him"
+  },
+  {
+    "id": 456,
+    "letter": "Ε",
+    "greek": "εκείν-ος, -η, -ο",
+    "english": "that"
+  },
+  {
+    "id": 457,
+    "letter": "Ε",
+    "greek": "εκκλησία, η",
+    "english": "church"
+  },
+  {
+    "id": 458,
+    "letter": "Ε",
+    "greek": "έκπληξη, η",
+    "english": "surprise"
+  },
+  {
+    "id": 459,
+    "letter": "Ε",
+    "greek": "εκπαίδευση, η",
+    "english": "education, training"
+  },
+  {
+    "id": 460,
+    "letter": "Ε",
+    "greek": "εκπομπή, η",
+    "english": "show, program"
+  },
+  {
+    "id": 461,
+    "letter": "Ε",
+    "greek": "έκπτωση, η",
+    "english": "discount"
+  },
+  {
+    "id": 462,
+    "letter": "Ε",
+    "greek": "εκπτώσεις, οι",
+    "english": "sales"
+  },
+  {
+    "id": 463,
+    "letter": "Ε",
+    "greek": "έκτ-ος, -η, -ο",
+    "english": "sixth"
+  },
+  {
+    "id": 464,
+    "letter": "Ε",
+    "greek": "ελαφρύς, -ιά, -ύ",
+    "english": "light"
+  },
+  {
+    "id": 465,
+    "letter": "Ε",
+    "greek": "Ελένη, η",
+    "english": "Helen"
+  },
+  {
+    "id": 466,
+    "letter": "Ε",
+    "greek": "Ελίνα, η",
+    "english": "Elina"
+  },
+  {
+    "id": 467,
+    "letter": "Ε",
+    "greek": "Ελλάδα, η",
+    "english": "Greece"
+  },
+  {
+    "id": 468,
+    "letter": "Ε",
+    "greek": "Έλληνας, ο / Ελληνίδα, η",
+    "english": "Greek"
+  },
+  {
+    "id": 469,
+    "letter": "Ε",
+    "greek": "ελληνική γλώσσα, η (/ελληνικά, τα)",
+    "english": "Greek"
+  },
+  {
+    "id": 470,
+    "letter": "Ε",
+    "greek": "ελληνικ-ός, -ή, -ό",
+    "english": "Greek, Hellenic"
+  },
+  {
+    "id": 471,
+    "letter": "Ε",
+    "greek": "ελπίζω",
+    "english": "to hope"
+  },
+  {
+    "id": 472,
+    "letter": "Ε",
+    "greek": "ΕΛΤΑ (Ελληνικά Ταχυδρομεία)",
+    "english": "Hellenic Post"
+  },
+  {
+    "id": 473,
+    "letter": "Ε",
+    "greek": "Έλσα, η",
+    "english": "Elsa"
+  },
+  {
+    "id": 474,
+    "letter": "Ε",
+    "greek": "ελαιόλαδο, το",
+    "english": "olive oil"
+  },
+  {
+    "id": 475,
+    "letter": "Ε",
+    "greek": "ελεύθερ-ος, -η, -ο",
+    "english": "free"
+  },
+  {
+    "id": 476,
+    "letter": "Ε",
+    "greek": "ελεύθερος, ο ελεύθερη, η [not married]",
+    "english": "single"
+  },
+  {
+    "id": 477,
+    "letter": "Ε",
+    "greek": "Ελευθερία, η [proper name]",
+    "english": "Eleftheria"
+  },
+  {
+    "id": 478,
+    "letter": "Ε",
+    "greek": "εμείς",
+    "english": "we"
+  },
+  {
+    "id": 479,
+    "letter": "Ε",
+    "greek": "εμένα",
+    "english": "me"
+  },
+  {
+    "id": 480,
+    "letter": "Ε",
+    "greek": "εμπορικό κέντρο, το",
+    "english": "shopping center/centre, mall"
+  },
+  {
+    "id": 481,
+    "letter": "Ε",
+    "greek": "εμπειρία, η",
+    "english": "experience"
+  },
+  {
+    "id": 482,
+    "letter": "Ε",
+    "greek": "εμφάνιση, η",
+    "english": "appearance, look"
+  },
+  {
+    "id": 483,
+    "letter": "Ε",
+    "greek": "ένας, μία, ένα [numerical]",
+    "english": "one"
+  },
+  {
+    "id": 484,
+    "letter": "Ε",
+    "greek": "ένας, μια, ένα [indefinite]",
+    "english": "a/an"
+  },
+  {
+    "id": 485,
+    "letter": "Ε",
+    "greek": "ένατ-ος, -η, -ο",
+    "english": "ninth"
+  },
+  {
+    "id": 486,
+    "letter": "Ε",
+    "greek": "ενδιαφέρομαι",
+    "english": "to be interested in"
+  },
+  {
+    "id": 487,
+    "letter": "Ε",
+    "greek": "ενδιαφέρον, το",
+    "english": "interest"
+  },
+  {
+    "id": 488,
+    "letter": "Ε",
+    "greek": "ενδιαφέρων, ο / ενδιαφέρουσα, η / ενδιαφέρον, το [adjective]",
+    "english": "interesting"
+  },
+  {
+    "id": 489,
+    "letter": "Ε",
+    "greek": "εννέα/εννιά",
+    "english": "nine"
+  },
+  {
+    "id": 490,
+    "letter": "Ε",
+    "greek": "ενενήντα",
+    "english": "ninety"
+  },
+  {
+    "id": 491,
+    "letter": "Ε",
+    "greek": "ενημερώνω",
+    "english": "to inform, to notify"
+  },
+  {
+    "id": 492,
+    "letter": "Ε",
+    "greek": "ενθουσιάζω",
+    "english": "to excite"
+  },
+  {
+    "id": 493,
+    "letter": "Ε",
+    "greek": "ενότητα, η",
+    "english": "unit"
+  },
+  {
+    "id": 494,
+    "letter": "Ε",
+    "greek": "ενοίκιο, το",
+    "english": "rent"
+  },
+  {
+    "id": 495,
+    "letter": "Ε",
+    "greek": "ενοικίαση, η",
+    "english": "renting, leasing"
+  },
+  {
+    "id": 496,
+    "letter": "Ε",
+    "greek": "ενώνω",
+    "english": "to join"
+  },
+  {
+    "id": 497,
+    "letter": "Ε",
+    "greek": "εξετάσεις, οι",
+    "english": "examinations, exams"
+  },
+  {
+    "id": 498,
+    "letter": "Ε",
+    "greek": "έξι",
+    "english": "six"
+  },
+  {
+    "id": 499,
+    "letter": "Ε",
+    "greek": "εξηγώ",
+    "english": "to explain"
+  },
+  {
+    "id": 500,
+    "letter": "Ε",
+    "greek": "εξήντα",
+    "english": "sixty"
+  },
+  {
+    "id": 501,
+    "letter": "Ε",
+    "greek": "έξοδος, η",
+    "english": "a night out"
+  },
+  {
+    "id": 502,
+    "letter": "Ε",
+    "greek": "εξοχή, η",
+    "english": "countryside"
+  },
+  {
+    "id": 503,
+    "letter": "Ε",
+    "greek": "εξυπηρέτηση, η",
+    "english": "service, support"
+  },
+  {
+    "id": 504,
+    "letter": "Ε",
+    "greek": "εξυπηρετώ",
+    "english": "to serve"
+  },
+  {
+    "id": 505,
+    "letter": "Ε",
+    "greek": "έξω",
+    "english": "out"
+  },
+  {
+    "id": 506,
+    "letter": "Ε",
+    "greek": "έξω από",
+    "english": "outside"
+  },
+  {
+    "id": 507,
+    "letter": "Ε",
+    "greek": "εξωτερικό, το",
+    "english": "overseas, abroad"
+  },
+  {
+    "id": 508,
+    "letter": "Ε",
+    "greek": "επάγγελμα, το",
+    "english": "profession, job"
+  },
+  {
+    "id": 509,
+    "letter": "Ε",
+    "greek": "επαγγελματικ-ός, -ή, -ό",
+    "english": "professional"
+  },
+  {
+    "id": 510,
+    "letter": "Ε",
+    "greek": "επαναλαμβάνω",
+    "english": "to repeat"
+  },
+  {
+    "id": 511,
+    "letter": "Ε",
+    "greek": "επειδή",
+    "english": "because"
+  },
+  {
+    "id": 512,
+    "letter": "Ε",
+    "greek": "επιθυμώ",
+    "english": "to desire, to want"
+  },
+  {
+    "id": 513,
+    "letter": "Ε",
+    "greek": "επικίνδυν-ος, -η, -ο",
+    "english": "dangerous, risky"
+  },
+  {
+    "id": 514,
+    "letter": "Ε",
+    "greek": "επικοινωνώ",
+    "english": "to contact, to get in touch, to communicate"
+  },
+  {
+    "id": 515,
+    "letter": "Ε",
+    "greek": "επικοινωνία, η",
+    "english": "communication, contact"
+  },
+  {
+    "id": 516,
+    "letter": "Ε",
+    "greek": "επιλέγω",
+    "english": "to choose, to select, to pick"
+  },
+  {
+    "id": 517,
+    "letter": "Ε",
+    "greek": "έπιπλο, το",
+    "english": "furniture"
+  },
+  {
+    "id": 518,
+    "letter": "Ε",
+    "greek": "επίσης",
+    "english": "also, too, as well"
+  },
+  {
+    "id": 519,
+    "letter": "Ε",
+    "greek": "επίσημ-ος, -η, -ο",
+    "english": "official, formal"
+  },
+  {
+    "id": 520,
+    "letter": "Ε",
+    "greek": "επίσημα",
+    "english": "officially, formally"
+  },
+  {
+    "id": 521,
+    "letter": "Ε",
+    "greek": "επισκέπτομαι",
+    "english": "to visit"
+  },
+  {
+    "id": 522,
+    "letter": "Ε",
+    "greek": "εισιτήριο με επιστροφή",
+    "english": "return ticket"
+  },
+  {
+    "id": 523,
+    "letter": "Ε",
+    "greek": "επιστρέφω",
+    "english": "to come back, to return"
+  },
+  {
+    "id": 524,
+    "letter": "Ε",
+    "greek": "επιτέλους",
+    "english": "at last, finally"
+  },
+  {
+    "id": 525,
+    "letter": "Ε",
+    "greek": "επιτυχία, η [in general]",
+    "english": "success"
+  },
+  {
+    "id": 526,
+    "letter": "Ε",
+    "greek": "επιτυχία, η [music]",
+    "english": "hit"
+  },
+  {
+    "id": 527,
+    "letter": "Ε",
+    "greek": "Καλή επιτυχία!",
+    "english": "Good luck!"
+  },
+  {
+    "id": 528,
+    "letter": "Ε",
+    "greek": "επόμεν-ος, -η, -ο",
+    "english": "next, following"
+  },
+  {
+    "id": 529,
+    "letter": "Ε",
+    "greek": "εποχή, η",
+    "english": "season"
+  },
+  {
+    "id": 530,
+    "letter": "Ε",
+    "greek": "επώνυμο, το",
+    "english": "surname"
+  },
+  {
+    "id": 531,
+    "letter": "Ε",
+    "greek": "επώνυμ-ος, -η, -ο [see also γνωστός, διάσημος]",
+    "english": "famous, celebrity"
+  },
+  {
+    "id": 532,
+    "letter": "Ε",
+    "greek": "εργασία, η",
+    "english": "work, project"
+  },
+  {
+    "id": 533,
+    "letter": "Ε",
+    "greek": "έργο θεατρικό, το",
+    "english": "play"
+  },
+  {
+    "id": 534,
+    "letter": "Ε",
+    "greek": "εργοστάσιο, το",
+    "english": "factory"
+  },
+  {
+    "id": 535,
+    "letter": "Ε",
+    "greek": "έρχομαι",
+    "english": "to come, to arrive"
+  },
+  {
+    "id": 536,
+    "letter": "Ε",
+    "greek": "έρευνα, η",
+    "english": "research, survey"
+  },
+  {
+    "id": 537,
+    "letter": "Ε",
+    "greek": "ερώτηση, η",
+    "english": "question"
+  },
+  {
+    "id": 538,
+    "letter": "Ε",
+    "greek": "ερωτηματολόγιο, το",
+    "english": "questionnaire"
+  },
+  {
+    "id": 539,
+    "letter": "Ε",
+    "greek": "εστιατόριο, το",
+    "english": "restaurant"
+  },
+  {
+    "id": 540,
+    "letter": "Ε",
+    "greek": "εσύ, εσείς",
+    "english": "you"
+  },
+  {
+    "id": 541,
+    "letter": "Ε",
+    "greek": "εσένα",
+    "english": "you"
+  },
+  {
+    "id": 542,
+    "letter": "Ε",
+    "greek": "εταιρεία, η",
+    "english": "company, firm, enterprise"
+  },
+  {
+    "id": 543,
+    "letter": "Ε",
+    "greek": "ετοιμάζω [see also προετοιμάζω]",
+    "english": "to prepare"
+  },
+  {
+    "id": 544,
+    "letter": "Ε",
+    "greek": "έτοιμ-ος, -η, -ο",
+    "english": "ready"
+  },
+  {
+    "id": 545,
+    "letter": "Ε",
+    "greek": "έτος, το [see also χρόνος]",
+    "english": "year"
+  },
+  {
+    "id": 546,
+    "letter": "Ε",
+    "greek": "έτσι",
+    "english": "this way, thus, so"
+  },
+  {
+    "id": 547,
+    "letter": "Ε",
+    "greek": "ΕΥΑΘ (Εταιρεία Ύδρευσης και Αποχέτευσης Θεσσαλονίκης)",
+    "english": "Thessaloniki Water Supply and Sewerage Company"
+  },
+  {
+    "id": 548,
+    "letter": "Ε",
+    "greek": "ευγενικ-ός, -ή, -ό",
+    "english": "kind, polite"
+  },
+  {
+    "id": 549,
+    "letter": "Ε",
+    "greek": "EΥΔΑΠ (Εταιρεία Ύδρευσης και Αποχέτευσης Πρωτεύουσας)",
+    "english": "Athens Water Supply and Sewerage Company"
+  },
+  {
+    "id": 550,
+    "letter": "Ε",
+    "greek": "ευκαιρία, η",
+    "english": "opportunity, chance"
+  },
+  {
+    "id": 551,
+    "letter": "Ε",
+    "greek": "εύκολ-ος, -η, -ο",
+    "english": "easy"
+  },
+  {
+    "id": 552,
+    "letter": "Ε",
+    "greek": "εύκολα [adv]",
+    "english": "easily"
+  },
+  {
+    "id": 553,
+    "letter": "Ε",
+    "greek": "ευρώ, το",
+    "english": "euro"
+  },
+  {
+    "id": 554,
+    "letter": "Ε",
+    "greek": "ευρωπαϊκός, -ή, -ό",
+    "english": "European"
+  },
+  {
+    "id": 555,
+    "letter": "Ε",
+    "greek": "Ευρωπαίος, ο / Ευρωπαία, η",
+    "english": "European"
+  },
+  {
+    "id": 556,
+    "letter": "Ε",
+    "greek": "Ευρώπη, η",
+    "english": "Europe"
+  },
+  {
+    "id": 557,
+    "letter": "Ε",
+    "greek": "ευτυχία, η",
+    "english": "happiness"
+  },
+  {
+    "id": 558,
+    "letter": "Ε",
+    "greek": "Ευτυχισμένος ο καινούριος χρόνος!",
+    "english": "Happy new year!"
+  },
+  {
+    "id": 559,
+    "letter": "Ε",
+    "greek": "ευτυχώς",
+    "english": "luckily, fortunately"
+  },
+  {
+    "id": 560,
+    "letter": "Ε",
+    "greek": "ευχάριστ-ος, -η, -ο",
+    "english": "pleasant"
+  },
+  {
+    "id": 561,
+    "letter": "Ε",
+    "greek": "ευχαριστημέν-ος, -η, -ο",
+    "english": "pleased, content, satisfied"
+  },
+  {
+    "id": 562,
+    "letter": "Ε",
+    "greek": "ευχαριστώ",
+    "english": "to thank"
+  },
+  {
+    "id": 563,
+    "letter": "Ε",
+    "greek": "Ευχαριστώ!",
+    "english": "Thanks! / Thank you!"
+  },
+  {
+    "id": 564,
+    "letter": "Ε",
+    "greek": "ευχή, η",
+    "english": "wish"
+  },
+  {
+    "id": 565,
+    "letter": "Ε",
+    "greek": "εφέ, τα",
+    "english": "effects"
+  },
+  {
+    "id": 566,
+    "letter": "Ε",
+    "greek": "εφημερίδα, η",
+    "english": "newspaper"
+  },
+  {
+    "id": 567,
+    "letter": "Ε",
+    "greek": "εφορία, η",
+    "english": "tax office"
+  },
+  {
+    "id": 568,
+    "letter": "Ε",
+    "greek": "έχω",
+    "english": "to have"
+  },
+  {
+    "id": 569,
+    "letter": "Ζ",
+    "greek": "ζάχαρη, η",
+    "english": "sugar"
+  },
+  {
+    "id": 570,
+    "letter": "Ζ",
+    "greek": "ζέστη, η",
+    "english": "heat, warmth"
+  },
+  {
+    "id": 571,
+    "letter": "Ζ",
+    "greek": "κάνει ζέστη",
+    "english": "it is hot"
+  },
+  {
+    "id": 572,
+    "letter": "Ζ",
+    "greek": "ζεστ-ός, -ή, -ό",
+    "english": "warm, hot"
+  },
+  {
+    "id": 573,
+    "letter": "Ζ",
+    "greek": "ζευγάρι, το",
+    "english": "pair"
+  },
+  {
+    "id": 574,
+    "letter": "Ζ",
+    "greek": "Zέτα, η",
+    "english": "Zeta"
+  },
+  {
+    "id": 575,
+    "letter": "Ζ",
+    "greek": "Ζήσης, ο",
+    "english": "Zisis"
+  },
+  {
+    "id": 576,
+    "letter": "Ζ",
+    "greek": "Να ζήσετε!",
+    "english": "May you have a life long marriage! / Congratulations!"
+  },
+  {
+    "id": 577,
+    "letter": "Ζ",
+    "greek": "ζητάω, -ώ",
+    "english": "to ask for"
+  },
+  {
+    "id": 578,
+    "letter": "Ζ",
+    "greek": "ζυμαρικό, το",
+    "english": "pasta"
+  },
+  {
+    "id": 579,
+    "letter": "Ζ",
+    "greek": "Ζυρίχη, η",
+    "english": "Zurich"
+  },
+  {
+    "id": 580,
+    "letter": "Ζ",
+    "greek": "ζω",
+    "english": "to live"
+  },
+  {
+    "id": 581,
+    "letter": "Ζ",
+    "greek": "ζωγραφίζω",
+    "english": "to paint, to draw"
+  },
+  {
+    "id": 582,
+    "letter": "Ζ",
+    "greek": "ζωγραφική, η",
+    "english": "painting, drawing"
+  },
+  {
+    "id": 583,
+    "letter": "Ζ",
+    "greek": "ζωή, η",
+    "english": "life"
+  },
+  {
+    "id": 584,
+    "letter": "Ζ",
+    "greek": "ζωηρ-ός, -ή, -ό",
+    "english": "naughty, lively"
+  },
+  {
+    "id": 585,
+    "letter": "Ζ",
+    "greek": "ζωνταν-ός, -ή, -ό",
+    "english": "alive, living"
+  },
+  {
+    "id": 586,
+    "letter": "Ζ",
+    "greek": "ζωντανή μουσική, η",
+    "english": "live music"
+  },
+  {
+    "id": 587,
+    "letter": "Ζ",
+    "greek": "ζώο, το",
+    "english": "animal"
+  },
+  {
+    "id": 588,
+    "letter": "Η",
+    "greek": "ηθοποιός, η",
+    "english": "actress"
+  },
+  {
+    "id": 589,
+    "letter": "Η",
+    "greek": "ηθοποιός, ο",
+    "english": "actor"
+  },
+  {
+    "id": 590,
+    "letter": "Η",
+    "greek": "ηλεκτρικ-ός, -ή, -ό",
+    "english": "electric"
+  },
+  {
+    "id": 591,
+    "letter": "Η",
+    "greek": "ηλεκτρικά είδη",
+    "english": "electric devices"
+  },
+  {
+    "id": 592,
+    "letter": "Η",
+    "greek": "ηλεκτροπληξία, η",
+    "english": "electrocution, electric shock"
+  },
+  {
+    "id": 593,
+    "letter": "Η",
+    "greek": "ηλικία, η",
+    "english": "age"
+  },
+  {
+    "id": 594,
+    "letter": "Η",
+    "greek": "ηλικιωμένoς, ο / ηλικωμένη, η",
+    "english": "elderly, old, senior"
+  },
+  {
+    "id": 595,
+    "letter": "Η",
+    "greek": "ήλιος, ο",
+    "english": "sun"
+  },
+  {
+    "id": 596,
+    "letter": "Η",
+    "greek": "έχει ήλιο",
+    "english": "it is sunny"
+  },
+  {
+    "id": 597,
+    "letter": "Η",
+    "greek": "ημέρα, η [see also μέρα]",
+    "english": "day"
+  },
+  {
+    "id": 598,
+    "letter": "Η",
+    "greek": "ημερομηνία, η",
+    "english": "date"
+  },
+  {
+    "id": 599,
+    "letter": "Η",
+    "greek": "ήπι-ος, -α, -ο",
+    "english": "mild, gentle"
+  },
+  {
+    "id": 600,
+    "letter": "Η",
+    "greek": "ήρεμ-ος, -η, -ο",
+    "english": "calm, peaceful"
+  },
+  {
+    "id": 601,
+    "letter": "Η",
+    "greek": "ησυχία, η",
+    "english": "silence, quietness, calmness"
+  },
+  {
+    "id": 602,
+    "letter": "Η",
+    "greek": "ήσυχ-ος, -η, -ο",
+    "english": "silent, quiet, calm"
+  },
+  {
+    "id": 603,
+    "letter": "Θ",
+    "greek": "θα",
+    "english": "will, going to"
+  },
+  {
+    "id": 604,
+    "letter": "Θ",
+    "greek": "θάλασσα, η",
+    "english": "sea"
+  },
+  {
+    "id": 605,
+    "letter": "Θ",
+    "greek": "Θανάσης, ο",
+    "english": "Thanassis"
+  },
+  {
+    "id": 606,
+    "letter": "Θ",
+    "greek": "θέα, η",
+    "english": "view"
+  },
+  {
+    "id": 607,
+    "letter": "Θ",
+    "greek": "θεατής, ο/η",
+    "english": "spectator, audience"
+  },
+  {
+    "id": 608,
+    "letter": "Θ",
+    "greek": "θέατρο, το",
+    "english": "theater/theatre"
+  },
+  {
+    "id": 609,
+    "letter": "Θ",
+    "greek": "θεατρικ-ός, -ή, -ό",
+    "english": "theatrical"
+  },
+  {
+    "id": 610,
+    "letter": "Θ",
+    "greek": "θεατρικό έργο, το",
+    "english": "play"
+  },
+  {
+    "id": 611,
+    "letter": "Θ",
+    "greek": "θεία, η",
+    "english": "aunt"
+  },
+  {
+    "id": 612,
+    "letter": "Θ",
+    "greek": "θείος, ο",
+    "english": "uncle"
+  },
+  {
+    "id": 613,
+    "letter": "Θ",
+    "greek": "θέλω",
+    "english": "to want"
+  },
+  {
+    "id": 614,
+    "letter": "Θ",
+    "greek": "θέμα, το",
+    "english": "subject, subject matter"
+  },
+  {
+    "id": 615,
+    "letter": "Θ",
+    "greek": "θερμοκρασία, η",
+    "english": "temperature"
+  },
+  {
+    "id": 616,
+    "letter": "Θ",
+    "greek": "θέση, η",
+    "english": "seat, place, position"
+  },
+  {
+    "id": 617,
+    "letter": "Θ",
+    "greek": "θετικά [adv]",
+    "english": "positively"
+  },
+  {
+    "id": 618,
+    "letter": "Θ",
+    "greek": "θήκη, η",
+    "english": "case"
+  },
+  {
+    "id": 619,
+    "letter": "Θ",
+    "greek": "Θρησκευτικά [school subject]",
+    "english": "religious class"
+  },
+  {
+    "id": 620,
+    "letter": "Θ",
+    "greek": "θυμάμαι",
+    "english": "to remember"
+  },
+  {
+    "id": 621,
+    "letter": "Θ",
+    "greek": "θυμίζω",
+    "english": "to remind"
+  },
+  {
+    "id": 622,
+    "letter": "Θ",
+    "greek": "Θωμαή, η",
+    "english": "Thomais"
+  },
+  {
+    "id": 623,
+    "letter": "Ι",
+    "greek": "ιδέα, η",
+    "english": "idea, suggestion"
+  },
+  {
+    "id": 624,
+    "letter": "Ι",
+    "greek": "ιδιαίτερα [adv]",
+    "english": "particularly, specifically, in particular"
+  },
+  {
+    "id": 625,
+    "letter": "Ι",
+    "greek": "ίδι-ος, -α, -ο",
+    "english": "the same"
+  },
+  {
+    "id": 626,
+    "letter": "Ι",
+    "greek": "ίδρυμα, το",
+    "english": "institute/institution, foundation"
+  },
+  {
+    "id": 627,
+    "letter": "Ι",
+    "greek": "ιερ-ός, -ή, -ό",
+    "english": "holy, sacred"
+  },
+  {
+    "id": 628,
+    "letter": "Ι",
+    "greek": "ισόγειο, το",
+    "english": "ground floor"
+  },
+  {
+    "id": 629,
+    "letter": "Ι",
+    "greek": "Ιούνιος, ο",
+    "english": "June"
+  },
+  {
+    "id": 630,
+    "letter": "Ι",
+    "greek": "ικανότητα, η",
+    "english": "capability, ability, skill"
+  },
+  {
+    "id": 631,
+    "letter": "Ι",
+    "greek": "ίσι-ος, -α, -ο",
+    "english": "straight"
+  },
+  {
+    "id": 632,
+    "letter": "Ι",
+    "greek": "ιστοσελίδα, η",
+    "english": "webpage"
+  },
+  {
+    "id": 633,
+    "letter": "Ι",
+    "greek": "ιστορία, η",
+    "english": "history, story"
+  },
+  {
+    "id": 634,
+    "letter": "Ι",
+    "greek": "Ιστορία, η [school subject]",
+    "english": "history class"
+  },
+  {
+    "id": 635,
+    "letter": "Ι",
+    "greek": "ίσως",
+    "english": "maybe, perhaps"
+  },
+  {
+    "id": 636,
+    "letter": "Κ",
+    "greek": "Καβάλα, η",
+    "english": "Kavala"
+  },
+  {
+    "id": 637,
+    "letter": "Κ",
+    "greek": "κάδρο, το",
+    "english": "frame, picture frame"
+  },
+  {
+    "id": 638,
+    "letter": "Κ",
+    "greek": "κάγκελο, το",
+    "english": "bar, rail"
+  },
+  {
+    "id": 639,
+    "letter": "Κ",
+    "greek": "καθαρίζω",
+    "english": "to clean"
+  },
+  {
+    "id": 640,
+    "letter": "Κ",
+    "greek": "καθαρ-ός, -ή, -ό",
+    "english": "clean"
+  },
+  {
+    "id": 641,
+    "letter": "Κ",
+    "greek": "καθαριστικό, το",
+    "english": "detergent, cleanser"
+  },
+  {
+    "id": 642,
+    "letter": "Κ",
+    "greek": "κάθε",
+    "english": "every"
+  },
+  {
+    "id": 643,
+    "letter": "Κ",
+    "greek": "κάθετα [adv]",
+    "english": "vertically, across"
+  },
+  {
+    "id": 644,
+    "letter": "Κ",
+    "greek": "καθημερινά [adv]",
+    "english": "daily, every day"
+  },
+  {
+    "id": 645,
+    "letter": "Κ",
+    "greek": "καθηγητής, ο / καθηγήτρια, η",
+    "english": "professor, teacher"
+  },
+  {
+    "id": 646,
+    "letter": "Κ",
+    "greek": "καθόλου",
+    "english": "any, at all"
+  },
+  {
+    "id": 647,
+    "letter": "Κ",
+    "greek": "κάθομαι",
+    "english": "to sit, to have a seat, to sit down"
+  },
+  {
+    "id": 648,
+    "letter": "Κ",
+    "greek": "καθρέφτης, ο",
+    "english": "mirror"
+  },
+  {
+    "id": 649,
+    "letter": "Κ",
+    "greek": "καθυστέρηση, η",
+    "english": "delay"
+  },
+  {
+    "id": 650,
+    "letter": "Κ",
+    "greek": "και",
+    "english": "and"
+  },
+  {
+    "id": 651,
+    "letter": "Κ",
+    "greek": "καινούρι-ος, -α, -ο [see also νέος]",
+    "english": "new"
+  },
+  {
+    "id": 652,
+    "letter": "Κ",
+    "greek": "καιρός, ο",
+    "english": "wheather"
+  },
+  {
+    "id": 653,
+    "letter": "Κ",
+    "greek": "αυτόν τον καιρό",
+    "english": "at the moment"
+  },
+  {
+    "id": 654,
+    "letter": "Κ",
+    "greek": "καίω",
+    "english": "to burn"
+  },
+  {
+    "id": 655,
+    "letter": "Κ",
+    "greek": "κακ-ός, -ή, -ό",
+    "english": "bad"
+  },
+  {
+    "id": 656,
+    "letter": "Κ",
+    "greek": "καλά [adv]",
+    "english": "good, well"
+  },
+  {
+    "id": 657,
+    "letter": "Κ",
+    "greek": "κάλαντα, τα",
+    "english": "carols"
+  },
+  {
+    "id": 658,
+    "letter": "Κ",
+    "greek": "καλεσμέν-ος, -η, -ο",
+    "english": "invited"
+  },
+  {
+    "id": 659,
+    "letter": "Κ",
+    "greek": "καλημέρα",
+    "english": "goodmorning"
+  },
+  {
+    "id": 660,
+    "letter": "Κ",
+    "greek": "καλλιτέχνης, ο/η",
+    "english": "artist"
+  },
+  {
+    "id": 661,
+    "letter": "Κ",
+    "greek": "καλλυντικό, το",
+    "english": "cosmetic"
+  },
+  {
+    "id": 662,
+    "letter": "Κ",
+    "greek": "καλοκαίρι, το",
+    "english": "summer"
+  },
+  {
+    "id": 663,
+    "letter": "Κ",
+    "greek": "καλ-ός, -ή, -ό",
+    "english": "good"
+  },
+  {
+    "id": 664,
+    "letter": "Κ",
+    "greek": "Καλές γιορτές!",
+    "english": "Happy holidays!"
+  },
+  {
+    "id": 665,
+    "letter": "Κ",
+    "greek": "Καλή χρονιά!",
+    "english": "Happy New Year!"
+  },
+  {
+    "id": 666,
+    "letter": "Κ",
+    "greek": "Καλό Πάσχα!",
+    "english": "Happy Easter!"
+  },
+  {
+    "id": 667,
+    "letter": "Κ",
+    "greek": "Καλή Ανάσταση!",
+    "english": "Happy Easter!"
+  },
+  {
+    "id": 668,
+    "letter": "Κ",
+    "greek": "Καλή όρεξη!",
+    "english": "Bon appetite! / Enjoy your meal!"
+  },
+  {
+    "id": 669,
+    "letter": "Κ",
+    "greek": "καλαμπόκι, το",
+    "english": "corn"
+  },
+  {
+    "id": 670,
+    "letter": "Κ",
+    "greek": "Καλλιόπη, η",
+    "english": "Kalliopi"
+  },
+  {
+    "id": 671,
+    "letter": "Κ",
+    "greek": "καλύπτω",
+    "english": "to cover"
+  },
+  {
+    "id": 672,
+    "letter": "Κ",
+    "greek": "καλώ [on the phone]",
+    "english": "to call"
+  },
+  {
+    "id": 673,
+    "letter": "Κ",
+    "greek": "καλώ [to a party, an event, etc; see also προσκαλώ]",
+    "english": "to invite"
+  },
+  {
+    "id": 674,
+    "letter": "Κ",
+    "greek": "Καμάρα, η [Roman monument in Thessaloniki]",
+    "english": "Galerius arch"
+  },
+  {
+    "id": 675,
+    "letter": "Κ",
+    "greek": "κανάλι, το",
+    "english": "channel, TV station"
+  },
+  {
+    "id": 676,
+    "letter": "Κ",
+    "greek": "καναπές, ο",
+    "english": "sofa"
+  },
+  {
+    "id": 677,
+    "letter": "Κ",
+    "greek": "κανένας (/κανείς), καμία/καμιά, κανένα [affirmative]",
+    "english": "no, nobody, no one"
+  },
+  {
+    "id": 678,
+    "letter": "Κ",
+    "greek": "κανένας (/κανείς), καμία/καμιά, κανένα [interrorative]",
+    "english": "any, anybody, anyone"
+  },
+  {
+    "id": 679,
+    "letter": "Κ",
+    "greek": "κανονικ-ός, -ή, -ό",
+    "english": "normal, regular"
+  },
+  {
+    "id": 680,
+    "letter": "Κ",
+    "greek": "κανονικά [adv]",
+    "english": "normally, regularly"
+  },
+  {
+    "id": 681,
+    "letter": "Κ",
+    "greek": "κάνω",
+    "english": "to do, to make"
+  },
+  {
+    "id": 682,
+    "letter": "Κ",
+    "greek": "κάνω [for prices; see also κοστίζω]",
+    "english": "to cost"
+  },
+  {
+    "id": 683,
+    "letter": "Κ",
+    "greek": "Πόσο κάνει;",
+    "english": "How much does it cost?"
+  },
+  {
+    "id": 684,
+    "letter": "Κ",
+    "greek": "κάποι-ος, -α [noun]",
+    "english": "someone"
+  },
+  {
+    "id": 685,
+    "letter": "Κ",
+    "greek": "κάποι-ος, -α, -ο [adjective]",
+    "english": "some, a"
+  },
+  {
+    "id": 686,
+    "letter": "Κ",
+    "greek": "καράβι, το [see also πλοίο]",
+    "english": "boat, ship"
+  },
+  {
+    "id": 687,
+    "letter": "Κ",
+    "greek": "καρδιά, η",
+    "english": "heart"
+  },
+  {
+    "id": 688,
+    "letter": "Κ",
+    "greek": "καρδιολόγος, ο/η",
+    "english": "cardiologist"
+  },
+  {
+    "id": 689,
+    "letter": "Κ",
+    "greek": "καρέκλα, η",
+    "english": "chair"
+  },
+  {
+    "id": 690,
+    "letter": "Κ",
+    "greek": "Κάρμεν, η",
+    "english": "Carmen"
+  },
+  {
+    "id": 691,
+    "letter": "Κ",
+    "greek": "καρναβάλι, το [see also Απόκριες]",
+    "english": "Carnival time / Halloween"
+  },
+  {
+    "id": 692,
+    "letter": "Κ",
+    "greek": "καρότο, το",
+    "english": "carrot"
+  },
+  {
+    "id": 693,
+    "letter": "Κ",
+    "greek": "κάρτα, η",
+    "english": "card"
+  },
+  {
+    "id": 694,
+    "letter": "Κ",
+    "greek": "καρύδι, το",
+    "english": "walnut"
+  },
+  {
+    "id": 695,
+    "letter": "Κ",
+    "greek": "κασκόλ, το",
+    "english": "scarf"
+  },
+  {
+    "id": 696,
+    "letter": "Κ",
+    "greek": "κάστρο, το",
+    "english": "castle"
+  },
+  {
+    "id": 697,
+    "letter": "Κ",
+    "greek": "κατάθεση, η",
+    "english": "deposit"
+  },
+  {
+    "id": 698,
+    "letter": "Κ",
+    "greek": "καταιγίδα, η",
+    "english": "storm"
+  },
+  {
+    "id": 699,
+    "letter": "Κ",
+    "greek": "καταλαβαίνω",
+    "english": "to understand"
+  },
+  {
+    "id": 700,
+    "letter": "Κ",
+    "greek": "κατάλληλ-ος, -η, -ο",
+    "english": "appropriate, suitable"
+  },
+  {
+    "id": 701,
+    "letter": "Κ",
+    "greek": "κατανόηση γραπτού λόγου, η",
+    "english": "reading comprehension"
+  },
+  {
+    "id": 702,
+    "letter": "Κ",
+    "greek": "κατανόηση προφορικού λόγου, η",
+    "english": "listening comprehension"
+  },
+  {
+    "id": 703,
+    "letter": "Κ",
+    "greek": "καταπληκτικ-ός, -ή, -ό",
+    "english": "amazing, wonderful"
+  },
+  {
+    "id": 704,
+    "letter": "Κ",
+    "greek": "καταπληκτικά [adv]",
+    "english": "amazingly, wonderfully"
+  },
+  {
+    "id": 705,
+    "letter": "Κ",
+    "greek": "κατάσταση, η",
+    "english": "state, condition, situation"
+  },
+  {
+    "id": 706,
+    "letter": "Κ",
+    "greek": "κατάστημα, το [see also μαγαζί]",
+    "english": "store, shop"
+  },
+  {
+    "id": 707,
+    "letter": "Κ",
+    "greek": "καταφέρνω",
+    "english": "to manage, to achieve, to make it"
+  },
+  {
+    "id": 708,
+    "letter": "Κ",
+    "greek": "κατεβαίνω",
+    "english": "to get down"
+  },
+  {
+    "id": 709,
+    "letter": "Κ",
+    "greek": "κατεβάζω μουσική",
+    "english": "to download music"
+  },
+  {
+    "id": 710,
+    "letter": "Κ",
+    "greek": "Κατερίνα, η",
+    "english": "Catherine"
+  },
+  {
+    "id": 711,
+    "letter": "Κ",
+    "greek": "κατηγορία, η",
+    "english": "category"
+  },
+  {
+    "id": 712,
+    "letter": "Κ",
+    "greek": "Κάτια, η",
+    "english": "Katja"
+  },
+  {
+    "id": 713,
+    "letter": "Κ",
+    "greek": "κάτι",
+    "english": "something"
+  },
+  {
+    "id": 714,
+    "letter": "Κ",
+    "greek": "κάτοικος, ο/η",
+    "english": "inhabitant"
+  },
+  {
+    "id": 715,
+    "letter": "Κ",
+    "greek": "κατσαρόλα, η",
+    "english": "pot, saucepan"
+  },
+  {
+    "id": 716,
+    "letter": "Κ",
+    "greek": "κάτω",
+    "english": "down"
+  },
+  {
+    "id": 717,
+    "letter": "Κ",
+    "greek": "κάτω από",
+    "english": "under"
+  },
+  {
+    "id": 718,
+    "letter": "Κ",
+    "greek": "κέικ, το",
+    "english": "cake"
+  },
+  {
+    "id": 719,
+    "letter": "Κ",
+    "greek": "κείμενο, το",
+    "english": "text"
+  },
+  {
+    "id": 720,
+    "letter": "Κ",
+    "greek": "κενό, το",
+    "english": "gap"
+  },
+  {
+    "id": 721,
+    "letter": "Κ",
+    "greek": "κέντρο, το",
+    "english": "centre"
+  },
+  {
+    "id": 722,
+    "letter": "Κ",
+    "greek": "κεφαλαίo γράμμα, το",
+    "english": "capital letter"
+  },
+  {
+    "id": 723,
+    "letter": "Κ",
+    "greek": "καφέ [colour]",
+    "english": "brown"
+  },
+  {
+    "id": 724,
+    "letter": "Κ",
+    "greek": "καφετέρια, η",
+    "english": "café"
+  },
+  {
+    "id": 725,
+    "letter": "Κ",
+    "greek": "καφές, ο",
+    "english": "coffee"
+  },
+  {
+    "id": 726,
+    "letter": "Κ",
+    "greek": "κείμενο, το",
+    "english": "text"
+  },
+  {
+    "id": 727,
+    "letter": "Κ",
+    "greek": "κελί, το",
+    "english": "cell"
+  },
+  {
+    "id": 728,
+    "letter": "Κ",
+    "greek": "κεντρικ-ός, -ή, -ό",
+    "english": "central"
+  },
+  {
+    "id": 729,
+    "letter": "Κ",
+    "greek": "κεντρικό δελτίο ειδήσεων",
+    "english": "news"
+  },
+  {
+    "id": 730,
+    "letter": "Κ",
+    "greek": "κενό, το",
+    "english": "gap"
+  },
+  {
+    "id": 731,
+    "letter": "Κ",
+    "greek": "ΚΕΠ (Κέντρο Εξυπηρέτησης Πολιτών), το",
+    "english": "Citizen Service Centre"
+  },
+  {
+    "id": 732,
+    "letter": "Κ",
+    "greek": "κεραυνός, ο",
+    "english": "thunder"
+  },
+  {
+    "id": 733,
+    "letter": "Κ",
+    "greek": "κεράσι, το",
+    "english": "cherry"
+  },
+  {
+    "id": 734,
+    "letter": "Κ",
+    "greek": "κερδίζω",
+    "english": "to win"
+  },
+  {
+    "id": 735,
+    "letter": "Κ",
+    "greek": "Κέρκυρα, η",
+    "english": "Corfu"
+  },
+  {
+    "id": 736,
+    "letter": "Κ",
+    "greek": "κεφάλι, το",
+    "english": "head"
+  },
+  {
+    "id": 737,
+    "letter": "Κ",
+    "greek": "κήπος, ο",
+    "english": "garden"
+  },
+  {
+    "id": 738,
+    "letter": "Κ",
+    "greek": "κιθάρα, η",
+    "english": "guitar"
+  },
+  {
+    "id": 739,
+    "letter": "Κ",
+    "greek": "κιλό, το",
+    "english": "kilo"
+  },
+  {
+    "id": 740,
+    "letter": "Κ",
+    "greek": "κίνδυνος, ο",
+    "english": "danger, risk"
+  },
+  {
+    "id": 741,
+    "letter": "Κ",
+    "greek": "κινηματογράφος, ο [see also σινεμά]",
+    "english": "cinema, movies"
+  },
+  {
+    "id": 742,
+    "letter": "Κ",
+    "greek": "κίνηση, η",
+    "english": "traffic"
+  },
+  {
+    "id": 743,
+    "letter": "Κ",
+    "greek": "κινητό τηλέφωνο, το",
+    "english": "mobile phone"
+  },
+  {
+    "id": 744,
+    "letter": "Κ",
+    "greek": "κιόλας",
+    "english": "already"
+  },
+  {
+    "id": 745,
+    "letter": "Κ",
+    "greek": "κλασικ-ός, -ή, -ό",
+    "english": "classical"
+  },
+  {
+    "id": 746,
+    "letter": "Κ",
+    "greek": "κλειδί-λέξη, η",
+    "english": "key word"
+  },
+  {
+    "id": 747,
+    "letter": "Κ",
+    "greek": "κλειδώνω",
+    "english": "to lock, to lock up"
+  },
+  {
+    "id": 748,
+    "letter": "Κ",
+    "greek": "κλείνω [a door, a window, the radio]",
+    "english": "to close, to shut, to turn off"
+  },
+  {
+    "id": 749,
+    "letter": "Κ",
+    "greek": "κλείνω [a ticket, a room at a hotel, etc.]",
+    "english": "to book"
+  },
+  {
+    "id": 750,
+    "letter": "Κ",
+    "greek": "κλείνω [a table at a restaurant]",
+    "english": "to reserve"
+  },
+  {
+    "id": 751,
+    "letter": "Κ",
+    "greek": "κλεισμέν-ος, -η, -ο [for a door, a window, etc]",
+    "english": "closed, shut"
+  },
+  {
+    "id": 752,
+    "letter": "Κ",
+    "greek": "κλειστ-ός, ή, -ό [for eyes, windows etc]",
+    "english": "shut, closed"
+  },
+  {
+    "id": 753,
+    "letter": "Κ",
+    "greek": "κλειστ-ός, ή, -ό [for the light, electronic devices]",
+    "english": "turned off"
+  },
+  {
+    "id": 754,
+    "letter": "Κ",
+    "greek": "κλέφτης, ο / κλέφτρα, η",
+    "english": "thief, robber"
+  },
+  {
+    "id": 755,
+    "letter": "Κ",
+    "greek": "κλοπή, η",
+    "english": "theft, robbery"
+  },
+  {
+    "id": 756,
+    "letter": "Κ",
+    "greek": "κλόουν, ο",
+    "english": "clown"
+  },
+  {
+    "id": 757,
+    "letter": "Κ",
+    "greek": "κόβω",
+    "english": "to cut, to chop, to cut off"
+  },
+  {
+    "id": 758,
+    "letter": "Κ",
+    "greek": "κοιμάμαι",
+    "english": "to sleep"
+  },
+  {
+    "id": 759,
+    "letter": "Κ",
+    "greek": "κομμάτι, το [see also μέρος]",
+    "english": "part"
+  },
+  {
+    "id": 760,
+    "letter": "Κ",
+    "greek": "κοινωνικ-ός, -ή, -ό",
+    "english": "social"
+  },
+  {
+    "id": 761,
+    "letter": "Κ",
+    "greek": "κοιτώ, κοιτάζω",
+    "english": "to look (at)"
+  },
+  {
+    "id": 762,
+    "letter": "Κ",
+    "greek": "κόκκιν-ος, -η, -ο",
+    "english": "red"
+  },
+  {
+    "id": 763,
+    "letter": "Κ",
+    "greek": "κολλάω, -ώ",
+    "english": "to stick"
+  },
+  {
+    "id": 764,
+    "letter": "Κ",
+    "greek": "κολόνα, η",
+    "english": "column, pillar"
+  },
+  {
+    "id": 765,
+    "letter": "Κ",
+    "greek": "κολυμβητήριο, το",
+    "english": "swimming pool"
+  },
+  {
+    "id": 766,
+    "letter": "Κ",
+    "greek": "κολύμπι, το",
+    "english": "swimming"
+  },
+  {
+    "id": 767,
+    "letter": "Κ",
+    "greek": "Κομοτηνή, η",
+    "english": "Komotimi"
+  },
+  {
+    "id": 768,
+    "letter": "Κ",
+    "greek": "κομμάτι, το",
+    "english": "piece, part"
+  },
+  {
+    "id": 769,
+    "letter": "Κ",
+    "greek": "κομμωτής, ο / κομμώτρια, η",
+    "english": "hairdresser, hair stylist"
+  },
+  {
+    "id": 770,
+    "letter": "Κ",
+    "greek": "κομμωτήριο, το",
+    "english": "hairdresser’s / hair salon"
+  },
+  {
+    "id": 771,
+    "letter": "Κ",
+    "greek": "κοντά",
+    "english": "close, near, nearby"
+  },
+  {
+    "id": 772,
+    "letter": "Κ",
+    "greek": "κοντ-ός, -ή, -ό",
+    "english": "short"
+  },
+  {
+    "id": 773,
+    "letter": "Κ",
+    "greek": "κοπέλα, η",
+    "english": "girl"
+  },
+  {
+    "id": 774,
+    "letter": "Κ",
+    "greek": "κόρη, η",
+    "english": "daughter"
+  },
+  {
+    "id": 775,
+    "letter": "Κ",
+    "greek": "κορίτσι, το",
+    "english": "girl"
+  },
+  {
+    "id": 776,
+    "letter": "Κ",
+    "greek": "κορυφή, η",
+    "english": "top, peak"
+  },
+  {
+    "id": 777,
+    "letter": "Κ",
+    "greek": "κόσμημα, το",
+    "english": "jewelry, jewellery"
+  },
+  {
+    "id": 778,
+    "letter": "Κ",
+    "greek": "κόσμος, ο",
+    "english": "people, crowd, world"
+  },
+  {
+    "id": 779,
+    "letter": "Κ",
+    "greek": "κοστίζω [see also κάνω]",
+    "english": "to cost"
+  },
+  {
+    "id": 780,
+    "letter": "Κ",
+    "greek": "κοστούμι, το",
+    "english": "suit, costume"
+  },
+  {
+    "id": 781,
+    "letter": "Κ",
+    "greek": "κοτόπουλο, το / κότα, η",
+    "english": "chicken"
+  },
+  {
+    "id": 782,
+    "letter": "Κ",
+    "greek": "κουβέρτα, η",
+    "english": "blanket"
+  },
+  {
+    "id": 783,
+    "letter": "Κ",
+    "greek": "κουζίνα, η [room]",
+    "english": "kitchen"
+  },
+  {
+    "id": 784,
+    "letter": "Κ",
+    "greek": "κουζίνα ηλεκτρική, η [kitchen appliance]",
+    "english": "(electric) stove, (electric) cooker"
+  },
+  {
+    "id": 785,
+    "letter": "Κ",
+    "greek": "κουμπάρος, ο",
+    "english": "best man"
+  },
+  {
+    "id": 786,
+    "letter": "Κ",
+    "greek": "κουμπάρα, η",
+    "english": "maid of honor"
+  },
+  {
+    "id": 787,
+    "letter": "Κ",
+    "greek": "κουνουπίδι, το",
+    "english": "cauliflower"
+  },
+  {
+    "id": 788,
+    "letter": "Κ",
+    "greek": "κουταλιά, η",
+    "english": "spoonful"
+  },
+  {
+    "id": 789,
+    "letter": "Κ",
+    "greek": "κουτί, το",
+    "english": "box"
+  },
+  {
+    "id": 790,
+    "letter": "Κ",
+    "greek": "κουράζω",
+    "english": "to tire"
+  },
+  {
+    "id": 791,
+    "letter": "Κ",
+    "greek": "κούραση, η",
+    "english": "tiredness, fatigue"
+  },
+  {
+    "id": 792,
+    "letter": "Κ",
+    "greek": "κουρασμέν-ος, -η, -ο",
+    "english": "tired"
+  },
+  {
+    "id": 793,
+    "letter": "Κ",
+    "greek": "κουραστικ-ός, -ή, -ό",
+    "english": "tiring"
+  },
+  {
+    "id": 794,
+    "letter": "Κ",
+    "greek": "κουρτίνα, η",
+    "english": "curtain"
+  },
+  {
+    "id": 795,
+    "letter": "Κ",
+    "greek": "κρασί, το",
+    "english": "wine"
+  },
+  {
+    "id": 796,
+    "letter": "Κ",
+    "greek": "κρατάω, -ώ",
+    "english": "to hold, to last"
+  },
+  {
+    "id": 797,
+    "letter": "Κ",
+    "greek": "κρατικ-ός, -ή, -ό",
+    "english": "national, of state"
+  },
+  {
+    "id": 798,
+    "letter": "Κ",
+    "greek": "κρέας, το",
+    "english": "meat"
+  },
+  {
+    "id": 799,
+    "letter": "Κ",
+    "greek": "κρεβάτι, το",
+    "english": "bed"
+  },
+  {
+    "id": 800,
+    "letter": "Κ",
+    "greek": "κρέμα, η",
+    "english": "cream"
+  },
+  {
+    "id": 801,
+    "letter": "Κ",
+    "greek": "Κρήτη, η",
+    "english": "Crete"
+  },
+  {
+    "id": 802,
+    "letter": "Κ",
+    "greek": "Κρητικ-ός, -ιά, -ό",
+    "english": "Cretan / from Crete"
+  },
+  {
+    "id": 803,
+    "letter": "Κ",
+    "greek": "κριθάρι, το",
+    "english": "barley"
+  },
+  {
+    "id": 804,
+    "letter": "Κ",
+    "greek": "κρύβω",
+    "english": "to hide"
+  },
+  {
+    "id": 805,
+    "letter": "Κ",
+    "greek": "κρύ-ος, -α, -ο",
+    "english": "cold, chilly"
+  },
+  {
+    "id": 806,
+    "letter": "Κ",
+    "greek": "κρύο, το",
+    "english": "cold"
+  },
+  {
+    "id": 807,
+    "letter": "Κ",
+    "greek": "κάνει/έχει κρύο",
+    "english": "it is cold"
+  },
+  {
+    "id": 808,
+    "letter": "Κ",
+    "greek": "κρυώνω",
+    "english": "to be cold, to get cold"
+  },
+  {
+    "id": 809,
+    "letter": "Κ",
+    "greek": "κτίριο, το",
+    "english": "building"
+  },
+  {
+    "id": 810,
+    "letter": "Κ",
+    "greek": "κύκλος, ο",
+    "english": "circle"
+  },
+  {
+    "id": 811,
+    "letter": "Κ",
+    "greek": "κυλικείο, το",
+    "english": "canteen"
+  },
+  {
+    "id": 812,
+    "letter": "Κ",
+    "greek": "κύμα, το",
+    "english": "wave"
+  },
+  {
+    "id": 813,
+    "letter": "Κ",
+    "greek": "κυρία, η",
+    "english": "lady, madam"
+  },
+  {
+    "id": 814,
+    "letter": "Κ",
+    "greek": "Κυριακή, η [day of the week]",
+    "english": "Sunday"
+  },
+  {
+    "id": 815,
+    "letter": "Κ",
+    "greek": "Κυριακή, η [proper name]",
+    "english": "Kyriaki"
+  },
+  {
+    "id": 816,
+    "letter": "Κ",
+    "greek": "Κυριάκος, ο",
+    "english": "Kyriakos"
+  },
+  {
+    "id": 817,
+    "letter": "Κ",
+    "greek": "κύριος, ο",
+    "english": "sir, mister"
+  },
+  {
+    "id": 818,
+    "letter": "Κ",
+    "greek": "κυρία, η",
+    "english": "madam, lady"
+  },
+  {
+    "id": 819,
+    "letter": "Κ",
+    "greek": "κωμικ-ός, -ή, -ό",
+    "english": "comic"
+  },
+  {
+    "id": 820,
+    "letter": "Κ",
+    "greek": "Κωνσταντινούπολη, η",
+    "english": "Constantinople/Istanbul"
+  },
+  {
+    "id": 821,
+    "letter": "Κ",
+    "greek": "Κώστας, ο",
+    "english": "Kostas"
+  },
+  {
+    "id": 822,
+    "letter": "Λ",
+    "greek": "λαβύρινθος, ο",
+    "english": "labyrinth"
+  },
+  {
+    "id": 823,
+    "letter": "Λ",
+    "greek": "λάθος, το [noun]",
+    "english": "mistake, error"
+  },
+  {
+    "id": 824,
+    "letter": "Λ",
+    "greek": "λάθος, ο λάθος, η, λάθος το [adjective]",
+    "english": "false, incorrect, wrong"
+  },
+  {
+    "id": 825,
+    "letter": "Λ",
+    "greek": "λαϊκή μουσική, η",
+    "english": "popular music"
+  },
+  {
+    "id": 826,
+    "letter": "Λ",
+    "greek": "λαιμός, ο",
+    "english": "neck"
+  },
+  {
+    "id": 827,
+    "letter": "Λ",
+    "greek": "Λάρισα, η",
+    "english": "Larissa"
+  },
+  {
+    "id": 828,
+    "letter": "Λ",
+    "greek": "λάτιν χορός, ο",
+    "english": "latin dance"
+  },
+  {
+    "id": 829,
+    "letter": "Λ",
+    "greek": "λαχανικό, το",
+    "english": "vegetable"
+  },
+  {
+    "id": 830,
+    "letter": "Λ",
+    "greek": "λείπω",
+    "english": "to be absent, to be missing"
+  },
+  {
+    "id": 831,
+    "letter": "Λ",
+    "greek": "λειτουργία, η",
+    "english": "service, operation, function"
+  },
+  {
+    "id": 832,
+    "letter": "Λ",
+    "greek": "λειτουργώ [for public services]",
+    "english": "to be open"
+  },
+  {
+    "id": 833,
+    "letter": "Λ",
+    "greek": "λειτουργώ [for machines, appliances]",
+    "english": "to work, to function"
+  },
+  {
+    "id": 834,
+    "letter": "Λ",
+    "greek": "λεκές, ο",
+    "english": "stain"
+  },
+  {
+    "id": 835,
+    "letter": "Λ",
+    "greek": "λεμόνι, το",
+    "english": "lemon"
+  },
+  {
+    "id": 836,
+    "letter": "Λ",
+    "greek": "λέξη, η",
+    "english": "word"
+  },
+  {
+    "id": 837,
+    "letter": "Λ",
+    "greek": "λεξικό, το",
+    "english": "dictionary"
+  },
+  {
+    "id": 838,
+    "letter": "Λ",
+    "greek": "λεξιλόγιο, το",
+    "english": "vocabulary"
+  },
+  {
+    "id": 839,
+    "letter": "Λ",
+    "greek": "λεπτό, το",
+    "english": "minute"
+  },
+  {
+    "id": 840,
+    "letter": "Λ",
+    "greek": "λεπτομέρεια, η",
+    "english": "detail"
+  },
+  {
+    "id": 841,
+    "letter": "Λ",
+    "greek": "Λευκός Πύργος, ο [monument in Thessaloniki]",
+    "english": "White Tower"
+  },
+  {
+    "id": 842,
+    "letter": "Λ",
+    "greek": "λεφτά, τα [see also χρήματα]",
+    "english": "money"
+  },
+  {
+    "id": 843,
+    "letter": "Λ",
+    "greek": "λέω",
+    "english": "to say"
+  },
+  {
+    "id": 844,
+    "letter": "Λ",
+    "greek": "λεωφορείο, το",
+    "english": "bus"
+  },
+  {
+    "id": 845,
+    "letter": "Λ",
+    "greek": "λήγω [for products]",
+    "english": "to expire"
+  },
+  {
+    "id": 846,
+    "letter": "Λ",
+    "greek": "λήγω [for actions]",
+    "english": "to end"
+  },
+  {
+    "id": 847,
+    "letter": "Λ",
+    "greek": "ληξιαρχείο, το",
+    "english": "registry office"
+  },
+  {
+    "id": 848,
+    "letter": "Λ",
+    "greek": "λιακάδα, η",
+    "english": "sunshine"
+  },
+  {
+    "id": 849,
+    "letter": "Λ",
+    "greek": "(για) λίγο [temporal]",
+    "english": "for a while"
+  },
+  {
+    "id": 850,
+    "letter": "Λ",
+    "greek": "(σε) λίγο [temporal]",
+    "english": "in a while"
+  },
+  {
+    "id": 851,
+    "letter": "Λ",
+    "greek": "λίγ-οι, -ες, -α [countable]",
+    "english": "a few"
+  },
+  {
+    "id": 852,
+    "letter": "Λ",
+    "greek": "λίγ-ος, -η, -ο [non countable]",
+    "english": "some, a little"
+  },
+  {
+    "id": 853,
+    "letter": "Λ",
+    "greek": "λιμάνι, το",
+    "english": "port"
+  },
+  {
+    "id": 854,
+    "letter": "Λ",
+    "greek": "Λίνκον Αβραάμ, o [American President]",
+    "english": "Abraham Lincoln"
+  },
+  {
+    "id": 855,
+    "letter": "Λ",
+    "greek": "Λίτσα, η",
+    "english": "Litsa"
+  },
+  {
+    "id": 856,
+    "letter": "Λ",
+    "greek": "λιώνω",
+    "english": "to melt"
+  },
+  {
+    "id": 857,
+    "letter": "Λ",
+    "greek": "λογαριασμός, ο",
+    "english": "bill"
+  },
+  {
+    "id": 858,
+    "letter": "Λ",
+    "greek": "λόγια, τα",
+    "english": "words"
+  },
+  {
+    "id": 859,
+    "letter": "Λ",
+    "greek": "λογοτεχνία, η",
+    "english": "literature"
+  },
+  {
+    "id": 860,
+    "letter": "Λ",
+    "greek": "Λονδίνο, το",
+    "english": "London"
+  },
+  {
+    "id": 861,
+    "letter": "Λ",
+    "greek": "Λούβρο, το [museum in Paris]",
+    "english": "Louvre"
+  },
+  {
+    "id": 862,
+    "letter": "Λ",
+    "greek": "λουλούδι, το",
+    "english": "flower"
+  },
+  {
+    "id": 863,
+    "letter": "Λ",
+    "greek": "Λύκειο, το",
+    "english": "High school"
+  },
+  {
+    "id": 864,
+    "letter": "Λ",
+    "greek": "λυπάμαι",
+    "english": "to be sorry, to be sad"
+  },
+  {
+    "id": 865,
+    "letter": "Λ",
+    "greek": "λύση, η",
+    "english": "solution, answer"
+  },
+  {
+    "id": 866,
+    "letter": "Μ",
+    "greek": "μ.μ. [abb]",
+    "english": "after noon"
+  },
+  {
+    "id": 867,
+    "letter": "Μ",
+    "greek": "μα [see also αλλά, όμως]",
+    "english": "but"
+  },
+  {
+    "id": 868,
+    "letter": "Μ",
+    "greek": "μαγαζί, το [see also κατάστημα]",
+    "english": "shop, store"
+  },
+  {
+    "id": 869,
+    "letter": "Μ",
+    "greek": "μαγιό, το",
+    "english": "swim suit, bathing suit"
+  },
+  {
+    "id": 870,
+    "letter": "Μ",
+    "greek": "μάγειρας, ο",
+    "english": "cook, chef"
+  },
+  {
+    "id": 871,
+    "letter": "Μ",
+    "greek": "μαγειρική, η",
+    "english": "cooking"
+  },
+  {
+    "id": 872,
+    "letter": "Μ",
+    "greek": "μαγειρεύω",
+    "english": "to cook"
+  },
+  {
+    "id": 873,
+    "letter": "Μ",
+    "greek": "μαζεύω από κάτω",
+    "english": "to pick"
+  },
+  {
+    "id": 874,
+    "letter": "Μ",
+    "greek": "μαζεύω [see also συλλέγω]",
+    "english": "to collect"
+  },
+  {
+    "id": 875,
+    "letter": "Μ",
+    "greek": "μαζί",
+    "english": "together"
+  },
+  {
+    "id": 876,
+    "letter": "Μ",
+    "greek": "μαζί με",
+    "english": "with"
+  },
+  {
+    "id": 877,
+    "letter": "Μ",
+    "greek": "μαθαίνω",
+    "english": "to learn"
+  },
+  {
+    "id": 878,
+    "letter": "Μ",
+    "greek": "μάθημα, το",
+    "english": "subject, lesson, course, class"
+  },
+  {
+    "id": 879,
+    "letter": "Μ",
+    "greek": "Μαθηματικά, τα",
+    "english": "Mathematics, Maths"
+  },
+  {
+    "id": 880,
+    "letter": "Μ",
+    "greek": "Μάιος, ο",
+    "english": "May"
+  },
+  {
+    "id": 881,
+    "letter": "Μ",
+    "greek": "μακαρόνια, τα",
+    "english": "macaroni, spaghetti, pasta"
+  },
+  {
+    "id": 882,
+    "letter": "Μ",
+    "greek": "μακάρι",
+    "english": "if only, I wish"
+  },
+  {
+    "id": 883,
+    "letter": "Μ",
+    "greek": "μακριά",
+    "english": "far, far away, away"
+  },
+  {
+    "id": 884,
+    "letter": "Μ",
+    "greek": "μαλακ-ός, -ή, -ό",
+    "english": "soft, smooth"
+  },
+  {
+    "id": 885,
+    "letter": "Μ",
+    "greek": "μαλλιά, τα",
+    "english": "hair"
+  },
+  {
+    "id": 886,
+    "letter": "Μ",
+    "greek": "μαλώνω",
+    "english": "to quarrel, to argue, to fight"
+  },
+  {
+    "id": 887,
+    "letter": "Μ",
+    "greek": "μαμά, η [see also μητέρα]",
+    "english": "mom, mum, mommy"
+  },
+  {
+    "id": 888,
+    "letter": "Μ",
+    "greek": "Μανόλης, ο",
+    "english": "Manolis"
+  },
+  {
+    "id": 889,
+    "letter": "Μ",
+    "greek": "μαντεύω",
+    "english": "to guess"
+  },
+  {
+    "id": 890,
+    "letter": "Μ",
+    "greek": "μαξιλάρι, το",
+    "english": "pillow"
+  },
+  {
+    "id": 891,
+    "letter": "Μ",
+    "greek": "Μαίρη, η",
+    "english": "Mary"
+  },
+  {
+    "id": 892,
+    "letter": "Μ",
+    "greek": "Μάρθα, η",
+    "english": "Martha"
+  },
+  {
+    "id": 893,
+    "letter": "Μ",
+    "greek": "Μαρία, η",
+    "english": "Maria, Mary"
+  },
+  {
+    "id": 894,
+    "letter": "Μ",
+    "greek": "Μαρίνα, η",
+    "english": "Marina"
+  },
+  {
+    "id": 895,
+    "letter": "Μ",
+    "greek": "Μαριάννα, η",
+    "english": "Marianna"
+  },
+  {
+    "id": 896,
+    "letter": "Μ",
+    "greek": "Μάριος, ο",
+    "english": "Marios"
+  },
+  {
+    "id": 897,
+    "letter": "Μ",
+    "greek": "μάρκα αυτοκινήτου, η",
+    "english": "model"
+  },
+  {
+    "id": 898,
+    "letter": "Μ",
+    "greek": "μαρούλι, το",
+    "english": "lettuce"
+  },
+  {
+    "id": 899,
+    "letter": "Μ",
+    "greek": "μάρτυρας, ο/η",
+    "english": "witness"
+  },
+  {
+    "id": 900,
+    "letter": "Μ",
+    "greek": "μάσκα, η",
+    "english": "mask"
+  },
+  {
+    "id": 901,
+    "letter": "Μ",
+    "greek": "μάσκα ομορφιάς, η",
+    "english": "beauty mask"
+  },
+  {
+    "id": 902,
+    "letter": "Μ",
+    "greek": "Μάρτιος, ο",
+    "english": "March"
+  },
+  {
+    "id": 903,
+    "letter": "Μ",
+    "greek": "μάτι, το",
+    "english": "eye"
+  },
+  {
+    "id": 904,
+    "letter": "Μ",
+    "greek": "μαχαίρι, το",
+    "english": "knife"
+  },
+  {
+    "id": 905,
+    "letter": "Μ",
+    "greek": "με λένε",
+    "english": "my name is"
+  },
+  {
+    "id": 906,
+    "letter": "Μ",
+    "greek": "μεγάλ-ος, -η, -ο [age]",
+    "english": "grown up, adult"
+  },
+  {
+    "id": 907,
+    "letter": "Μ",
+    "greek": "μεγάλ-ος, -η, -ο [size]",
+    "english": "big, large"
+  },
+  {
+    "id": 908,
+    "letter": "Μ",
+    "greek": "μεγαλώνω [age]",
+    "english": "to grow up, to grow old"
+  },
+  {
+    "id": 909,
+    "letter": "Μ",
+    "greek": "μεγαλώνω [size]",
+    "english": "to get/become bigger"
+  },
+  {
+    "id": 910,
+    "letter": "Μ",
+    "greek": "μέγαρο, το",
+    "english": "palace"
+  },
+  {
+    "id": 911,
+    "letter": "Μ",
+    "greek": "μελαχριν-ός, -ή, -ό",
+    "english": "dark haired"
+  },
+  {
+    "id": 912,
+    "letter": "Μ",
+    "greek": "μέλι, το",
+    "english": "honey"
+  },
+  {
+    "id": 913,
+    "letter": "Μ",
+    "greek": "μέλλον, το",
+    "english": "future"
+  },
+  {
+    "id": 914,
+    "letter": "Μ",
+    "greek": "μεζές, ο",
+    "english": "snack, delicacy, appetizer"
+  },
+  {
+    "id": 915,
+    "letter": "Μ",
+    "greek": "μειωμέν-ος, -η, -ο",
+    "english": "reduced"
+  },
+  {
+    "id": 916,
+    "letter": "Μ",
+    "greek": "μένω [remain]",
+    "english": "to stay"
+  },
+  {
+    "id": 917,
+    "letter": "Μ",
+    "greek": "μένω [address]",
+    "english": "to live"
+  },
+  {
+    "id": 918,
+    "letter": "Μ",
+    "greek": "μέρα, η [see also ημέρα]",
+    "english": "day"
+  },
+  {
+    "id": 919,
+    "letter": "Μ",
+    "greek": "μερικ-οί, -ές, -ά",
+    "english": "some, several"
+  },
+  {
+    "id": 920,
+    "letter": "Μ",
+    "greek": "μέρος, το",
+    "english": "place, location"
+  },
+  {
+    "id": 921,
+    "letter": "Μ",
+    "greek": "μέρος, το [see also κομμάτι]",
+    "english": "part"
+  },
+  {
+    "id": 922,
+    "letter": "Μ",
+    "greek": "μέσα σε",
+    "english": "in, into"
+  },
+  {
+    "id": 923,
+    "letter": "Μ",
+    "greek": "μεσημέρι, το",
+    "english": "noon"
+  },
+  {
+    "id": 924,
+    "letter": "Μ",
+    "greek": "μεσημεριανό, το",
+    "english": "lunch"
+  },
+  {
+    "id": 925,
+    "letter": "Μ",
+    "greek": "μεσίτης, ο / μεσίτρια, η",
+    "english": "broker, real estate agent"
+  },
+  {
+    "id": 926,
+    "letter": "Μ",
+    "greek": "μετά",
+    "english": "after, afterwards"
+  },
+  {
+    "id": 927,
+    "letter": "Μ",
+    "greek": "μετακίνηση, η",
+    "english": "transportation"
+  },
+  {
+    "id": 928,
+    "letter": "Μ",
+    "greek": "μετακομίζω",
+    "english": "to move"
+  },
+  {
+    "id": 929,
+    "letter": "Μ",
+    "greek": "μεταφέρω",
+    "english": "to transfer, to transport, to carry"
+  },
+  {
+    "id": 930,
+    "letter": "Μ",
+    "greek": "μεταφορικό μέσο, το",
+    "english": "means of transport"
+  },
+  {
+    "id": 931,
+    "letter": "Μ",
+    "greek": "μετρό, το",
+    "english": "metro, subway, underground, tube"
+  },
+  {
+    "id": 932,
+    "letter": "Μ",
+    "greek": "μέτρι-ος, -α, -ο",
+    "english": "medium, average"
+  },
+  {
+    "id": 933,
+    "letter": "Μ",
+    "greek": "μέχρι",
+    "english": "until, till, up to, by"
+  },
+  {
+    "id": 934,
+    "letter": "Μ",
+    "greek": "μήλο, το",
+    "english": "apple"
+  },
+  {
+    "id": 935,
+    "letter": "Μ",
+    "greek": "μήνας, ο",
+    "english": "month"
+  },
+  {
+    "id": 936,
+    "letter": "Μ",
+    "greek": "μήνυμα, το",
+    "english": "message"
+  },
+  {
+    "id": 937,
+    "letter": "Μ",
+    "greek": "μήπως",
+    "english": "whether, if"
+  },
+  {
+    "id": 938,
+    "letter": "Μ",
+    "greek": "μητέρα, η [see also μαμά]",
+    "english": "mother, mom"
+  },
+  {
+    "id": 939,
+    "letter": "Μ",
+    "greek": "μηχανικός, ο/η",
+    "english": "engineer, mechanic"
+  },
+  {
+    "id": 940,
+    "letter": "Μ",
+    "greek": "μικρ-ός, -ή, -ό [age; see also νέος]",
+    "english": "little, young"
+  },
+  {
+    "id": 941,
+    "letter": "Μ",
+    "greek": "μικρ-ός, -ή, -ό [size]",
+    "english": "small, little"
+  },
+  {
+    "id": 942,
+    "letter": "Μ",
+    "greek": "μικρόφωνο, το",
+    "english": "microphone"
+  },
+  {
+    "id": 943,
+    "letter": "Μ",
+    "greek": "μιλάω, -ώ",
+    "english": "to talk, to speak"
+  },
+  {
+    "id": 944,
+    "letter": "Μ",
+    "greek": "Μίρκα, η",
+    "english": "Mirka"
+  },
+  {
+    "id": 945,
+    "letter": "Μ",
+    "greek": "μισθός, ο",
+    "english": "salary, wage"
+  },
+  {
+    "id": 946,
+    "letter": "Μ",
+    "greek": "μισ-ός, -ή, -ό",
+    "english": "half"
+  },
+  {
+    "id": 947,
+    "letter": "Μ",
+    "greek": "Μιχάλης, ο",
+    "english": "Michael"
+  },
+  {
+    "id": 948,
+    "letter": "Μ",
+    "greek": "μνημείο, το",
+    "english": "monument"
+  },
+  {
+    "id": 949,
+    "letter": "Μ",
+    "greek": "μόδα, η",
+    "english": "fashion, trend"
+  },
+  {
+    "id": 950,
+    "letter": "Μ",
+    "greek": "μολύβι, το",
+    "english": "pencil"
+  },
+  {
+    "id": 951,
+    "letter": "Μ",
+    "greek": "μοναδικ-ός, -ή, -ό [see also μόνος]",
+    "english": "unique, one of a kind, only"
+  },
+  {
+    "id": 952,
+    "letter": "Μ",
+    "greek": "μόνιμα",
+    "english": "permanently"
+  },
+  {
+    "id": 953,
+    "letter": "Μ",
+    "greek": "μόνο",
+    "english": "only"
+  },
+  {
+    "id": 954,
+    "letter": "Μ",
+    "greek": "μονοκατοικία, η",
+    "english": "detached house"
+  },
+  {
+    "id": 955,
+    "letter": "Μ",
+    "greek": "μόν-ος, -η, -ο",
+    "english": "alone"
+  },
+  {
+    "id": 956,
+    "letter": "Μ",
+    "greek": "μόν-ος, -η, -ο [see also μοναδικός]",
+    "english": "alone, only"
+  },
+  {
+    "id": 957,
+    "letter": "Μ",
+    "greek": "μονόκλινο (δωμάτιο), το",
+    "english": "sigle room"
+  },
+  {
+    "id": 958,
+    "letter": "Μ",
+    "greek": "μοντέρν-ος, -α, -ο",
+    "english": "modern"
+  },
+  {
+    "id": 959,
+    "letter": "Μ",
+    "greek": "μουσακάς, ο [Greek dish/food]",
+    "english": "moussaka"
+  },
+  {
+    "id": 960,
+    "letter": "Μ",
+    "greek": "μουσείο, το",
+    "english": "museum"
+  },
+  {
+    "id": 961,
+    "letter": "Μ",
+    "greek": "μουσική, η",
+    "english": "music"
+  },
+  {
+    "id": 962,
+    "letter": "Μ",
+    "greek": "μουσικό κουτί, το",
+    "english": "music box"
+  },
+  {
+    "id": 963,
+    "letter": "Μ",
+    "greek": "μουσικό όργανο, το",
+    "english": "musical instrument"
+  },
+  {
+    "id": 964,
+    "letter": "Μ",
+    "greek": "μουσικός, ο/η",
+    "english": "musician"
+  },
+  {
+    "id": 965,
+    "letter": "Μ",
+    "greek": "μπαίνω",
+    "english": "to get into, to enter"
+  },
+  {
+    "id": 966,
+    "letter": "Μ",
+    "greek": "μπακλαβάς, ο [Greek sweet]",
+    "english": "baklava"
+  },
+  {
+    "id": 967,
+    "letter": "Μ",
+    "greek": "μπαλκόνι, το",
+    "english": "balcony"
+  },
+  {
+    "id": 968,
+    "letter": "Μ",
+    "greek": "μπαμπάς, ο [see also πατέρας]",
+    "english": "dad, daddy"
+  },
+  {
+    "id": 969,
+    "letter": "Μ",
+    "greek": "Μπάμπης, ο",
+    "english": "Babis"
+  },
+  {
+    "id": 970,
+    "letter": "Μ",
+    "greek": "μπανάνα, η",
+    "english": "banana"
+  },
+  {
+    "id": 971,
+    "letter": "Μ",
+    "greek": "μπανιέρα, η",
+    "english": "bath tub"
+  },
+  {
+    "id": 972,
+    "letter": "Μ",
+    "greek": "μπάνιο, το [room]",
+    "english": "bathroom, bath"
+  },
+  {
+    "id": 973,
+    "letter": "Μ",
+    "greek": "μπαρ, το",
+    "english": "bar"
+  },
+  {
+    "id": 974,
+    "letter": "Μ",
+    "greek": "κάνω μπάνιο [at home]",
+    "english": "to have/take a bath"
+  },
+  {
+    "id": 975,
+    "letter": "Μ",
+    "greek": "κάνω μπάνιο [at the sea]",
+    "english": "to swim, to have a swim"
+  },
+  {
+    "id": 976,
+    "letter": "Μ",
+    "greek": "μπερδεύω",
+    "english": "to confuse, to tangle"
+  },
+  {
+    "id": 977,
+    "letter": "Μ",
+    "greek": "μπουκάλι, το",
+    "english": "bottle"
+  },
+  {
+    "id": 978,
+    "letter": "Μ",
+    "greek": "μπλε",
+    "english": "blue"
+  },
+  {
+    "id": 979,
+    "letter": "Μ",
+    "greek": "μπορώ",
+    "english": "can"
+  },
+  {
+    "id": 980,
+    "letter": "Μ",
+    "greek": "μπουφάν, το",
+    "english": "jacket, coat"
+  },
+  {
+    "id": 981,
+    "letter": "Μ",
+    "greek": "μπρόκολο, το",
+    "english": "broccoli"
+  },
+  {
+    "id": 982,
+    "letter": "Μ",
+    "greek": "μπροστά",
+    "english": "ahead"
+  },
+  {
+    "id": 983,
+    "letter": "Μ",
+    "greek": "μπροστά από",
+    "english": "in front of"
+  },
+  {
+    "id": 984,
+    "letter": "Μ",
+    "greek": "μπριζόλα, η",
+    "english": "stake"
+  },
+  {
+    "id": 985,
+    "letter": "Μ",
+    "greek": "μπύρα, η",
+    "english": "beer"
+  },
+  {
+    "id": 986,
+    "letter": "Μ",
+    "greek": "μυστικό, το",
+    "english": "secret"
+  },
+  {
+    "id": 987,
+    "letter": "Μ",
+    "greek": "μωρό, το",
+    "english": "baby"
+  },
+  {
+    "id": 988,
+    "letter": "Ν",
+    "greek": "Να ζήσεις!",
+    "english": "Happy birthday!"
+  },
+  {
+    "id": 989,
+    "letter": "Ν",
+    "greek": "Ναβαρίνου (πλατεία), η [in Thessaloniki]",
+    "english": "Navarinou square"
+  },
+  {
+    "id": 990,
+    "letter": "Ν",
+    "greek": "ναός, ο",
+    "english": "church, temple"
+  },
+  {
+    "id": 991,
+    "letter": "Ν",
+    "greek": "νέα, τα",
+    "english": "news"
+  },
+  {
+    "id": 992,
+    "letter": "Ν",
+    "greek": "νεαρ-ός, -ή, -ό",
+    "english": "young"
+  },
+  {
+    "id": 993,
+    "letter": "Ν",
+    "greek": "Νεκτάριος, ο",
+    "english": "Nektarios"
+  },
+  {
+    "id": 994,
+    "letter": "Ν",
+    "greek": "νέ-ος, -α, -ο [age; see also μικρός]",
+    "english": "young"
+  },
+  {
+    "id": 995,
+    "letter": "Ν",
+    "greek": "νέ-ος, -α, -ο [see also καινούργιος]",
+    "english": "new"
+  },
+  {
+    "id": 996,
+    "letter": "Ν",
+    "greek": "νερό, το",
+    "english": "water"
+  },
+  {
+    "id": 997,
+    "letter": "Ν",
+    "greek": "νευριάζω",
+    "english": "to get angry/irritated/mad"
+  },
+  {
+    "id": 998,
+    "letter": "Ν",
+    "greek": "νηπιαγωγείο, το",
+    "english": "kindergarten"
+  },
+  {
+    "id": 999,
+    "letter": "Ν",
+    "greek": "νησί, το",
+    "english": "island"
+  },
+  {
+    "id": 1000,
+    "letter": "Ν",
+    "greek": "νησιώτικ-ος, -η, -ο",
+    "english": "of the island"
+  },
+  {
+    "id": 1001,
+    "letter": "Ν",
+    "greek": "Νίκη, η",
+    "english": "Niki"
+  },
+  {
+    "id": 1002,
+    "letter": "Ν",
+    "greek": "νικητής, ο / νικήτρια, η",
+    "english": "winner"
+  },
+  {
+    "id": 1003,
+    "letter": "Ν",
+    "greek": "Νίκος, o",
+    "english": "Nick"
+  },
+  {
+    "id": 1004,
+    "letter": "Ν",
+    "greek": "νοικιάζω",
+    "english": "to rent"
+  },
+  {
+    "id": 1005,
+    "letter": "Ν",
+    "greek": "νονός, ο",
+    "english": "godfather"
+  },
+  {
+    "id": 1006,
+    "letter": "Ν",
+    "greek": "νονά, η",
+    "english": "godmother"
+  },
+  {
+    "id": 1007,
+    "letter": "Ν",
+    "greek": "νιώθω",
+    "english": "to feel"
+  },
+  {
+    "id": 1008,
+    "letter": "Ν",
+    "greek": "νομίζω",
+    "english": "to think, to believe"
+  },
+  {
+    "id": 1009,
+    "letter": "Ν",
+    "greek": "νοσοκόμος, ο / νοσοκόμα, η",
+    "english": "nurse"
+  },
+  {
+    "id": 1010,
+    "letter": "Ν",
+    "greek": "νόστιμ-ος, -η, -ο",
+    "english": "delicious"
+  },
+  {
+    "id": 1011,
+    "letter": "Ν",
+    "greek": "νότα, η",
+    "english": "note"
+  },
+  {
+    "id": 1012,
+    "letter": "Ν",
+    "greek": "νότι-ος, -α, -ο",
+    "english": "southern"
+  },
+  {
+    "id": 1013,
+    "letter": "Ν",
+    "greek": "νούμερο, το [see also αριθμός]",
+    "english": "number"
+  },
+  {
+    "id": 1014,
+    "letter": "Ν",
+    "greek": "Ντίνα, η",
+    "english": "Ntina"
+  },
+  {
+    "id": 1015,
+    "letter": "Ν",
+    "greek": "ντοκιμαντέρ, το",
+    "english": "documentary"
+  },
+  {
+    "id": 1016,
+    "letter": "Ν",
+    "greek": "ντομάτα, η",
+    "english": "tomato"
+  },
+  {
+    "id": 1017,
+    "letter": "Ν",
+    "greek": "ντουλάπα, η",
+    "english": "closet, wardrobe"
+  },
+  {
+    "id": 1018,
+    "letter": "Ν",
+    "greek": "ντουλάπι, το",
+    "english": "cupboard"
+  },
+  {
+    "id": 1019,
+    "letter": "Ν",
+    "greek": "ντύνομαι",
+    "english": "to get dressed"
+  },
+  {
+    "id": 1020,
+    "letter": "Ν",
+    "greek": "νυστάζω",
+    "english": "to be sleepy"
+  },
+  {
+    "id": 1021,
+    "letter": "Ν",
+    "greek": "νύχτα, η",
+    "english": "night"
+  },
+  {
+    "id": 1022,
+    "letter": "Ν",
+    "greek": "νυχτεριν-ός, -ή, -ό",
+    "english": "overnight"
+  },
+  {
+    "id": 1023,
+    "letter": "Ν",
+    "greek": "νωρίς",
+    "english": "early"
+  },
+  {
+    "id": 1024,
+    "letter": "Ξ",
+    "greek": "ξάδερφος, ο / ξαδέρφη, η",
+    "english": "cousin"
+  },
+  {
+    "id": 1025,
+    "letter": "Ξ",
+    "greek": "ξανά",
+    "english": "again"
+  },
+  {
+    "id": 1026,
+    "letter": "Ξ",
+    "greek": "ξαναβλέπω",
+    "english": "to meet again"
+  },
+  {
+    "id": 1027,
+    "letter": "Ξ",
+    "greek": "ξαναγυρίζω",
+    "english": "to go back, to return"
+  },
+  {
+    "id": 1028,
+    "letter": "Ξ",
+    "greek": "ξαναδιαβάζω",
+    "english": "to read again"
+  },
+  {
+    "id": 1029,
+    "letter": "Ξ",
+    "greek": "ξαναδίνω",
+    "english": "to give again"
+  },
+  {
+    "id": 1030,
+    "letter": "Ξ",
+    "greek": "ξαναμιλάω, -ώ",
+    "english": "to talk again"
+  },
+  {
+    "id": 1031,
+    "letter": "Ξ",
+    "greek": "ξαναλέω",
+    "english": "to repeat, to say again"
+  },
+  {
+    "id": 1032,
+    "letter": "Ξ",
+    "greek": "ξαναπερνάω, -ώ",
+    "english": "to come/pass again"
+  },
+  {
+    "id": 1033,
+    "letter": "Ξ",
+    "greek": "Ξάνθη, η",
+    "english": "Xanthi"
+  },
+  {
+    "id": 1034,
+    "letter": "Ξ",
+    "greek": "ξανθ-ός, -ή/-ιά, -ό",
+    "english": "blond"
+  },
+  {
+    "id": 1035,
+    "letter": "Ξ",
+    "greek": "ξεκινάω, -ώ [transitive]",
+    "english": "to begin, to start"
+  },
+  {
+    "id": 1036,
+    "letter": "Ξ",
+    "greek": "ξεκινάω, -ώ [non transitive]",
+    "english": "to depart, to go"
+  },
+  {
+    "id": 1037,
+    "letter": "Ξ",
+    "greek": "ξεκουράζομαι",
+    "english": "to rest, to relax"
+  },
+  {
+    "id": 1038,
+    "letter": "Ξ",
+    "greek": "ξενοδοχείο, το",
+    "english": "hotel"
+  },
+  {
+    "id": 1039,
+    "letter": "Ξ",
+    "greek": "ξέν-ος, -η, -ο [adjective]",
+    "english": "foreign"
+  },
+  {
+    "id": 1040,
+    "letter": "Ξ",
+    "greek": "ξένος, ο / ξένη η [noun]",
+    "english": "stranger"
+  },
+  {
+    "id": 1041,
+    "letter": "Ξ",
+    "greek": "ξεπερνάω [for a problem, a difficulty]",
+    "english": "to overcome"
+  },
+  {
+    "id": 1042,
+    "letter": "Ξ",
+    "greek": "ξεπερνάω [to go beyond]",
+    "english": "to exceed"
+  },
+  {
+    "id": 1043,
+    "letter": "Ξ",
+    "greek": "ξεπλένω",
+    "english": "to wash out"
+  },
+  {
+    "id": 1044,
+    "letter": "Ξ",
+    "greek": "ξέρω [see also γνωρίζω]",
+    "english": "to know"
+  },
+  {
+    "id": 1045,
+    "letter": "Ξ",
+    "greek": "ξεχωριστ-ός, -ή, -ό",
+    "english": "distinct"
+  },
+  {
+    "id": 1046,
+    "letter": "Ξ",
+    "greek": "ξεχνάω, -ώ",
+    "english": "to forget"
+  },
+  {
+    "id": 1047,
+    "letter": "Ξ",
+    "greek": "ξηρ-ός, -ή, -ό",
+    "english": "dry"
+  },
+  {
+    "id": 1048,
+    "letter": "Ξ",
+    "greek": "ξηρός καρπός, ο",
+    "english": "dried fruit/nuts"
+  },
+  {
+    "id": 1049,
+    "letter": "Ξ",
+    "greek": "ξοδεύω",
+    "english": "to spend"
+  },
+  {
+    "id": 1050,
+    "letter": "Ξ",
+    "greek": "ξύδι, το",
+    "english": "vinegar"
+  },
+  {
+    "id": 1051,
+    "letter": "Ξ",
+    "greek": "ξύλιν-ος, -η, -ο",
+    "english": "wooden"
+  },
+  {
+    "id": 1052,
+    "letter": "Ξ",
+    "greek": "ξυπνάω, -ώ",
+    "english": "to wake up"
+  },
+  {
+    "id": 1053,
+    "letter": "Ο",
+    "greek": "«Ο Θάνατος του εμποράκου» [play by Arthur Miller]",
+    "english": "“Death of a Salesman”"
+  },
+  {
+    "id": 1054,
+    "letter": "Ο",
+    "greek": "ΟΑΣΘ (Οργανισμός Αστικών Συγκοινωνιών Θεσσαλονίκης)",
+    "english": "Organization of Urban Transportation of Thessaloniki"
+  },
+  {
+    "id": 1055,
+    "letter": "Ο",
+    "greek": "ογδόντα",
+    "english": "eighty"
+  },
+  {
+    "id": 1056,
+    "letter": "Ο",
+    "greek": "όγδο-ος, -η, -ο",
+    "english": "eighth"
+  },
+  {
+    "id": 1057,
+    "letter": "Ο",
+    "greek": "οδοντίατρος, ο/η",
+    "english": "dentist"
+  },
+  {
+    "id": 1058,
+    "letter": "Ο",
+    "greek": "οδηγία, η",
+    "english": "instruction, direction"
+  },
+  {
+    "id": 1059,
+    "letter": "Ο",
+    "greek": "οδηγάω, -ώ",
+    "english": "to drive, to guide"
+  },
+  {
+    "id": 1060,
+    "letter": "Ο",
+    "greek": "ο, η, το [article],",
+    "english": "the"
+  },
+  {
+    "id": 1061,
+    "letter": "Ο",
+    "greek": "οικογένεια, η",
+    "english": "family"
+  },
+  {
+    "id": 1062,
+    "letter": "Ο",
+    "greek": "οικογενειακό δέντρο, το",
+    "english": "family tree"
+  },
+  {
+    "id": 1063,
+    "letter": "Ο",
+    "greek": "οικογενειακή κατάσταση, η",
+    "english": "marital status"
+  },
+  {
+    "id": 1064,
+    "letter": "Ο",
+    "greek": "οινόπνευμα, το",
+    "english": "alcohol, spirit"
+  },
+  {
+    "id": 1065,
+    "letter": "Ο",
+    "greek": "Οκτώβριος, ο",
+    "english": "October"
+  },
+  {
+    "id": 1066,
+    "letter": "Ο",
+    "greek": "οδός, η",
+    "english": "road, street"
+  },
+  {
+    "id": 1067,
+    "letter": "Ο",
+    "greek": "όλ-οι, -ες, -α",
+    "english": "all, every"
+  },
+  {
+    "id": 1068,
+    "letter": "Ο",
+    "greek": "όλ-ος, -η, -ο",
+    "english": "the whole"
+  },
+  {
+    "id": 1069,
+    "letter": "Ο",
+    "greek": "ολόκληρ-ος, -η, -ο",
+    "english": "whole, entire"
+  },
+  {
+    "id": 1070,
+    "letter": "Ο",
+    "greek": "ομάδα, η",
+    "english": "team"
+  },
+  {
+    "id": 1071,
+    "letter": "Ο",
+    "greek": "ομιλητής, ο / ομιλήτρια, η",
+    "english": "speaker, lecturer"
+  },
+  {
+    "id": 1072,
+    "letter": "Ο",
+    "greek": "ομίχλη, η",
+    "english": "mist, fog"
+  },
+  {
+    "id": 1073,
+    "letter": "Ο",
+    "greek": "ομορφιά, η",
+    "english": "beauty"
+  },
+  {
+    "id": 1074,
+    "letter": "Ο",
+    "greek": "όμορφ-ος, -η, -ο",
+    "english": "beautiful, pretty"
+  },
+  {
+    "id": 1075,
+    "letter": "Ο",
+    "greek": "ομπρέλα, η",
+    "english": "umbrella"
+  },
+  {
+    "id": 1076,
+    "letter": "Ο",
+    "greek": "όμως [see also αλλά, μα]",
+    "english": "but"
+  },
+  {
+    "id": 1077,
+    "letter": "Ο",
+    "greek": "ονειρεύομαι",
+    "english": "to dream"
+  },
+  {
+    "id": 1078,
+    "letter": "Ο",
+    "greek": "όνομα, το",
+    "english": "name"
+  },
+  {
+    "id": 1079,
+    "letter": "Ο",
+    "greek": "ονοματεπώνυμο, το",
+    "english": "full name"
+  },
+  {
+    "id": 1080,
+    "letter": "Ο",
+    "greek": "οξυγόνο, το",
+    "english": "oxygen"
+  },
+  {
+    "id": 1081,
+    "letter": "Ο",
+    "greek": "όποι-ος, -α, -ο",
+    "english": "whoever"
+  },
+  {
+    "id": 1082,
+    "letter": "Ο",
+    "greek": "οριζόντια [adv]",
+    "english": "horizontally"
+  },
+  {
+    "id": 1083,
+    "letter": "Ο",
+    "greek": "όροφος, ο",
+    "english": "floor"
+  },
+  {
+    "id": 1084,
+    "letter": "Ο",
+    "greek": "όσα",
+    "english": "all that"
+  },
+  {
+    "id": 1085,
+    "letter": "Ο",
+    "greek": "όταν",
+    "english": "when"
+  },
+  {
+    "id": 1086,
+    "letter": "Ο",
+    "greek": "OTE (Οργανισμός Τηλεπικοινωνιών Ελλάδος)",
+    "english": "Hellenic Telecommunications Organization"
+  },
+  {
+    "id": 1087,
+    "letter": "Ο",
+    "greek": "Όσκαρ βραβείο, το",
+    "english": "Oscar award"
+  },
+  {
+    "id": 1088,
+    "letter": "Ο",
+    "greek": "όσπριο, το",
+    "english": "legume"
+  },
+  {
+    "id": 1089,
+    "letter": "Ο",
+    "greek": "ότι",
+    "english": "that"
+  },
+  {
+    "id": 1090,
+    "letter": "Ο",
+    "greek": "ό,τι",
+    "english": "whatever"
+  },
+  {
+    "id": 1091,
+    "letter": "Ο",
+    "greek": "ουζερί, το",
+    "english": "greek tavern"
+  },
+  {
+    "id": 1092,
+    "letter": "Ο",
+    "greek": "ούζο, το",
+    "english": "ouzo (Greek alcoholic drink)"
+  },
+  {
+    "id": 1093,
+    "letter": "Ο",
+    "greek": "όχι",
+    "english": "no"
+  },
+  {
+    "id": 1094,
+    "letter": "Π",
+    "greek": "π.μ. [abb]",
+    "english": "before noon"
+  },
+  {
+    "id": 1095,
+    "letter": "Π",
+    "greek": "τρία πόδια Χαλκιδικής, τα",
+    "english": "the three legs/fingers of the Chalkidiki peninsula"
+  },
+  {
+    "id": 1096,
+    "letter": "Π",
+    "greek": "πάγος, ο",
+    "english": "ice"
+  },
+  {
+    "id": 1097,
+    "letter": "Π",
+    "greek": "παγωτό, το",
+    "english": "ice cream"
+  },
+  {
+    "id": 1098,
+    "letter": "Π",
+    "greek": "παγωνιά, η",
+    "english": "freezing cold"
+  },
+  {
+    "id": 1099,
+    "letter": "Π",
+    "greek": "παθαίνω",
+    "english": "to suffer from, something happens to me"
+  },
+  {
+    "id": 1100,
+    "letter": "Π",
+    "greek": "παιδί, το",
+    "english": "child, kid"
+  },
+  {
+    "id": 1101,
+    "letter": "Π",
+    "greek": "παιδιά, τα",
+    "english": "children, kids"
+  },
+  {
+    "id": 1102,
+    "letter": "Π",
+    "greek": "παιδικ-ός, -ή, -ό",
+    "english": "about/for children"
+  },
+  {
+    "id": 1103,
+    "letter": "Π",
+    "greek": "παίζω",
+    "english": "to play"
+  },
+  {
+    "id": 1104,
+    "letter": "Π",
+    "greek": "παίρνω",
+    "english": "to take"
+  },
+  {
+    "id": 1105,
+    "letter": "Π",
+    "greek": "παιχνίδι, το",
+    "english": "game, toy"
+  },
+  {
+    "id": 1106,
+    "letter": "Π",
+    "greek": "πάλι",
+    "english": "again"
+  },
+  {
+    "id": 1107,
+    "letter": "Π",
+    "greek": "παλι-ός, -ά, -ό",
+    "english": "old"
+  },
+  {
+    "id": 1108,
+    "letter": "Π",
+    "greek": "παλιά [adv]",
+    "english": "in the past, once"
+  },
+  {
+    "id": 1109,
+    "letter": "Π",
+    "greek": "παλτό, το",
+    "english": "coat"
+  },
+  {
+    "id": 1110,
+    "letter": "Π",
+    "greek": "Πανεπιστήμιο, το",
+    "english": "University"
+  },
+  {
+    "id": 1111,
+    "letter": "Π",
+    "greek": "πανεπιστημιακ-ός, -ή, -ό",
+    "english": "of university"
+  },
+  {
+    "id": 1112,
+    "letter": "Π",
+    "greek": "πανσέληνος, η",
+    "english": "full moon"
+  },
+  {
+    "id": 1113,
+    "letter": "Π",
+    "greek": "πάντα",
+    "english": "always"
+  },
+  {
+    "id": 1114,
+    "letter": "Π",
+    "greek": "παντελόνι, το",
+    "english": "trousers (a pair of), pants"
+  },
+  {
+    "id": 1115,
+    "letter": "Π",
+    "greek": "παντζάρι, το",
+    "english": "beetroot"
+  },
+  {
+    "id": 1116,
+    "letter": "Π",
+    "greek": "παντρεμένος, o / παντρεμένη, η",
+    "english": "married"
+  },
+  {
+    "id": 1117,
+    "letter": "Π",
+    "greek": "παντρεύω",
+    "english": "to marry"
+  },
+  {
+    "id": 1118,
+    "letter": "Π",
+    "greek": "παντρεύομαι",
+    "english": "to get married"
+  },
+  {
+    "id": 1119,
+    "letter": "Π",
+    "greek": "πάπλωμα, το",
+    "english": "blanket"
+  },
+  {
+    "id": 1120,
+    "letter": "Π",
+    "greek": "παππούς, ο",
+    "english": "grandfather, grandad, grandpa"
+  },
+  {
+    "id": 1121,
+    "letter": "Π",
+    "greek": "παραγωγή γραπτού λόγου",
+    "english": "writing"
+  },
+  {
+    "id": 1122,
+    "letter": "Π",
+    "greek": "παραγωγή προφορικού λόγου",
+    "english": "speaking"
+  },
+  {
+    "id": 1123,
+    "letter": "Π",
+    "greek": "παραγγέλλω/παραγγέλνω",
+    "english": "to order"
+  },
+  {
+    "id": 1124,
+    "letter": "Π",
+    "greek": "παραγγελία, η",
+    "english": "order"
+  },
+  {
+    "id": 1125,
+    "letter": "Π",
+    "greek": "παράδειγμα, το",
+    "english": "example"
+  },
+  {
+    "id": 1126,
+    "letter": "Π",
+    "greek": "παραδοσιακ-ός, -ή, -ό",
+    "english": "traditional"
+  },
+  {
+    "id": 1127,
+    "letter": "Π",
+    "greek": "παράθυρο, το",
+    "english": "window"
+  },
+  {
+    "id": 1128,
+    "letter": "Π",
+    "greek": "παρακαλώ",
+    "english": "to please"
+  },
+  {
+    "id": 1129,
+    "letter": "Π",
+    "greek": "Σας παρακαλώ!",
+    "english": "Please!"
+  },
+  {
+    "id": 1130,
+    "letter": "Π",
+    "greek": "Παρακαλώ! [in response to “Thank you!”]",
+    "english": "You ’re welcome!"
+  },
+  {
+    "id": 1131,
+    "letter": "Π",
+    "greek": "παρακάτω",
+    "english": "below, following"
+  },
+  {
+    "id": 1132,
+    "letter": "Π",
+    "greek": "παραλία, η",
+    "english": "beach, coast"
+  },
+  {
+    "id": 1133,
+    "letter": "Π",
+    "greek": "παρακολουθώ",
+    "english": "to watch"
+  },
+  {
+    "id": 1134,
+    "letter": "Π",
+    "greek": "παραμονή, η",
+    "english": "eve, the day before"
+  },
+  {
+    "id": 1135,
+    "letter": "Π",
+    "greek": "παράπονο, το",
+    "english": "complaint"
+  },
+  {
+    "id": 1136,
+    "letter": "Π",
+    "greek": "παραπάνω / πιο πάνω",
+    "english": "above"
+  },
+  {
+    "id": 1137,
+    "letter": "Π",
+    "greek": "Παρασκευή, η",
+    "english": "Friday"
+  },
+  {
+    "id": 1138,
+    "letter": "Π",
+    "greek": "παράσταση, η",
+    "english": "show, performance"
+  },
+  {
+    "id": 1139,
+    "letter": "Π",
+    "greek": "παρατηρώ",
+    "english": "to observe, to notice"
+  },
+  {
+    "id": 1140,
+    "letter": "Π",
+    "greek": "παρατήρηση, η",
+    "english": "comment, remark"
+  },
+  {
+    "id": 1141,
+    "letter": "Π",
+    "greek": "παρέα, η",
+    "english": "company"
+  },
+  {
+    "id": 1142,
+    "letter": "Π",
+    "greek": "πάρκιγκ, το",
+    "english": "parking"
+  },
+  {
+    "id": 1143,
+    "letter": "Π",
+    "greek": "παροιμία, η",
+    "english": "proverb, saying"
+  },
+  {
+    "id": 1144,
+    "letter": "Π",
+    "greek": "παρουσιάζω",
+    "english": "to present, to display"
+  },
+  {
+    "id": 1145,
+    "letter": "Π",
+    "greek": "παρουσιάζομαι",
+    "english": "to appear, to be present/presented"
+  },
+  {
+    "id": 1146,
+    "letter": "Π",
+    "greek": "πάστα, η",
+    "english": "cake, sweet"
+  },
+  {
+    "id": 1147,
+    "letter": "Π",
+    "greek": "Πάσχα, το",
+    "english": "Easter"
+  },
+  {
+    "id": 1148,
+    "letter": "Π",
+    "greek": "πατάτα, η",
+    "english": "potato"
+  },
+  {
+    "id": 1149,
+    "letter": "Π",
+    "greek": "πάτωμα, το",
+    "english": "floor"
+  },
+  {
+    "id": 1150,
+    "letter": "Π",
+    "greek": "πεθαίνω",
+    "english": "to die, to pass away"
+  },
+  {
+    "id": 1151,
+    "letter": "Π",
+    "greek": "πεινάω, -ώ",
+    "english": "to be hungry"
+  },
+  {
+    "id": 1152,
+    "letter": "Π",
+    "greek": "πείθω",
+    "english": "to persuade, to convince"
+  },
+  {
+    "id": 1153,
+    "letter": "Π",
+    "greek": "πειράζει",
+    "english": "it matters"
+  },
+  {
+    "id": 1154,
+    "letter": "Π",
+    "greek": "(δεν) πειράζει",
+    "english": "it doesn't matter"
+  },
+  {
+    "id": 1155,
+    "letter": "Π",
+    "greek": "πελάτης, ο / πελάτισσα, η",
+    "english": "client, customer"
+  },
+  {
+    "id": 1156,
+    "letter": "Π",
+    "greek": "περίπτωση, η",
+    "english": "case"
+  },
+  {
+    "id": 1157,
+    "letter": "Π",
+    "greek": "Πέμπτη, η",
+    "english": "Thursday"
+  },
+  {
+    "id": 1158,
+    "letter": "Π",
+    "greek": "πέμπτ-ος, -η, -ο",
+    "english": "fifth"
+  },
+  {
+    "id": 1159,
+    "letter": "Π",
+    "greek": "πενήντα",
+    "english": "fifty"
+  },
+  {
+    "id": 1160,
+    "letter": "Π",
+    "greek": "πεντάγραμμο, το",
+    "english": "pentagram"
+  },
+  {
+    "id": 1161,
+    "letter": "Π",
+    "greek": "πέντε",
+    "english": "five"
+  },
+  {
+    "id": 1162,
+    "letter": "Π",
+    "greek": "πεπόνι, το",
+    "english": "melon"
+  },
+  {
+    "id": 1163,
+    "letter": "Π",
+    "greek": "Περαστικά!",
+    "english": "Get well soon!"
+  },
+  {
+    "id": 1164,
+    "letter": "Π",
+    "greek": "περιγράφω",
+    "english": "to describe"
+  },
+  {
+    "id": 1165,
+    "letter": "Π",
+    "greek": "περιβάλλον, το",
+    "english": "environment"
+  },
+  {
+    "id": 1166,
+    "letter": "Π",
+    "greek": "περιλαμβάνω",
+    "english": "to include"
+  },
+  {
+    "id": 1167,
+    "letter": "Π",
+    "greek": "περιμένω",
+    "english": "to wait"
+  },
+  {
+    "id": 1168,
+    "letter": "Π",
+    "greek": "περιοδικό, το",
+    "english": "magazine"
+  },
+  {
+    "id": 1169,
+    "letter": "Π",
+    "greek": "περιοχή, η",
+    "english": "region, district"
+  },
+  {
+    "id": 1170,
+    "letter": "Π",
+    "greek": "περίπου",
+    "english": "about, more or less"
+  },
+  {
+    "id": 1171,
+    "letter": "Π",
+    "greek": "περισσότερ-ος, -η, -ο",
+    "english": "more"
+  },
+  {
+    "id": 1172,
+    "letter": "Π",
+    "greek": "περνάω, -ώ",
+    "english": "to pass"
+  },
+  {
+    "id": 1173,
+    "letter": "Π",
+    "greek": "περνάω καλά",
+    "english": "to have a good time, to enjoy myself"
+  },
+  {
+    "id": 1174,
+    "letter": "Π",
+    "greek": "περπατάω, -ώ",
+    "english": "to walk"
+  },
+  {
+    "id": 1175,
+    "letter": "Π",
+    "greek": "πέρσι",
+    "english": "last year"
+  },
+  {
+    "id": 1176,
+    "letter": "Π",
+    "greek": "πετάω, -ώ [non transitive]",
+    "english": "to fly"
+  },
+  {
+    "id": 1177,
+    "letter": "Π",
+    "greek": "πετάω, -ώ [transitive]",
+    "english": "to throw"
+  },
+  {
+    "id": 1178,
+    "letter": "Π",
+    "greek": "Πέτρος, ο",
+    "english": "Peter"
+  },
+  {
+    "id": 1179,
+    "letter": "Π",
+    "greek": "πετσέτα, η",
+    "english": "towel"
+  },
+  {
+    "id": 1180,
+    "letter": "Π",
+    "greek": "πέφτω",
+    "english": "to fall"
+  },
+  {
+    "id": 1181,
+    "letter": "Π",
+    "greek": "πηγαίνω",
+    "english": "to go"
+  },
+  {
+    "id": 1182,
+    "letter": "Π",
+    "greek": "μου πηγαίνει [for a cloth]",
+    "english": "something looks good on me, something suits me"
+  },
+  {
+    "id": 1183,
+    "letter": "Π",
+    "greek": "πιάνο, το",
+    "english": "piano"
+  },
+  {
+    "id": 1184,
+    "letter": "Π",
+    "greek": "πιάτο, το",
+    "english": "plate, dish"
+  },
+  {
+    "id": 1185,
+    "letter": "Π",
+    "greek": "πιάτσα ταξί, η",
+    "english": "taxi rank, taxi stand"
+  },
+  {
+    "id": 1186,
+    "letter": "Π",
+    "greek": "πίνακας, o [in a classroom]",
+    "english": "blackboard"
+  },
+  {
+    "id": 1187,
+    "letter": "Π",
+    "greek": "πίνακας, ο [work of art]",
+    "english": "painting"
+  },
+  {
+    "id": 1188,
+    "letter": "Π",
+    "greek": "πίνακας, ο [exercise]",
+    "english": "chart"
+  },
+  {
+    "id": 1189,
+    "letter": "Π",
+    "greek": "πίνω",
+    "english": "to drink"
+  },
+  {
+    "id": 1190,
+    "letter": "Π",
+    "greek": "πιπέρι, το",
+    "english": "pepper"
+  },
+  {
+    "id": 1191,
+    "letter": "Π",
+    "greek": "πιρούνι, το",
+    "english": "fork"
+  },
+  {
+    "id": 1192,
+    "letter": "Π",
+    "greek": "πισίνα, η",
+    "english": "(swimming) pool"
+  },
+  {
+    "id": 1193,
+    "letter": "Π",
+    "greek": "πιστεύω",
+    "english": "to believe"
+  },
+  {
+    "id": 1194,
+    "letter": "Π",
+    "greek": "πιστοποιητικό, το",
+    "english": "certificate"
+  },
+  {
+    "id": 1195,
+    "letter": "Π",
+    "greek": "πίσω",
+    "english": "behind"
+  },
+  {
+    "id": 1196,
+    "letter": "Π",
+    "greek": "θα είμαι πίσω",
+    "english": "I’ll be back"
+  },
+  {
+    "id": 1197,
+    "letter": "Π",
+    "greek": "πλανήτης, ο",
+    "english": "planet"
+  },
+  {
+    "id": 1198,
+    "letter": "Π",
+    "greek": "πλαστικ-ός, -ή, -ό",
+    "english": "plastic"
+  },
+  {
+    "id": 1199,
+    "letter": "Π",
+    "greek": "πλατεία, η",
+    "english": "square"
+  },
+  {
+    "id": 1200,
+    "letter": "Π",
+    "greek": "πλένω",
+    "english": "to wash"
+  },
+  {
+    "id": 1201,
+    "letter": "Π",
+    "greek": "πλένω τα πιάτα",
+    "english": "to do the washing up"
+  },
+  {
+    "id": 1202,
+    "letter": "Π",
+    "greek": "πληγή, η",
+    "english": "wound, injury"
+  },
+  {
+    "id": 1203,
+    "letter": "Π",
+    "greek": "πληροφορία, η πληροφορίες, οι",
+    "english": "information, info"
+  },
+  {
+    "id": 1204,
+    "letter": "Π",
+    "greek": "πληρώνω",
+    "english": "to pay"
+  },
+  {
+    "id": 1205,
+    "letter": "Π",
+    "greek": "πλησιάζω",
+    "english": "to get near, to approach"
+  },
+  {
+    "id": 1206,
+    "letter": "Π",
+    "greek": "πλοίο, το [see also καράβι]",
+    "english": "boat, ship"
+  },
+  {
+    "id": 1207,
+    "letter": "Π",
+    "greek": "πλούσι-ος, -α, -ο",
+    "english": "rich, wealthy"
+  },
+  {
+    "id": 1208,
+    "letter": "Π",
+    "greek": "πλυντήριο, το",
+    "english": "washing machine"
+  },
+  {
+    "id": 1209,
+    "letter": "Π",
+    "greek": "βάζω πλυντήριο",
+    "english": "to do the laundry"
+  },
+  {
+    "id": 1210,
+    "letter": "Π",
+    "greek": "πνίγομαι [food, atmosphere]",
+    "english": "to choke, to suffocate"
+  },
+  {
+    "id": 1211,
+    "letter": "Π",
+    "greek": "πνίγομαι [water]",
+    "english": "to be drawn"
+  },
+  {
+    "id": 1212,
+    "letter": "Π",
+    "greek": "ποδήλατο, το",
+    "english": "bicycle, bike"
+  },
+  {
+    "id": 1213,
+    "letter": "Π",
+    "greek": "ποδιά, η",
+    "english": "apron"
+  },
+  {
+    "id": 1214,
+    "letter": "Π",
+    "greek": "ποιανού, -ής [for a person]",
+    "english": "whose"
+  },
+  {
+    "id": 1215,
+    "letter": "Π",
+    "greek": "ποίηση, η",
+    "english": "poetry"
+  },
+  {
+    "id": 1216,
+    "letter": "Π",
+    "greek": "ποιον, ποια [accusative for a person]",
+    "english": "whom"
+  },
+  {
+    "id": 1217,
+    "letter": "Π",
+    "greek": "ποιος, -α, -ο [not for human beings]",
+    "english": "which"
+  },
+  {
+    "id": 1218,
+    "letter": "Π",
+    "greek": "ποιος, -α, -ο [for human beings]",
+    "english": "who"
+  },
+  {
+    "id": 1219,
+    "letter": "Π",
+    "greek": "ποιότητα, η",
+    "english": "quality"
+  },
+  {
+    "id": 1220,
+    "letter": "Π",
+    "greek": "πόλη, η",
+    "english": "city"
+  },
+  {
+    "id": 1221,
+    "letter": "Π",
+    "greek": "πολιτισμός, ο",
+    "english": "civilization, culture"
+  },
+  {
+    "id": 1222,
+    "letter": "Π",
+    "greek": "πολιτιστικ-ός, -ή, -ό",
+    "english": "cultural"
+  },
+  {
+    "id": 1223,
+    "letter": "Π",
+    "greek": "πολίτης, ο",
+    "english": "citizen, civilian"
+  },
+  {
+    "id": 1224,
+    "letter": "Π",
+    "greek": "πολλ-οί, -ές, -ά [countable]",
+    "english": "many, a lot of"
+  },
+  {
+    "id": 1225,
+    "letter": "Π",
+    "greek": "πολύ",
+    "english": "much"
+  },
+  {
+    "id": 1226,
+    "letter": "Π",
+    "greek": "πολυθρόνα, η",
+    "english": "armchair"
+  },
+  {
+    "id": 1227,
+    "letter": "Π",
+    "greek": "πολυκατοικία, η",
+    "english": "apartment building"
+  },
+  {
+    "id": 1228,
+    "letter": "Π",
+    "greek": "πολυκατάστημα, το",
+    "english": "department store"
+  },
+  {
+    "id": 1229,
+    "letter": "Π",
+    "greek": "πολύς, πολλή, πολύ [non countable]",
+    "english": "much"
+  },
+  {
+    "id": 1230,
+    "letter": "Π",
+    "greek": "πολύχρωμ-ος, -η, ο",
+    "english": "colourful"
+  },
+  {
+    "id": 1231,
+    "letter": "Π",
+    "greek": "πόνος, ο",
+    "english": "pain, ache"
+  },
+  {
+    "id": 1232,
+    "letter": "Π",
+    "greek": "πονόδοντος, ο",
+    "english": "toothache"
+  },
+  {
+    "id": 1233,
+    "letter": "Π",
+    "greek": "πονάω, -ώ",
+    "english": "hurt, feel pain"
+  },
+  {
+    "id": 1234,
+    "letter": "Π",
+    "greek": "πονάει η κοιλιά μου",
+    "english": "to have a stomach ache"
+  },
+  {
+    "id": 1235,
+    "letter": "Π",
+    "greek": "πονοκέφαλος, ο",
+    "english": "headache"
+  },
+  {
+    "id": 1236,
+    "letter": "Π",
+    "greek": "ποντιακ-ός, -ή, -ό",
+    "english": "Pontic"
+  },
+  {
+    "id": 1237,
+    "letter": "Π",
+    "greek": "ποντίκι, το",
+    "english": "mouse"
+  },
+  {
+    "id": 1238,
+    "letter": "Π",
+    "greek": "ποντίκια, τα",
+    "english": "mice"
+  },
+  {
+    "id": 1239,
+    "letter": "Π",
+    "greek": "πόρτα, η",
+    "english": "door"
+  },
+  {
+    "id": 1240,
+    "letter": "Π",
+    "greek": "πορτοκάλι, το",
+    "english": "orange"
+  },
+  {
+    "id": 1241,
+    "letter": "Π",
+    "greek": "πορτοφόλι, το",
+    "english": "wallet"
+  },
+  {
+    "id": 1242,
+    "letter": "Π",
+    "greek": "πόσ-οι, -ες, -α [countable]",
+    "english": "how many"
+  },
+  {
+    "id": 1243,
+    "letter": "Π",
+    "greek": "πόσ-ος, -η, -ο [non countable]",
+    "english": "how much"
+  },
+  {
+    "id": 1244,
+    "letter": "Π",
+    "greek": "Πόσων χρονών είσαι;",
+    "english": "How old are you?"
+  },
+  {
+    "id": 1245,
+    "letter": "Π",
+    "greek": "ποτήρι, το",
+    "english": "glass, cup"
+  },
+  {
+    "id": 1246,
+    "letter": "Π",
+    "greek": "ποτέ",
+    "english": "never"
+  },
+  {
+    "id": 1247,
+    "letter": "Π",
+    "greek": "πότε",
+    "english": "when"
+  },
+  {
+    "id": 1248,
+    "letter": "Π",
+    "greek": "ποτό, το",
+    "english": "drink"
+  },
+  {
+    "id": 1249,
+    "letter": "Π",
+    "greek": "πού [interrogative]",
+    "english": "where"
+  },
+  {
+    "id": 1250,
+    "letter": "Π",
+    "greek": "Aπό πού είσαι/είστε?",
+    "english": "Where are you from?"
+  },
+  {
+    "id": 1251,
+    "letter": "Π",
+    "greek": "πουθενά",
+    "english": "nowhere"
+  },
+  {
+    "id": 1252,
+    "letter": "Π",
+    "greek": "πουκάμισο, το",
+    "english": "shirt"
+  },
+  {
+    "id": 1253,
+    "letter": "Π",
+    "greek": "πουλί, το",
+    "english": "bird"
+  },
+  {
+    "id": 1254,
+    "letter": "Π",
+    "greek": "πουλάω, -ώ",
+    "english": "to sell"
+  },
+  {
+    "id": 1255,
+    "letter": "Π",
+    "greek": "πράγμα, το [see also αντικείμενο]",
+    "english": "thing"
+  },
+  {
+    "id": 1256,
+    "letter": "Π",
+    "greek": "πραγματικά",
+    "english": "really, indeed, in fact"
+  },
+  {
+    "id": 1257,
+    "letter": "Π",
+    "greek": "πράξη, η",
+    "english": "act"
+  },
+  {
+    "id": 1258,
+    "letter": "Π",
+    "greek": "πράσιν-ος, -η, -ο",
+    "english": "green"
+  },
+  {
+    "id": 1259,
+    "letter": "Π",
+    "greek": "πρεμιέρα, η",
+    "english": "premiere, opening night"
+  },
+  {
+    "id": 1260,
+    "letter": "Π",
+    "greek": "πρέπει",
+    "english": "I/you must / have to"
+  },
+  {
+    "id": 1261,
+    "letter": "Π",
+    "greek": "πρίζα, η",
+    "english": "socket"
+  },
+  {
+    "id": 1262,
+    "letter": "Π",
+    "greek": "πριν",
+    "english": "before"
+  },
+  {
+    "id": 1263,
+    "letter": "Π",
+    "greek": "πριν από λίγο (καιρό)",
+    "english": "a while ago"
+  },
+  {
+    "id": 1264,
+    "letter": "Π",
+    "greek": "πρόβλημα, το",
+    "english": "problem"
+  },
+  {
+    "id": 1265,
+    "letter": "Π",
+    "greek": "προβολή, η [movie]",
+    "english": "screening"
+  },
+  {
+    "id": 1266,
+    "letter": "Π",
+    "greek": "πρόγραμμα, το",
+    "english": "program/ programme"
+  },
+  {
+    "id": 1267,
+    "letter": "Π",
+    "greek": "προγραμματισμέν-ος, -η, -ο",
+    "english": "planned, scheduled"
+  },
+  {
+    "id": 1268,
+    "letter": "Π",
+    "greek": "προετοιμάζω [see also ετοιμάζω]",
+    "english": "to prepare"
+  },
+  {
+    "id": 1269,
+    "letter": "Π",
+    "greek": "προηγούμεν-ος, -η, -o",
+    "english": "previous, last"
+  },
+  {
+    "id": 1270,
+    "letter": "Π",
+    "greek": "προϊόν, το",
+    "english": "product"
+  },
+  {
+    "id": 1271,
+    "letter": "Π",
+    "greek": "πρόκληση, η",
+    "english": "challenge"
+  },
+  {
+    "id": 1272,
+    "letter": "Π",
+    "greek": "προλαβαίνω",
+    "english": "to be in time for, to catch up with"
+  },
+  {
+    "id": 1273,
+    "letter": "Π",
+    "greek": "προσεκτικά",
+    "english": "carefully"
+  },
+  {
+    "id": 1274,
+    "letter": "Π",
+    "greek": "προσέχω",
+    "english": "to be careful, to pay attention to"
+  },
+  {
+    "id": 1275,
+    "letter": "Π",
+    "greek": "προσθέτω",
+    "english": "to add"
+  },
+  {
+    "id": 1276,
+    "letter": "Π",
+    "greek": "πρόσκληση, η",
+    "english": "invitation"
+  },
+  {
+    "id": 1277,
+    "letter": "Π",
+    "greek": "προσοχή, η",
+    "english": "attention"
+  },
+  {
+    "id": 1278,
+    "letter": "Π",
+    "greek": "προσπαθώ",
+    "english": "to try, to make an effort"
+  },
+  {
+    "id": 1279,
+    "letter": "Π",
+    "greek": "πρόσωπο, το [individual, or in grammar]",
+    "english": "person"
+  },
+  {
+    "id": 1280,
+    "letter": "Π",
+    "greek": "πρόσωπο, το [part of the body]",
+    "english": "face"
+  },
+  {
+    "id": 1281,
+    "letter": "Π",
+    "greek": "προσκαλώ [to a party, an event, etc; see also καλώ]",
+    "english": "to invite"
+  },
+  {
+    "id": 1282,
+    "letter": "Π",
+    "greek": "προσπαθώ",
+    "english": "to try"
+  },
+  {
+    "id": 1283,
+    "letter": "Π",
+    "greek": "προσωπικ-ός, -ή, -ό",
+    "english": "personal, private"
+  },
+  {
+    "id": 1284,
+    "letter": "Π",
+    "greek": "προσχολικ-ός, -ή, -ό",
+    "english": "preschool, nursery school"
+  },
+  {
+    "id": 1285,
+    "letter": "Π",
+    "greek": "πρόταση, η",
+    "english": "sentence"
+  },
+  {
+    "id": 1286,
+    "letter": "Π",
+    "greek": "προτείνω",
+    "english": "to suggest, to propose"
+  },
+  {
+    "id": 1287,
+    "letter": "Π",
+    "greek": "προτιμάω, -ώ",
+    "english": "to prefer"
+  },
+  {
+    "id": 1288,
+    "letter": "Π",
+    "greek": "προφορά, η",
+    "english": "accent, pronunciation"
+  },
+  {
+    "id": 1289,
+    "letter": "Π",
+    "greek": "πτήση, η",
+    "english": "flight"
+  },
+  {
+    "id": 1290,
+    "letter": "Π",
+    "greek": "πρωί, το",
+    "english": "morning"
+  },
+  {
+    "id": 1291,
+    "letter": "Π",
+    "greek": "πρωινό, το",
+    "english": "morning"
+  },
+  {
+    "id": 1292,
+    "letter": "Π",
+    "greek": "πρωινό (γεύμα), το",
+    "english": "breakfast"
+  },
+  {
+    "id": 1293,
+    "letter": "Π",
+    "greek": "πρωιν-ός, -ή, -ό [adj]",
+    "english": "morning, early"
+  },
+  {
+    "id": 1294,
+    "letter": "Π",
+    "greek": "πρώτ-ος, -η, -ο",
+    "english": "first"
+  },
+  {
+    "id": 1295,
+    "letter": "Π",
+    "greek": "Πρωτοχρονιά, η",
+    "english": "New Year’s Eve"
+  },
+  {
+    "id": 1296,
+    "letter": "Π",
+    "greek": "πρώτα",
+    "english": "firstly, first of all, in the first place"
+  },
+  {
+    "id": 1297,
+    "letter": "Π",
+    "greek": "πρώτες βοήθειες",
+    "english": "first aid"
+  },
+  {
+    "id": 1298,
+    "letter": "Π",
+    "greek": "πυραμίδα [stereometry]",
+    "english": "solid triangular shape, pyramid"
+  },
+  {
+    "id": 1299,
+    "letter": "Π",
+    "greek": "πυρετός, ο",
+    "english": "fever, temperature"
+  },
+  {
+    "id": 1300,
+    "letter": "Π",
+    "greek": "Πύργος του Άιφελ, ο [monument in Paris]",
+    "english": "Eiffer Tower"
+  },
+  {
+    "id": 1301,
+    "letter": "Π",
+    "greek": "πυροσβεστική, η",
+    "english": "fire department"
+  },
+  {
+    "id": 1302,
+    "letter": "Π",
+    "greek": "πωλητής, o / πωλήτρια, η",
+    "english": "seller, salesman/saleswoman"
+  },
+  {
+    "id": 1303,
+    "letter": "Π",
+    "greek": "Πώς σε/σας λένε;",
+    "english": "What’s your name?"
+  },
+  {
+    "id": 1304,
+    "letter": "Ρ",
+    "greek": "ραδιόφωνο, το",
+    "english": "radio, radiophone"
+  },
+  {
+    "id": 1305,
+    "letter": "Ρ",
+    "greek": "ραδιοφωνικός σταθμός, ο",
+    "english": "radio station"
+  },
+  {
+    "id": 1306,
+    "letter": "Ρ",
+    "greek": "ραδιοφωνική εκπομπή, η",
+    "english": "radio program"
+  },
+  {
+    "id": 1307,
+    "letter": "Ρ",
+    "greek": "ραντεβού, το",
+    "english": "date, appointement"
+  },
+  {
+    "id": 1308,
+    "letter": "Ρ",
+    "greek": "ράτσα ζώου, η",
+    "english": "pedigree"
+  },
+  {
+    "id": 1309,
+    "letter": "Ρ",
+    "greek": "ρεσιτάλ, το",
+    "english": "recital"
+  },
+  {
+    "id": 1310,
+    "letter": "Ρ",
+    "greek": "ρεύμα, το",
+    "english": "electricity"
+  },
+  {
+    "id": 1311,
+    "letter": "Ρ",
+    "greek": "ρίγανη, η",
+    "english": "oregano"
+  },
+  {
+    "id": 1312,
+    "letter": "Ρ",
+    "greek": "ρίχνω",
+    "english": "to drop"
+  },
+  {
+    "id": 1313,
+    "letter": "Ρ",
+    "greek": "ροκ μουσική, η",
+    "english": "rock music"
+  },
+  {
+    "id": 1314,
+    "letter": "Ρ",
+    "greek": "ρόλος, ο",
+    "english": "role, part"
+  },
+  {
+    "id": 1315,
+    "letter": "Ρ",
+    "greek": "ρούχο, το",
+    "english": "cloth"
+  },
+  {
+    "id": 1316,
+    "letter": "Ρ",
+    "greek": "ρύζι, το",
+    "english": "rice"
+  },
+  {
+    "id": 1317,
+    "letter": "Ρ",
+    "greek": "ρυθμός, ο",
+    "english": "rythm"
+  },
+  {
+    "id": 1318,
+    "letter": "Ρ",
+    "greek": "«Ρωμαίος και Ιουλιέτα» [play by William Shakespeare]",
+    "english": "“Romeo and Juliet”"
+  },
+  {
+    "id": 1319,
+    "letter": "Ρ",
+    "greek": "ρωτάω, -ώ",
+    "english": "to ask"
+  },
+  {
+    "id": 1320,
+    "letter": "Σ",
+    "greek": "Σάββατο, το",
+    "english": "Saturday"
+  },
+  {
+    "id": 1321,
+    "letter": "Σ",
+    "greek": "Σαββατοκύριακο, το",
+    "english": "weekend"
+  },
+  {
+    "id": 1322,
+    "letter": "Σ",
+    "greek": "σακάκι, το",
+    "english": "jacket, blazer"
+  },
+  {
+    "id": 1323,
+    "letter": "Σ",
+    "greek": "σακούλα, η",
+    "english": "plastic bag"
+  },
+  {
+    "id": 1324,
+    "letter": "Σ",
+    "greek": "σαλάτα, η",
+    "english": "salad"
+  },
+  {
+    "id": 1325,
+    "letter": "Σ",
+    "greek": "σαλόνι, το",
+    "english": "living room"
+  },
+  {
+    "id": 1326,
+    "letter": "Σ",
+    "greek": "Σαμ, ο",
+    "english": "Sam"
+  },
+  {
+    "id": 1327,
+    "letter": "Σ",
+    "greek": "σαμπουάν, το",
+    "english": "shampoo"
+  },
+  {
+    "id": 1328,
+    "letter": "Σ",
+    "greek": "Σαίξπηρ Ουίλιαμ, o",
+    "english": "Shakespeare William"
+  },
+  {
+    "id": 1329,
+    "letter": "Σ",
+    "greek": "σαπούνι, το",
+    "english": "soap"
+  },
+  {
+    "id": 1330,
+    "letter": "Σ",
+    "greek": "σαράντα",
+    "english": "forty"
+  },
+  {
+    "id": 1331,
+    "letter": "Σ",
+    "greek": "σβήνω",
+    "english": "to delete, to erase"
+  },
+  {
+    "id": 1332,
+    "letter": "Σ",
+    "greek": "σβήνω τη φωτιά",
+    "english": "to put out"
+  },
+  {
+    "id": 1333,
+    "letter": "Σ",
+    "greek": "σγουρ-ός, -ή, -ό",
+    "english": "curly"
+  },
+  {
+    "id": 1334,
+    "letter": "Σ",
+    "greek": "σε",
+    "english": "at, to"
+  },
+  {
+    "id": 1335,
+    "letter": "Σ",
+    "greek": "σειρά, η",
+    "english": "order, line, row"
+  },
+  {
+    "id": 1336,
+    "letter": "Σ",
+    "greek": "η σειρά μου",
+    "english": "my turn"
+  },
+  {
+    "id": 1337,
+    "letter": "Σ",
+    "greek": "σελίδα, η",
+    "english": "page"
+  },
+  {
+    "id": 1338,
+    "letter": "Σ",
+    "greek": "σεντόνι, το",
+    "english": "sheet"
+  },
+  {
+    "id": 1339,
+    "letter": "Σ",
+    "greek": "σερβίρω",
+    "english": "to serve"
+  },
+  {
+    "id": 1340,
+    "letter": "Σ",
+    "greek": "σερβιτόρος, o σερβιτόρα, η",
+    "english": "waiter"
+  },
+  {
+    "id": 1341,
+    "letter": "Σ",
+    "greek": "Σεπτέμβριος, ο",
+    "english": "September"
+  },
+  {
+    "id": 1342,
+    "letter": "Σ",
+    "greek": "σημαντικ-ός, -ή, -ό",
+    "english": "important, significant"
+  },
+  {
+    "id": 1343,
+    "letter": "Σ",
+    "greek": "σημαίνω",
+    "english": "to mean, to stand for"
+  },
+  {
+    "id": 1344,
+    "letter": "Σ",
+    "greek": "σημασία, η",
+    "english": "meaning"
+  },
+  {
+    "id": 1345,
+    "letter": "Σ",
+    "greek": "σημειώνω / κρατάω σημειώσεις",
+    "english": "to take down notes, to write down"
+  },
+  {
+    "id": 1346,
+    "letter": "Σ",
+    "greek": "σημείωση, η",
+    "english": "note, memo"
+  },
+  {
+    "id": 1347,
+    "letter": "Σ",
+    "greek": "σήμερα",
+    "english": "today"
+  },
+  {
+    "id": 1348,
+    "letter": "Σ",
+    "greek": "σίγουρ-ος, -η, -ο",
+    "english": "certain, sure"
+  },
+  {
+    "id": 1349,
+    "letter": "Σ",
+    "greek": "σίγουρα [adv]",
+    "english": "definitely, sure, certainly, of course"
+  },
+  {
+    "id": 1350,
+    "letter": "Σ",
+    "greek": "σινεμά, το [see also κινηματογράφος]",
+    "english": "cinema, movies"
+  },
+  {
+    "id": 1351,
+    "letter": "Σ",
+    "greek": "σκάλα, η",
+    "english": "staircase"
+  },
+  {
+    "id": 1352,
+    "letter": "Σ",
+    "greek": "σκάλες, οι",
+    "english": "stairs"
+  },
+  {
+    "id": 1353,
+    "letter": "Σ",
+    "greek": "σκέφτομαι",
+    "english": "to think"
+  },
+  {
+    "id": 1354,
+    "letter": "Σ",
+    "greek": "σκέψη, η",
+    "english": "thought"
+  },
+  {
+    "id": 1355,
+    "letter": "Σ",
+    "greek": "σκηνή, η [theater, circus, concert]",
+    "english": "stage"
+  },
+  {
+    "id": 1356,
+    "letter": "Σ",
+    "greek": "σκηνικό, το",
+    "english": "set, scenery"
+  },
+  {
+    "id": 1357,
+    "letter": "Σ",
+    "greek": "σκηνοθέτης, ο/η",
+    "english": "director"
+  },
+  {
+    "id": 1358,
+    "letter": "Σ",
+    "greek": "σκίτσο, το",
+    "english": "sketch"
+  },
+  {
+    "id": 1359,
+    "letter": "Σ",
+    "greek": "σκληρ-ός, -ή, -ό",
+    "english": "hard, stiff"
+  },
+  {
+    "id": 1360,
+    "letter": "Σ",
+    "greek": "σκουπίδι, το",
+    "english": "trush, garbage"
+  },
+  {
+    "id": 1361,
+    "letter": "Σ",
+    "greek": "σκύλος, ο",
+    "english": "dog"
+  },
+  {
+    "id": 1362,
+    "letter": "Σ",
+    "greek": "σκόνη, η",
+    "english": "powder"
+  },
+  {
+    "id": 1363,
+    "letter": "Σ",
+    "greek": "σκοπός, ο",
+    "english": "aim, goal, target"
+  },
+  {
+    "id": 1364,
+    "letter": "Σ",
+    "greek": "σκόρδο, το",
+    "english": "garlic"
+  },
+  {
+    "id": 1365,
+    "letter": "Σ",
+    "greek": "σκορπίζω",
+    "english": "to scatter"
+  },
+  {
+    "id": 1366,
+    "letter": "Σ",
+    "greek": "σκουπίζω",
+    "english": "to wipe, to sweep"
+  },
+  {
+    "id": 1367,
+    "letter": "Σ",
+    "greek": "σκούφος, ο / σκουφί, το",
+    "english": "beanie, hat"
+  },
+  {
+    "id": 1368,
+    "letter": "Σ",
+    "greek": "σοβαρ-ός, -ή, -ό",
+    "english": "serious"
+  },
+  {
+    "id": 1369,
+    "letter": "Σ",
+    "greek": "σοβαρά [adv]",
+    "english": "seriously, really"
+  },
+  {
+    "id": 1370,
+    "letter": "Σ",
+    "greek": "σόδα (μαγειρική), η",
+    "english": "baking soda"
+  },
+  {
+    "id": 1371,
+    "letter": "Σ",
+    "greek": "σοκολάτα, η / σοκολατάκι, το",
+    "english": "chocolate"
+  },
+  {
+    "id": 1372,
+    "letter": "Σ",
+    "greek": "σούπα, η",
+    "english": "soup"
+  },
+  {
+    "id": 1373,
+    "letter": "Σ",
+    "greek": "σοπράνο, η",
+    "english": "soprano"
+  },
+  {
+    "id": 1374,
+    "letter": "Σ",
+    "greek": "Σοφία, η",
+    "english": "Sofia"
+  },
+  {
+    "id": 1375,
+    "letter": "Σ",
+    "greek": "σπάζω",
+    "english": "to smash, to brake"
+  },
+  {
+    "id": 1376,
+    "letter": "Σ",
+    "greek": "σπάνια [adv]",
+    "english": "rarely, seldom"
+  },
+  {
+    "id": 1377,
+    "letter": "Σ",
+    "greek": "σπίτι, το [residence]",
+    "english": "house"
+  },
+  {
+    "id": 1378,
+    "letter": "Σ",
+    "greek": "σπίτι, το [family]",
+    "english": "home"
+  },
+  {
+    "id": 1379,
+    "letter": "Σ",
+    "greek": "είμαι σπίτι",
+    "english": "to be (at) home"
+  },
+  {
+    "id": 1380,
+    "letter": "Σ",
+    "greek": "μένω σπίτι [to not go out]",
+    "english": "to stay indoors"
+  },
+  {
+    "id": 1381,
+    "letter": "Σ",
+    "greek": "σπιτικ-ός, -ή, -ό",
+    "english": "home-made"
+  },
+  {
+    "id": 1382,
+    "letter": "Σ",
+    "greek": "σπυρί, το",
+    "english": "pimple"
+  },
+  {
+    "id": 1383,
+    "letter": "Σ",
+    "greek": "σπουδάζω",
+    "english": "to study"
+  },
+  {
+    "id": 1384,
+    "letter": "Σ",
+    "greek": "σπουδές, οι",
+    "english": "studies"
+  },
+  {
+    "id": 1385,
+    "letter": "Σ",
+    "greek": "σπουδαί-ος, -α, -ο",
+    "english": "great"
+  },
+  {
+    "id": 1386,
+    "letter": "Σ",
+    "greek": "σταγόνα, η",
+    "english": "drop"
+  },
+  {
+    "id": 1387,
+    "letter": "Σ",
+    "greek": "σταθμός, ο",
+    "english": "station"
+  },
+  {
+    "id": 1388,
+    "letter": "Σ",
+    "greek": "σταματάω, -ώ",
+    "english": "to stop"
+  },
+  {
+    "id": 1389,
+    "letter": "Σ",
+    "greek": "στάση λεωφορείου, η",
+    "english": "bus stop"
+  },
+  {
+    "id": 1390,
+    "letter": "Σ",
+    "greek": "στέλνω",
+    "english": "to send"
+  },
+  {
+    "id": 1391,
+    "letter": "Σ",
+    "greek": "στεναχωρημέν-ος, -η, -ο",
+    "english": "sad, unhappy, depressed"
+  },
+  {
+    "id": 1392,
+    "letter": "Σ",
+    "greek": "στεν-ός, -ή, -ό",
+    "english": "narrow, tight"
+  },
+  {
+    "id": 1393,
+    "letter": "Σ",
+    "greek": "στήλη, η",
+    "english": "column"
+  },
+  {
+    "id": 1394,
+    "letter": "Σ",
+    "greek": "στιγμή, η",
+    "english": "moment"
+  },
+  {
+    "id": 1395,
+    "letter": "Σ",
+    "greek": "στιλ, το",
+    "english": "style"
+  },
+  {
+    "id": 1396,
+    "letter": "Σ",
+    "greek": "στόμα, το",
+    "english": "mouth"
+  },
+  {
+    "id": 1397,
+    "letter": "Σ",
+    "greek": "στομάχι, το",
+    "english": "stomach"
+  },
+  {
+    "id": 1398,
+    "letter": "Σ",
+    "greek": "στοιχείο, το",
+    "english": "data"
+  },
+  {
+    "id": 1399,
+    "letter": "Σ",
+    "greek": "στρώμα, το",
+    "english": "mattress"
+  },
+  {
+    "id": 1400,
+    "letter": "Σ",
+    "greek": "στρώνω",
+    "english": "to lay, to set, to make"
+  },
+  {
+    "id": 1401,
+    "letter": "Σ",
+    "greek": "συγγραφέας, ο συγγραφέας, η",
+    "english": "author"
+  },
+  {
+    "id": 1402,
+    "letter": "Σ",
+    "greek": "συγκάτοικος, ο/η",
+    "english": "roommate"
+  },
+  {
+    "id": 1403,
+    "letter": "Σ",
+    "greek": "συγκρίνω",
+    "english": "to compare"
+  },
+  {
+    "id": 1404,
+    "letter": "Σ",
+    "greek": "συγκρότημα, το",
+    "english": "group"
+  },
+  {
+    "id": 1405,
+    "letter": "Σ",
+    "greek": "συγγνώμη, η",
+    "english": "apology"
+  },
+  {
+    "id": 1406,
+    "letter": "Σ",
+    "greek": "Συγγνώμη!",
+    "english": "I’m sorry!"
+  },
+  {
+    "id": 1407,
+    "letter": "Σ",
+    "greek": "συγχαρητήρια, τα",
+    "english": "congratulations"
+  },
+  {
+    "id": 1408,
+    "letter": "Σ",
+    "greek": "σύγχρον-ος, -η, -ο",
+    "english": "modern, contemporary"
+  },
+  {
+    "id": 1409,
+    "letter": "Σ",
+    "greek": "συζητάω, -ώ",
+    "english": "to discuss"
+  },
+  {
+    "id": 1410,
+    "letter": "Σ",
+    "greek": "συζήτηση, η",
+    "english": "conversation, talk, discussion"
+  },
+  {
+    "id": 1411,
+    "letter": "Σ",
+    "greek": "συλλέγω [see also μαζεύω]",
+    "english": "to collect"
+  },
+  {
+    "id": 1412,
+    "letter": "Σ",
+    "greek": "συλληπητήρια, τα",
+    "english": "condolences"
+  },
+  {
+    "id": 1413,
+    "letter": "Σ",
+    "greek": "συμβουλή, η",
+    "english": "advice"
+  },
+  {
+    "id": 1414,
+    "letter": "Σ",
+    "greek": "συμμαθητής, ο / συμμαθήτρια, η",
+    "english": "schoolmate"
+  },
+  {
+    "id": 1415,
+    "letter": "Σ",
+    "greek": "συμπαθώ",
+    "english": "to like"
+  },
+  {
+    "id": 1416,
+    "letter": "Σ",
+    "greek": "συμπαθητικ-ός, -ή, -ό",
+    "english": "nice, charming"
+  },
+  {
+    "id": 1417,
+    "letter": "Σ",
+    "greek": "συμφωνώ",
+    "english": "to agree"
+  },
+  {
+    "id": 1418,
+    "letter": "Σ",
+    "greek": "συμπληρώνω",
+    "english": "to complete, to fill"
+  },
+  {
+    "id": 1419,
+    "letter": "Σ",
+    "greek": "συμφοιτητής, ο / συμφοιτήτρια, η",
+    "english": "classmate"
+  },
+  {
+    "id": 1420,
+    "letter": "Σ",
+    "greek": "συνάδελφος, ο/η",
+    "english": "colleague"
+  },
+  {
+    "id": 1421,
+    "letter": "Σ",
+    "greek": "συναντάω, -ώ",
+    "english": "to meet, to come across"
+  },
+  {
+    "id": 1422,
+    "letter": "Σ",
+    "greek": "συνάντηση, η",
+    "english": "meeting"
+  },
+  {
+    "id": 1423,
+    "letter": "Σ",
+    "greek": "συναυλία, η",
+    "english": "concert"
+  },
+  {
+    "id": 1424,
+    "letter": "Σ",
+    "greek": "συνεργείο, το",
+    "english": "garage"
+  },
+  {
+    "id": 1425,
+    "letter": "Σ",
+    "greek": "έχει συννεφιά",
+    "english": "it is cloudy"
+  },
+  {
+    "id": 1426,
+    "letter": "Σ",
+    "greek": "συνεχίζω",
+    "english": "to continue"
+  },
+  {
+    "id": 1427,
+    "letter": "Σ",
+    "greek": "συνέντευξη, η",
+    "english": "interview"
+  },
+  {
+    "id": 1428,
+    "letter": "Σ",
+    "greek": "παίρνω συνέντευξη",
+    "english": "to take an interview, to interview"
+  },
+  {
+    "id": 1429,
+    "letter": "Σ",
+    "greek": "συνέχεια [adv]",
+    "english": "all the time, constantly, continuously"
+  },
+  {
+    "id": 1430,
+    "letter": "Σ",
+    "greek": "συνέχεια, η",
+    "english": "continuation"
+  },
+  {
+    "id": 1431,
+    "letter": "Σ",
+    "greek": "(στη) συνέχεια",
+    "english": "afterwards, after that"
+  },
+  {
+    "id": 1432,
+    "letter": "Σ",
+    "greek": "συνήθεια, η",
+    "english": "habit"
+  },
+  {
+    "id": 1433,
+    "letter": "Σ",
+    "greek": "συνηθισμέν-ος, -η, -ο",
+    "english": "usual"
+  },
+  {
+    "id": 1434,
+    "letter": "Σ",
+    "greek": "συνήθως",
+    "english": "usually"
+  },
+  {
+    "id": 1435,
+    "letter": "Σ",
+    "greek": "συνθέτης, ο/η",
+    "english": "composer"
+  },
+  {
+    "id": 1436,
+    "letter": "Σ",
+    "greek": "συμπεριφορά, η",
+    "english": "behaviour, attitude"
+  },
+  {
+    "id": 1437,
+    "letter": "Σ",
+    "greek": "σύννεφο, το",
+    "english": "cloud"
+  },
+  {
+    "id": 1438,
+    "letter": "Σ",
+    "greek": "Πλατεία Συντάγματος, η [Athens]",
+    "english": "Syntagma/Constitution Square"
+  },
+  {
+    "id": 1439,
+    "letter": "Σ",
+    "greek": "συνταγή, η",
+    "english": "recipe"
+  },
+  {
+    "id": 1440,
+    "letter": "Σ",
+    "greek": "σύντομα [adv]",
+    "english": "soon, shortly"
+  },
+  {
+    "id": 1441,
+    "letter": "Σ",
+    "greek": "σύντομ-ος, -η, -ο",
+    "english": "short, brief"
+  },
+  {
+    "id": 1442,
+    "letter": "Σ",
+    "greek": "συρτάκι, το [Greek dance]",
+    "english": "syrtaki"
+  },
+  {
+    "id": 1443,
+    "letter": "Σ",
+    "greek": "συρτάρι, το",
+    "english": "drawer"
+  },
+  {
+    "id": 1444,
+    "letter": "Σ",
+    "greek": "συσκευή, η",
+    "english": "device, appliance"
+  },
+  {
+    "id": 1445,
+    "letter": "Σ",
+    "greek": "συστήνω",
+    "english": "to introduce, to recommend"
+  },
+  {
+    "id": 1446,
+    "letter": "Σ",
+    "greek": "συστημέν-ος, -η, -ο",
+    "english": "introduced, recommended"
+  },
+  {
+    "id": 1447,
+    "letter": "Σ",
+    "greek": "συστημένο γράμμα, το",
+    "english": "registered letter"
+  },
+  {
+    "id": 1448,
+    "letter": "Σ",
+    "greek": "συχνά [adv]",
+    "english": "often"
+  },
+  {
+    "id": 1449,
+    "letter": "Σ",
+    "greek": "συχν-ός, -ή, -ό",
+    "english": "often, frequent"
+  },
+  {
+    "id": 1450,
+    "letter": "Σ",
+    "greek": "σχεδιάζω",
+    "english": "to draw, to design"
+  },
+  {
+    "id": 1451,
+    "letter": "Σ",
+    "greek": "σφιχτ-ός, -ή, -ό",
+    "english": "tight, close"
+  },
+  {
+    "id": 1452,
+    "letter": "Σ",
+    "greek": "σχεδιάγραμμα, το",
+    "english": "sketch, diagram"
+  },
+  {
+    "id": 1453,
+    "letter": "Σ",
+    "greek": "σχεδόν",
+    "english": "almost"
+  },
+  {
+    "id": 1454,
+    "letter": "Σ",
+    "greek": "σε σχέση με",
+    "english": "relating to"
+  },
+  {
+    "id": 1455,
+    "letter": "Σ",
+    "greek": "σχετικά",
+    "english": "concerning, regarding, in regard to"
+  },
+  {
+    "id": 1456,
+    "letter": "Σ",
+    "greek": "σχολείο, το / σχολή, η",
+    "english": "school"
+  },
+  {
+    "id": 1457,
+    "letter": "Σ",
+    "greek": "πηγαίνω στο σχολείο",
+    "english": "to go to school"
+  },
+  {
+    "id": 1458,
+    "letter": "Σ",
+    "greek": "σχολικ-ός, -ή, -ό",
+    "english": "schooling"
+  },
+  {
+    "id": 1459,
+    "letter": "Σ",
+    "greek": "σώμα, το",
+    "english": "body"
+  },
+  {
+    "id": 1460,
+    "letter": "Σ",
+    "greek": "σωστ-ός, -ή, -ό",
+    "english": "right, correct"
+  },
+  {
+    "id": 1461,
+    "letter": "Σ",
+    "greek": "σωστά [adv]",
+    "english": "right, correctly"
+  },
+  {
+    "id": 1462,
+    "letter": "Σ",
+    "greek": "Σωτηρία, η",
+    "english": "Sotiria"
+  },
+  {
+    "id": 1463,
+    "letter": "Τ",
+    "greek": "ταβέρνα, η",
+    "english": "tavern"
+  },
+  {
+    "id": 1464,
+    "letter": "Τ",
+    "greek": "τάγκο, το",
+    "english": "tango"
+  },
+  {
+    "id": 1465,
+    "letter": "Τ",
+    "greek": "ταινία, η",
+    "english": "movie, film"
+  },
+  {
+    "id": 1466,
+    "letter": "Τ",
+    "greek": "ταιριάζω",
+    "english": "to fit, to match, to suit"
+  },
+  {
+    "id": 1467,
+    "letter": "Τ",
+    "greek": "Τάνια, η",
+    "english": "Tania"
+  },
+  {
+    "id": 1468,
+    "letter": "Τ",
+    "greek": "τάξη, η [kids]",
+    "english": "class"
+  },
+  {
+    "id": 1469,
+    "letter": "Τ",
+    "greek": "τάξη, η [room]",
+    "english": "classroom"
+  },
+  {
+    "id": 1470,
+    "letter": "Τ",
+    "greek": "ταξί, το",
+    "english": "taxi, cab"
+  },
+  {
+    "id": 1471,
+    "letter": "Τ",
+    "greek": "ταξιδεύω",
+    "english": "to travel, to take a trip, to make a journey"
+  },
+  {
+    "id": 1472,
+    "letter": "Τ",
+    "greek": "ταξίδι, το",
+    "english": "travel, journey, trip"
+  },
+  {
+    "id": 1473,
+    "letter": "Τ",
+    "greek": "ταξιδιωτικό γραφείο, το",
+    "english": "travel agency"
+  },
+  {
+    "id": 1474,
+    "letter": "Τ",
+    "greek": "Τάσος, o",
+    "english": "Tassos"
+  },
+  {
+    "id": 1475,
+    "letter": "Τ",
+    "greek": "Τασούλα, η",
+    "english": "Tassoula"
+  },
+  {
+    "id": 1476,
+    "letter": "Τ",
+    "greek": "ταυτότητα αστυνομική, η",
+    "english": "identification card / ID"
+  },
+  {
+    "id": 1477,
+    "letter": "Τ",
+    "greek": "ταχυδρομείο, το",
+    "english": "post office"
+  },
+  {
+    "id": 1478,
+    "letter": "Τ",
+    "greek": "ταψί, το",
+    "english": "tray, baking sheet"
+  },
+  {
+    "id": 1479,
+    "letter": "Τ",
+    "greek": "τελευταί-ος, -α, -ο",
+    "english": "last, final"
+  },
+  {
+    "id": 1480,
+    "letter": "Τ",
+    "greek": "τέλεια [adv]",
+    "english": "perfect"
+  },
+  {
+    "id": 1481,
+    "letter": "Τ",
+    "greek": "τελεία, η",
+    "english": "dot"
+  },
+  {
+    "id": 1482,
+    "letter": "Τ",
+    "greek": "τέλει-ος, -α, -ο",
+    "english": "perfect"
+  },
+  {
+    "id": 1483,
+    "letter": "Τ",
+    "greek": "τελειώνω",
+    "english": "to end, to finish"
+  },
+  {
+    "id": 1484,
+    "letter": "Τ",
+    "greek": "τελικά",
+    "english": "finally, after all"
+  },
+  {
+    "id": 1485,
+    "letter": "Τ",
+    "greek": "τέλος, το",
+    "english": "end"
+  },
+  {
+    "id": 1486,
+    "letter": "Τ",
+    "greek": "τένις, το",
+    "english": "tennis"
+  },
+  {
+    "id": 1487,
+    "letter": "Τ",
+    "greek": "τεράστι-ος, -α, -ο",
+    "english": "huge, enormous"
+  },
+  {
+    "id": 1488,
+    "letter": "Τ",
+    "greek": "τέρμα λεωφορείου, το",
+    "english": "final stop, terminal"
+  },
+  {
+    "id": 1489,
+    "letter": "Τ",
+    "greek": "τέσσερις, -α",
+    "english": "four"
+  },
+  {
+    "id": 1490,
+    "letter": "Τ",
+    "greek": "Τετάρτη, η",
+    "english": "Wednesday"
+  },
+  {
+    "id": 1491,
+    "letter": "Τ",
+    "greek": "τέταρτ-ος, -η, -ο",
+    "english": "fourth"
+  },
+  {
+    "id": 1492,
+    "letter": "Τ",
+    "greek": "τέτοι-ος, -α, -ο",
+    "english": "such"
+  },
+  {
+    "id": 1493,
+    "letter": "Τ",
+    "greek": "τ.μ. [abbreviation]",
+    "english": "square metre"
+  },
+  {
+    "id": 1494,
+    "letter": "Τ",
+    "greek": "τέχνη, η",
+    "english": "art"
+  },
+  {
+    "id": 1495,
+    "letter": "Τ",
+    "greek": "τεχνολογικ-ός, -ή, -ό",
+    "english": "technological"
+  },
+  {
+    "id": 1496,
+    "letter": "Τ",
+    "greek": "τζάζ,η",
+    "english": "jazz"
+  },
+  {
+    "id": 1497,
+    "letter": "Τ",
+    "greek": "τζάκι, το",
+    "english": "fire place"
+  },
+  {
+    "id": 1498,
+    "letter": "Τ",
+    "greek": "τζάμι, το",
+    "english": "window"
+  },
+  {
+    "id": 1499,
+    "letter": "Τ",
+    "greek": "τηγάνι, το",
+    "english": "pan"
+  },
+  {
+    "id": 1500,
+    "letter": "Τ",
+    "greek": "τηλεόραση, η",
+    "english": "television/TV"
+  },
+  {
+    "id": 1501,
+    "letter": "Τ",
+    "greek": "στην τηλεόραση",
+    "english": "on the television / on the TV"
+  },
+  {
+    "id": 1502,
+    "letter": "Τ",
+    "greek": "τηλεφώνημα, το",
+    "english": "call, phonecall"
+  },
+  {
+    "id": 1503,
+    "letter": "Τ",
+    "greek": "τηλέφωνο, το",
+    "english": "telephone, phone"
+  },
+  {
+    "id": 1504,
+    "letter": "Τ",
+    "greek": "τηλεφωνώ / παίρνω τηλέφωνο",
+    "english": "to call, to phone"
+  },
+  {
+    "id": 1505,
+    "letter": "Τ",
+    "greek": "τι",
+    "english": "what"
+  },
+  {
+    "id": 1506,
+    "letter": "Τ",
+    "greek": "τιμή, η",
+    "english": "price"
+  },
+  {
+    "id": 1507,
+    "letter": "Τ",
+    "greek": "τίποτα",
+    "english": "nothing"
+  },
+  {
+    "id": 1508,
+    "letter": "Τ",
+    "greek": "τμήμα αστυνομικό, το",
+    "english": "police department/station"
+  },
+  {
+    "id": 1509,
+    "letter": "Τ",
+    "greek": "τόνος, ο",
+    "english": "accent mark"
+  },
+  {
+    "id": 1510,
+    "letter": "Τ",
+    "greek": "τονισμέν-ος, -η, -ο",
+    "english": "stressed"
+  },
+  {
+    "id": 1511,
+    "letter": "Τ",
+    "greek": "τόπος, ο",
+    "english": "place, area"
+  },
+  {
+    "id": 1512,
+    "letter": "Τ",
+    "greek": "τοποθεσία, η",
+    "english": "location"
+  },
+  {
+    "id": 1513,
+    "letter": "Τ",
+    "greek": "τόσ-ος, -η, -ο [non countable]",
+    "english": "so/ that much"
+  },
+  {
+    "id": 1514,
+    "letter": "Τ",
+    "greek": "τουλάχιστον",
+    "english": "at least"
+  },
+  {
+    "id": 1515,
+    "letter": "Τ",
+    "greek": "τουρίστας, ο / τουρίστρια, η",
+    "english": "tourist"
+  },
+  {
+    "id": 1516,
+    "letter": "Τ",
+    "greek": "τουριστικ-ός, -ή, -ό",
+    "english": "touristic"
+  },
+  {
+    "id": 1517,
+    "letter": "Τ",
+    "greek": "Τουρκία, η",
+    "english": "Turkey"
+  },
+  {
+    "id": 1518,
+    "letter": "Τ",
+    "greek": "τούρτα, η",
+    "english": "birthday cake"
+  },
+  {
+    "id": 1519,
+    "letter": "Τ",
+    "greek": "τραγουδάω, -ώ",
+    "english": "to sing"
+  },
+  {
+    "id": 1520,
+    "letter": "Τ",
+    "greek": "τραγούδι, το",
+    "english": "song"
+  },
+  {
+    "id": 1521,
+    "letter": "Τ",
+    "greek": "τραγουδιστής, ο / τραγουδίστρια, η",
+    "english": "singer"
+  },
+  {
+    "id": 1522,
+    "letter": "Τ",
+    "greek": "τραπεζομάντιλο, το",
+    "english": "tablecloth"
+  },
+  {
+    "id": 1523,
+    "letter": "Τ",
+    "greek": "τρεις, τρία",
+    "english": "three"
+  },
+  {
+    "id": 1524,
+    "letter": "Τ",
+    "greek": "τρέξιμο, το",
+    "english": "running"
+  },
+  {
+    "id": 1525,
+    "letter": "Τ",
+    "greek": "πηγαίνω για τρέξιμο",
+    "english": "to go running"
+  },
+  {
+    "id": 1526,
+    "letter": "Τ",
+    "greek": "τρέχω",
+    "english": "to run"
+  },
+  {
+    "id": 1527,
+    "letter": "Τ",
+    "greek": "τριάντα",
+    "english": "thirty"
+  },
+  {
+    "id": 1528,
+    "letter": "Τ",
+    "greek": "τρίβω",
+    "english": "to rub"
+  },
+  {
+    "id": 1529,
+    "letter": "Τ",
+    "greek": "Τρίτη, η",
+    "english": "Tuesday"
+  },
+  {
+    "id": 1530,
+    "letter": "Τ",
+    "greek": "τρίτ-ος, -η, -ο",
+    "english": "third"
+  },
+  {
+    "id": 1531,
+    "letter": "Τ",
+    "greek": "τρόπος, ο",
+    "english": "way, manner, style"
+  },
+  {
+    "id": 1532,
+    "letter": "Τ",
+    "greek": "Τρίπολη, η",
+    "english": "Tripoli"
+  },
+  {
+    "id": 1533,
+    "letter": "Τ",
+    "greek": "τροφή, η",
+    "english": "food"
+  },
+  {
+    "id": 1534,
+    "letter": "Τ",
+    "greek": "τρυφερ-ός, -ή, -ό",
+    "english": "tender, gentle, soft"
+  },
+  {
+    "id": 1535,
+    "letter": "Τ",
+    "greek": "Τροχαία, η",
+    "english": "Traffic police"
+  },
+  {
+    "id": 1536,
+    "letter": "Τ",
+    "greek": "τρώω",
+    "english": "to eat"
+  },
+  {
+    "id": 1537,
+    "letter": "Τ",
+    "greek": "τσάντα, η",
+    "english": "bag, purse"
+  },
+  {
+    "id": 1538,
+    "letter": "Τ",
+    "greek": "Τσιτσάνης Βασίλης, ο [Greek composer/singer of rebetiko]",
+    "english": "Vassilis Tsitsanis"
+  },
+  {
+    "id": 1539,
+    "letter": "Τ",
+    "greek": "τύπος, ο",
+    "english": "type, kind"
+  },
+  {
+    "id": 1540,
+    "letter": "Τ",
+    "greek": "τυρί, το",
+    "english": "cheese"
+  },
+  {
+    "id": 1541,
+    "letter": "Τ",
+    "greek": "τυχερ-ός, -ή, -ό",
+    "english": "lucky"
+  },
+  {
+    "id": 1542,
+    "letter": "Τ",
+    "greek": "τώρα",
+    "english": "now"
+  },
+  {
+    "id": 1543,
+    "letter": "Υ",
+    "greek": "υγεία, η",
+    "english": "health"
+  },
+  {
+    "id": 1544,
+    "letter": "Υ",
+    "greek": "υδράργυρος, ο",
+    "english": "mercury"
+  },
+  {
+    "id": 1545,
+    "letter": "Υ",
+    "greek": "υλικό, το [object, thing]",
+    "english": "material"
+  },
+  {
+    "id": 1546,
+    "letter": "Υ",
+    "greek": "υλικό, το [food]",
+    "english": "ingredient"
+  },
+  {
+    "id": 1547,
+    "letter": "Υ",
+    "greek": "υπάλληλος, ο/η",
+    "english": "employee"
+  },
+  {
+    "id": 1548,
+    "letter": "Υ",
+    "greek": "υπάρχει",
+    "english": "there is"
+  },
+  {
+    "id": 1549,
+    "letter": "Υ",
+    "greek": "υπάρχω",
+    "english": "to exist, to be"
+  },
+  {
+    "id": 1550,
+    "letter": "Υ",
+    "greek": "υπέροχ-ος, -η, -ο",
+    "english": "marvellous, wonderful, splendid"
+  },
+  {
+    "id": 1551,
+    "letter": "Υ",
+    "greek": "υπερωρία, η",
+    "english": "overtime, extra time"
+  },
+  {
+    "id": 1552,
+    "letter": "Υ",
+    "greek": "υπεύθυν-ος, -η, -ο",
+    "english": "responsible, manager"
+  },
+  {
+    "id": 1553,
+    "letter": "Υ",
+    "greek": "υπνοδωμάτιο, το",
+    "english": "bedroom"
+  },
+  {
+    "id": 1554,
+    "letter": "Υ",
+    "greek": "υπηρεσία, η",
+    "english": "service, agency, office"
+  },
+  {
+    "id": 1555,
+    "letter": "Υ",
+    "greek": "υπογραμμίζω",
+    "english": "to underline"
+  },
+  {
+    "id": 1556,
+    "letter": "Υ",
+    "greek": "υπολογιστής, ο",
+    "english": "computer"
+  },
+  {
+    "id": 1557,
+    "letter": "Υ",
+    "greek": "υπόλοιπ-ος, -η, -ο",
+    "english": "remaining, rest of"
+  },
+  {
+    "id": 1558,
+    "letter": "Υ",
+    "greek": "ύπνος, ο",
+    "english": "sleep"
+  },
+  {
+    "id": 1559,
+    "letter": "Υ",
+    "greek": "υποχρεωτικ-ός, -ή, -ό",
+    "english": "obligatory"
+  },
+  {
+    "id": 1560,
+    "letter": "Υ",
+    "greek": "υποψήφιος, o / υποψήφια, η [noun]",
+    "english": "candidate"
+  },
+  {
+    "id": 1561,
+    "letter": "Υ",
+    "greek": "ύστερα",
+    "english": "after, aftertwards, then"
+  },
+  {
+    "id": 1562,
+    "letter": "Υ",
+    "greek": "ύφασμα, το",
+    "english": "cloth, fabric"
+  },
+  {
+    "id": 1563,
+    "letter": "Υ",
+    "greek": "υψηλή θερμοκρασία",
+    "english": "high temperature"
+  },
+  {
+    "id": 1564,
+    "letter": "Φ",
+    "greek": "φαγητό, το",
+    "english": "food"
+  },
+  {
+    "id": 1565,
+    "letter": "Φ",
+    "greek": "φαίνομαι",
+    "english": "to seem"
+  },
+  {
+    "id": 1566,
+    "letter": "Φ",
+    "greek": "μου φαίνεται",
+    "english": "it seems to me"
+  },
+  {
+    "id": 1567,
+    "letter": "Φ",
+    "greek": "φάκελος, ο",
+    "english": "envelope"
+  },
+  {
+    "id": 1568,
+    "letter": "Φ",
+    "greek": "φακή, η",
+    "english": "lentil"
+  },
+  {
+    "id": 1569,
+    "letter": "Φ",
+    "greek": "Φάμπιο, ο",
+    "english": "Fabio"
+  },
+  {
+    "id": 1570,
+    "letter": "Φ",
+    "greek": "φανταστικά [adv]",
+    "english": "wonderfully"
+  },
+  {
+    "id": 1571,
+    "letter": "Φ",
+    "greek": "φαρμακείο, το",
+    "english": "pharmacy, drugstore"
+  },
+  {
+    "id": 1572,
+    "letter": "Φ",
+    "greek": "φαρμακοποιός, ο/η",
+    "english": "pharmacist"
+  },
+  {
+    "id": 1573,
+    "letter": "Φ",
+    "greek": "φάρμακο, το",
+    "english": "drug, medicine"
+  },
+  {
+    "id": 1574,
+    "letter": "Φ",
+    "greek": "φασαρία, η",
+    "english": "fuss"
+  },
+  {
+    "id": 1575,
+    "letter": "Φ",
+    "greek": "φασόλι, το",
+    "english": "bean"
+  },
+  {
+    "id": 1576,
+    "letter": "Φ",
+    "greek": "Φεβρουάριος, ο",
+    "english": "February"
+  },
+  {
+    "id": 1577,
+    "letter": "Φ",
+    "greek": "φέιγ βολάν, το",
+    "english": "flysheet, leaflet, handout"
+  },
+  {
+    "id": 1578,
+    "letter": "Φ",
+    "greek": "φέρνω",
+    "english": "to bring"
+  },
+  {
+    "id": 1579,
+    "letter": "Φ",
+    "greek": "φεστιβάλ, το",
+    "english": "festival"
+  },
+  {
+    "id": 1580,
+    "letter": "Φ",
+    "greek": "φέτος",
+    "english": "this year"
+  },
+  {
+    "id": 1581,
+    "letter": "Φ",
+    "greek": "φετιν-ός, -ή, -ό",
+    "english": "of this year"
+  },
+  {
+    "id": 1582,
+    "letter": "Φ",
+    "greek": "φεύγω",
+    "english": "to leave"
+  },
+  {
+    "id": 1583,
+    "letter": "Φ",
+    "greek": "φθην-ός, -ή, -ό",
+    "english": "cheap"
+  },
+  {
+    "id": 1584,
+    "letter": "Φ",
+    "greek": "φθινόπωρο, το",
+    "english": "autumn"
+  },
+  {
+    "id": 1585,
+    "letter": "Φ",
+    "greek": "φιλάω, -ώ",
+    "english": "to kiss"
+  },
+  {
+    "id": 1586,
+    "letter": "Φ",
+    "greek": "φιλί, το",
+    "english": "kiss"
+  },
+  {
+    "id": 1587,
+    "letter": "Φ",
+    "greek": "φιλικ-ός, -ή, -ό",
+    "english": "friendly"
+  },
+  {
+    "id": 1588,
+    "letter": "Φ",
+    "greek": "φίλος, ο φίλη, η",
+    "english": "friend"
+  },
+  {
+    "id": 1589,
+    "letter": "Φ",
+    "greek": "φιλολογία, η",
+    "english": "literature, philology"
+  },
+  {
+    "id": 1590,
+    "letter": "Φ",
+    "greek": "φιλοξενώ",
+    "english": "to host, to offer hospitality"
+  },
+  {
+    "id": 1591,
+    "letter": "Φ",
+    "greek": "φλιτζάνι, το",
+    "english": "cup"
+  },
+  {
+    "id": 1592,
+    "letter": "Φ",
+    "greek": "φοβάμαι",
+    "english": "to be afraid of, to fear"
+  },
+  {
+    "id": 1593,
+    "letter": "Φ",
+    "greek": "φοιτητής, ο φοτήτρια, η",
+    "english": "student"
+  },
+  {
+    "id": 1594,
+    "letter": "Φ",
+    "greek": "φοιτητική εστία",
+    "english": "student residence"
+  },
+  {
+    "id": 1595,
+    "letter": "Φ",
+    "greek": "φοιτώ",
+    "english": "to study"
+  },
+  {
+    "id": 1596,
+    "letter": "Φ",
+    "greek": "φορά, η",
+    "english": "time"
+  },
+  {
+    "id": 1597,
+    "letter": "Φ",
+    "greek": "μία φορά",
+    "english": "once"
+  },
+  {
+    "id": 1598,
+    "letter": "Φ",
+    "greek": "δύο φορές",
+    "english": "twice"
+  },
+  {
+    "id": 1599,
+    "letter": "Φ",
+    "greek": "φοράω, -ώ",
+    "english": "to wear"
+  },
+  {
+    "id": 1600,
+    "letter": "Φ",
+    "greek": "φόρεμα, το",
+    "english": "dress"
+  },
+  {
+    "id": 1601,
+    "letter": "Φ",
+    "greek": "φόρμα, η",
+    "english": "tracksuit"
+  },
+  {
+    "id": 1602,
+    "letter": "Φ",
+    "greek": "φουντούκι, το",
+    "english": "hazelnut"
+  },
+  {
+    "id": 1603,
+    "letter": "Φ",
+    "greek": "φούρνος, ο",
+    "english": "oven"
+  },
+  {
+    "id": 1604,
+    "letter": "Φ",
+    "greek": "φούστα, η",
+    "english": "skirt"
+  },
+  {
+    "id": 1605,
+    "letter": "Φ",
+    "greek": "φουστάνι, το",
+    "english": "dress"
+  },
+  {
+    "id": 1606,
+    "letter": "Φ",
+    "greek": "φράση, η",
+    "english": "phrase"
+  },
+  {
+    "id": 1607,
+    "letter": "Φ",
+    "greek": "φροντίζω",
+    "english": "to take care of, to look after"
+  },
+  {
+    "id": 1608,
+    "letter": "Φ",
+    "greek": "φροντίδα, η",
+    "english": "care"
+  },
+  {
+    "id": 1609,
+    "letter": "Φ",
+    "greek": "φρούτο, το",
+    "english": "fruit"
+  },
+  {
+    "id": 1610,
+    "letter": "Φ",
+    "greek": "φτάνω",
+    "english": "to arrive, to reach"
+  },
+  {
+    "id": 1611,
+    "letter": "Φ",
+    "greek": "φτην-ός, -ή, -ό",
+    "english": "cheap"
+  },
+  {
+    "id": 1612,
+    "letter": "Φ",
+    "greek": "φτερό, το",
+    "english": "feather, wing"
+  },
+  {
+    "id": 1613,
+    "letter": "Φ",
+    "greek": "φτιάχνω [something that doesn’t work]",
+    "english": "to fix, to repair"
+  },
+  {
+    "id": 1614,
+    "letter": "Φ",
+    "greek": "φυλλάδιο, το",
+    "english": "booklet, leaflet"
+  },
+  {
+    "id": 1615,
+    "letter": "Φ",
+    "greek": "φύλλο, το",
+    "english": "leaf"
+  },
+  {
+    "id": 1616,
+    "letter": "Φ",
+    "greek": "φυσικό αέριο, το",
+    "english": "natural gas"
+  },
+  {
+    "id": 1617,
+    "letter": "Φ",
+    "greek": "φυτό, το",
+    "english": "plant"
+  },
+  {
+    "id": 1618,
+    "letter": "Φ",
+    "greek": "φυτεύω",
+    "english": "to plant"
+  },
+  {
+    "id": 1619,
+    "letter": "Φ",
+    "greek": "φυσάω, -ώ",
+    "english": "to blow"
+  },
+  {
+    "id": 1620,
+    "letter": "Φ",
+    "greek": "φύση, η",
+    "english": "nature"
+  },
+  {
+    "id": 1621,
+    "letter": "Φ",
+    "greek": "φυσικά [adv]",
+    "english": "of course, certainly"
+  },
+  {
+    "id": 1622,
+    "letter": "Φ",
+    "greek": "φωτιά, η",
+    "english": "fire"
+  },
+  {
+    "id": 1623,
+    "letter": "Φ",
+    "greek": "φωτίζω",
+    "english": "to light, to illuminate, to light up"
+  },
+  {
+    "id": 1624,
+    "letter": "Φ",
+    "greek": "φωτιστικό, το",
+    "english": "lamp"
+  },
+  {
+    "id": 1625,
+    "letter": "Φ",
+    "greek": "φωτογράφος, ο/η",
+    "english": "photographer"
+  },
+  {
+    "id": 1626,
+    "letter": "Φ",
+    "greek": "φωτογραφία, η",
+    "english": "picture, photo"
+  },
+  {
+    "id": 1627,
+    "letter": "Χ",
+    "greek": "χάδι, το",
+    "english": "touch"
+  },
+  {
+    "id": 1628,
+    "letter": "Χ",
+    "greek": "χαιρετάω, -ώ",
+    "english": "to say hello"
+  },
+  {
+    "id": 1629,
+    "letter": "Χ",
+    "greek": "χαίρομαι",
+    "english": "to be glad"
+  },
+  {
+    "id": 1630,
+    "letter": "Χ",
+    "greek": "χαίρετε",
+    "english": "hello/goodbye"
+  },
+  {
+    "id": 1631,
+    "letter": "Χ",
+    "greek": "χαιρετισμός, ο",
+    "english": "greeting"
+  },
+  {
+    "id": 1632,
+    "letter": "Χ",
+    "greek": "χαλί, το",
+    "english": "carpet"
+  },
+  {
+    "id": 1633,
+    "letter": "Χ",
+    "greek": "χαλάω, -ώ",
+    "english": "to break down"
+  },
+  {
+    "id": 1634,
+    "letter": "Χ",
+    "greek": "χαμηλ-ός, -ή, -ό",
+    "english": "short, low"
+  },
+  {
+    "id": 1635,
+    "letter": "Χ",
+    "greek": "χάνω",
+    "english": "to lose, to miss"
+  },
+  {
+    "id": 1636,
+    "letter": "Χ",
+    "greek": "χαμάμ, το",
+    "english": "Turkish bath"
+  },
+  {
+    "id": 1637,
+    "letter": "Χ",
+    "greek": "χαμόγελο, το",
+    "english": "smile"
+  },
+  {
+    "id": 1638,
+    "letter": "Χ",
+    "greek": "χαμομήλι, το",
+    "english": "chamomile"
+  },
+  {
+    "id": 1639,
+    "letter": "Χ",
+    "greek": "χάπι, το",
+    "english": "pill"
+  },
+  {
+    "id": 1640,
+    "letter": "Χ",
+    "greek": "χαρά, η",
+    "english": "happiness, joy"
+  },
+  {
+    "id": 1641,
+    "letter": "Χ",
+    "greek": "χάρακας, ο",
+    "english": "ruler"
+  },
+  {
+    "id": 1642,
+    "letter": "Χ",
+    "greek": "χαρακτήρας, ο",
+    "english": "character, personality"
+  },
+  {
+    "id": 1643,
+    "letter": "Χ",
+    "greek": "Χαράλαμπος, ο",
+    "english": "Charalambos"
+  },
+  {
+    "id": 1644,
+    "letter": "Χ",
+    "greek": "χαρίζω",
+    "english": "to donate, to gift"
+  },
+  {
+    "id": 1645,
+    "letter": "Χ",
+    "greek": "Χαρίκλεια, η",
+    "english": "Chariklia"
+  },
+  {
+    "id": 1646,
+    "letter": "Χ",
+    "greek": "χαρούμεν-ος, -η, -ο",
+    "english": "happy"
+  },
+  {
+    "id": 1647,
+    "letter": "Χ",
+    "greek": "χάρτης, ο",
+    "english": "map"
+  },
+  {
+    "id": 1648,
+    "letter": "Χ",
+    "greek": "χαρτοπετσέτα, η",
+    "english": "napkin"
+  },
+  {
+    "id": 1649,
+    "letter": "Χ",
+    "greek": "χειμώνας, o",
+    "english": "winter"
+  },
+  {
+    "id": 1650,
+    "letter": "Χ",
+    "greek": "χέρι, το",
+    "english": "hand, arm"
+  },
+  {
+    "id": 1651,
+    "letter": "Χ",
+    "greek": "χιλιόμετρο, το",
+    "english": "kilometer/kilometre"
+  },
+  {
+    "id": 1652,
+    "letter": "Χ",
+    "greek": "χιόνι, το",
+    "english": "snow"
+  },
+  {
+    "id": 1653,
+    "letter": "Χ",
+    "greek": "χιονίζει",
+    "english": "it is snowing"
+  },
+  {
+    "id": 1654,
+    "letter": "Χ",
+    "greek": "χλιαρός, -ή, -ό",
+    "english": "lukewarm"
+  },
+  {
+    "id": 1655,
+    "letter": "Χ",
+    "greek": "χολ, το",
+    "english": "corridor"
+  },
+  {
+    "id": 1656,
+    "letter": "Χ",
+    "greek": "χόμπι, το",
+    "english": "hobby"
+  },
+  {
+    "id": 1657,
+    "letter": "Χ",
+    "greek": "χοντρ-ός, -ή, -ό",
+    "english": "fat, thick"
+  },
+  {
+    "id": 1658,
+    "letter": "Χ",
+    "greek": "χορευτής, ο / χορεύτρια, η",
+    "english": "dancer"
+  },
+  {
+    "id": 1659,
+    "letter": "Χ",
+    "greek": "χορεύω",
+    "english": "to dance"
+  },
+  {
+    "id": 1660,
+    "letter": "Χ",
+    "greek": "χορός, ο",
+    "english": "dancing"
+  },
+  {
+    "id": 1661,
+    "letter": "Χ",
+    "greek": "χρειάζομαι",
+    "english": "to need"
+  },
+  {
+    "id": 1662,
+    "letter": "Χ",
+    "greek": "χρήματα, τα [see also λεφτά]",
+    "english": "money"
+  },
+  {
+    "id": 1663,
+    "letter": "Χ",
+    "greek": "χρησιμοποιώ",
+    "english": "to use"
+  },
+  {
+    "id": 1664,
+    "letter": "Χ",
+    "greek": "χρήση, η",
+    "english": "usage"
+  },
+  {
+    "id": 1665,
+    "letter": "Χ",
+    "greek": "Χριστός Ανέστη!",
+    "english": "Christ is risen!"
+  },
+  {
+    "id": 1666,
+    "letter": "Χ",
+    "greek": "Χριστούγεννα, τα",
+    "english": "Christmas"
+  },
+  {
+    "id": 1667,
+    "letter": "Χ",
+    "greek": "χριστουγεννιάτικ-ος, -η, -ο",
+    "english": "christmas/of christmas"
+  },
+  {
+    "id": 1668,
+    "letter": "Χ",
+    "greek": "χρόνος, ο",
+    "english": "time"
+  },
+  {
+    "id": 1669,
+    "letter": "Χ",
+    "greek": "χρόνος, ο / χρόνια, τα",
+    "english": "year(s)"
+  },
+  {
+    "id": 1670,
+    "letter": "Χ",
+    "greek": "χρονιά, η",
+    "english": "year"
+  },
+  {
+    "id": 1671,
+    "letter": "Χ",
+    "greek": "Χρόνια πολλά [Christmas]!",
+    "english": "Merry Christmas!"
+  },
+  {
+    "id": 1672,
+    "letter": "Χ",
+    "greek": "Χρόνια πολλά [birthday]!",
+    "english": "Happy birthday!"
+  },
+  {
+    "id": 1673,
+    "letter": "Χ",
+    "greek": "χρώμα, το",
+    "english": "colour"
+  },
+  {
+    "id": 1674,
+    "letter": "Χ",
+    "greek": "χρωματιστ-ός, -ή, -ό",
+    "english": "colorful/ colourful"
+  },
+  {
+    "id": 1675,
+    "letter": "Χ",
+    "greek": "χτες/χθες",
+    "english": "yesterday"
+  },
+  {
+    "id": 1676,
+    "letter": "Χ",
+    "greek": "χτυπάω, -ώ [accident]",
+    "english": "to be/get injured"
+  },
+  {
+    "id": 1677,
+    "letter": "Χ",
+    "greek": "χτυπάει το τηλέφωνο",
+    "english": "the phone is ringing"
+  },
+  {
+    "id": 1678,
+    "letter": "Χ",
+    "greek": "χυμός, ο",
+    "english": "juice"
+  },
+  {
+    "id": 1679,
+    "letter": "Χ",
+    "greek": "χώρα, η",
+    "english": "country"
+  },
+  {
+    "id": 1680,
+    "letter": "Χ",
+    "greek": "χωριό, το",
+    "english": "village"
+  },
+  {
+    "id": 1681,
+    "letter": "Χ",
+    "greek": "χωρίς",
+    "english": "without"
+  },
+  {
+    "id": 1682,
+    "letter": "Χ",
+    "greek": "χωρισμένος, ο / χωρισμένη, η [marriage]",
+    "english": "separated, divorced"
+  },
+  {
+    "id": 1683,
+    "letter": "Χ",
+    "greek": "χώρος, ο",
+    "english": "space, room"
+  },
+  {
+    "id": 1684,
+    "letter": "Ψ",
+    "greek": "ψάρι, το / ψάρια, τα",
+    "english": "fish"
+  },
+  {
+    "id": 1685,
+    "letter": "Ψ",
+    "greek": "ψάχνω",
+    "english": "to search, to look for"
+  },
+  {
+    "id": 1686,
+    "letter": "Ψ",
+    "greek": "ψέμα, το",
+    "english": "lie"
+  },
+  {
+    "id": 1687,
+    "letter": "Ψ",
+    "greek": "λέω ψέματα",
+    "english": "to lie"
+  },
+  {
+    "id": 1688,
+    "letter": "Ψ",
+    "greek": "ψηλ-ός, -ή, -ό",
+    "english": "tall, high"
+  },
+  {
+    "id": 1689,
+    "letter": "Ψ",
+    "greek": "ψητ-ός, -ή, -ό",
+    "english": "roast, baked, grilled"
+  },
+  {
+    "id": 1690,
+    "letter": "Ψ",
+    "greek": "ψιχαλίζει",
+    "english": "it drizzles"
+  },
+  {
+    "id": 1691,
+    "letter": "Ψ",
+    "greek": "ψυγείο, το",
+    "english": "refrigerator, fridge"
+  },
+  {
+    "id": 1692,
+    "letter": "Ψ",
+    "greek": "ψωμί, το",
+    "english": "bread"
+  },
+  {
+    "id": 1693,
+    "letter": "Ψ",
+    "greek": "ψώνια, τα",
+    "english": "shopping"
+  },
+  {
+    "id": 1694,
+    "letter": "Ψ",
+    "greek": "ψωνίζω",
+    "english": "to shop, to go shopping"
+  },
+  {
+    "id": 1695,
+    "letter": "Ω",
+    "greek": "ωδείο, το",
+    "english": "conservatory"
+  },
+  {
+    "id": 1696,
+    "letter": "Ω",
+    "greek": "ώρα, η",
+    "english": "hour"
+  },
+  {
+    "id": 1697,
+    "letter": "Ω",
+    "greek": "η ώρα είναι τέσσερις",
+    "english": "it is four o’ clock"
+  },
+  {
+    "id": 1698,
+    "letter": "Ω",
+    "greek": "η ώρα είναι τεσσερισήμισι",
+    "english": "it is half past four"
+  },
+  {
+    "id": 1699,
+    "letter": "Ω",
+    "greek": "ωραί-ος, -α, -ο [adj]",
+    "english": "nice, beautiful"
+  },
+  {
+    "id": 1700,
+    "letter": "Ω",
+    "greek": "ωραία [adv]",
+    "english": "nice/nicely"
+  },
+  {
+    "id": 1701,
+    "letter": "Ω",
+    "greek": "ωράριο, το",
+    "english": "schedule, working hours"
+  },
+  {
+    "id": 1702,
+    "letter": "Ω",
+    "greek": "ως",
+    "english": "until, till"
+  },
+  {
+    "id": 1703,
+    "letter": "Ω",
+    "greek": "ώστε",
+    "english": "in order to, so that"
+  },
+  {
+    "id": 1704,
+    "letter": "Ω",
+    "greek": "ωστόσο",
+    "english": "however"
+  }
+]
